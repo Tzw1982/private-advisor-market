@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-drupal-shopping-cart",
+  "slug": "engineering-drupal-shopping-cart",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Drupal 购物车工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "440d47a16cb51dfd30b3aaa2fb6ed6aa75c1177032dc0ec47c468fd26027b4d5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6af59ea758a5ee6fe6154caa62b46dd799211bd0c05d0c7cf05ec9039365fd87"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "72272cb95b9877f9e5f5741e48d0d981139ceaac85210c68a2ca9d04fc4bc43b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "9bfd6f7cb5b5a0bb9da35654552ca3c5de7bafa1a3f84577df686fc714ec16be"
+    }
+  ],
+  "publishedAt": 1790782496740
+}

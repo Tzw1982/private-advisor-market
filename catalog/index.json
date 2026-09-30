@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1790781039392,
+  "generatedAt": 1790782504839,
   "packages": [
+    {
+      "packageId": "org.private-advisor.engineering-drupal-shopping-cart",
+      "slug": "engineering-drupal-shopping-cart",
+      "displayName": "Drupal 购物车工程师",
+      "profession": "资深 Drupal 电商工程师",
+      "description": "资深 Drupal 电商工程师，精通 Drupal Commerce，负责商品目录管理、支付网关集成、checkout 流程设计、订单管理、税费与促销配置。",
+      "categoryId": "02-Engineering",
+      "tags": [
+        "工程部"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-drupal-shopping-cart/engineering-drupal-shopping-cart-1.0.0.expert",
+          "sha256": "440d47a16cb51dfd30b3aaa2fb6ed6aa75c1177032dc0ec47c468fd26027b4d5",
+          "publishedAt": 1790782496740
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.design-ux-researcher",
+      "slug": "design-ux-researcher",
+      "displayName": "UX 研究员",
+      "profession": "UX 研究员",
+      "description": "专精用户行为分析、可用性测试和数据驱动设计洞察的用户体验研究专家。提供可落地的研究发现，提升产品可用性和用户满意度。",
+      "categoryId": "01-ProductDesign",
+      "tags": [
+        "设计部"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-ux-researcher/design-ux-researcher-1.0.0.expert",
+          "sha256": "8b27d4c0b07ef773934d02a655f0cebf6b9c62bf95648fcafd3ce7da699b73cb",
+          "publishedAt": 1790782496720
+        }
+      ]
+    },
     {
       "packageId": "org.private-advisor.contract-review",
       "slug": "contract-review-expert",
@@ -22,6 +62,26 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/contract-review-expert/contract-review-expert-1.0.0.expert",
           "sha256": "8099dec6a56508c70c4d13d689b30134740db6090abec3a66a27061bc2b21dad",
           "publishedAt": 1790762108645
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.marketing-xiaohongshu-operator",
+      "slug": "marketing-xiaohongshu-operator",
+      "displayName": "小红书运营专家",
+      "profession": "专注小红书平台的内容运营专家",
+      "description": "专注小红书平台的内容运营专家，擅长种草笔记创作、达人合作策略、爆款内容公式、以及通过数据驱动实现品牌在小红书的高效获客和口碑建设。",
+      "categoryId": "05-MarketingGrowth",
+      "tags": [
+        "营销部"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/marketing-xiaohongshu-operator/marketing-xiaohongshu-operator-1.0.0.expert",
+          "sha256": "bd216c1be60896f17c6ddec447467f5ff83706f94323f254bbe1c2fb5628bee5",
+          "publishedAt": 1790782496761
         }
       ]
     },
@@ -114,6 +174,46 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bid-tender-expert/bid-tender-expert-1.0.0.expert",
           "sha256": "b77e1d75d9cc976965850251476d779f8c672b96585406b04c099e0864d6e6e0",
           "publishedAt": 1790762108637
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.finance-financial-forecaster",
+      "slug": "finance-financial-forecaster",
+      "displayName": "财务预测分析师",
+      "profession": "专注企业财务预测与场景建模的分析专家",
+      "description": "专注企业财务预测与场景建模的分析专家，精通收入预测、现金流管理、烧钱率分析和融资对接，帮助创业公司和成长型企业在不确定环境中做出有数据支撑的财务决策。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "金融部"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-financial-forecaster/finance-financial-forecaster-1.0.0.expert",
+          "sha256": "612f5c97c59f4a2ad8c7ef657cb7f558300bc443fcd9b34344f82f2800a05f3c",
+          "publishedAt": 1790782496751
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.chief-executive-officer",
+      "slug": "chief-executive-officer",
+      "displayName": "首席执行官（CEO）",
+      "profession": "企业最高决策者",
+      "description": "企业最高决策者，掌管战略方向、资源配置、组织节奏与对外叙事——在信息不完备时做出可逆性分级的决策，对结果负最终责任，把愿景翻译成组织能执行的优先级。",
+      "categoryId": "09-OperationsHR",
+      "tags": [
+        "公司经营部"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-executive-officer/chief-executive-officer-1.0.0.expert",
+          "sha256": "07c3c6f982597539948fb2f937913bfaacac623e56320a03d39f57f6cc86db41",
+          "publishedAt": 1790782496695
         }
       ]
     }

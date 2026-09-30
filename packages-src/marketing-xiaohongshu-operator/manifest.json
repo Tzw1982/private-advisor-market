@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-xiaohongshu-operator",
+  "slug": "marketing-xiaohongshu-operator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "小红书运营专家",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "bd216c1be60896f17c6ddec447467f5ff83706f94323f254bbe1c2fb5628bee5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "285b6f60dca3592a5c53cbc27a01be1e5f26e13245deee569c772de26513cd05"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f5684c5c814c7691088ca89b6890a46dd37d888e86ab8a869f20f2ecfcb89bd5"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "9f2112b3d27b9d6008121d2f36ecc219d7422ab2b71ab3e1cd9647e55751d14e"
+    }
+  ],
+  "publishedAt": 1790782496761
+}

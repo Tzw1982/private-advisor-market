@@ -5,6 +5,7 @@ pubspec.lock
 
 # 构建产物
 releases/
+dist/
 *.expert
 
 # 系统

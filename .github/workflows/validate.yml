@@ -1,0 +1,68 @@
+name: validate-market
+
+on:
+  pull_request:
+    paths:
+      - 'packages-src/**'
+      - 'schemas/**'
+      - 'scripts/**'
+  push:
+    branches: [main]
+    paths:
+      - 'packages-src/**'
+      - 'schemas/**'
+      - 'scripts/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      - name: 安装依赖
+        run: dart pub get
+
+      - name: 封包（回填哈希）
+        run: dart run scripts/seal.dart
+
+      - name: 校验全部专家包
+        run: dart run scripts/validate.dart
+
+      - name: 校验哈希未被遗漏
+        run: |
+          if git diff --quiet -- packages-src; then
+            echo "哈希已是最新"
+          else
+            echo "::error::packages-src 中的 manifest 哈希已过期，请在本地运行 'dart run scripts/seal.dart' 后提交"
+            git --no-pager diff --stat -- packages-src
+            exit 1
+          fi
+
+  build-index:
+    needs: validate
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      - run: dart pub get
+      - run: dart run scripts/seal.dart
+      - run: dart run scripts/build_index.dart
+
+      - name: 提交索引
+        run: |
+          git config user.name "market-bot"
+          git config user.email "market-bot@users.noreply.github.com"
+          git add catalog/index.json
+          git diff --staged --quiet || git commit -m "chore: rebuild catalog/index.json [skip ci]"
+          git push

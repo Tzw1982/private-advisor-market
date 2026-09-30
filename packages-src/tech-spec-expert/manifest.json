@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.tech-spec",
+  "slug": "tech-spec-expert",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "技术规格专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "f418e45b5d888a9bb4c19b0ab53bb6b43ddb04e3bde704c168916a32123f56f4",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "36b26a4a0f997086e92cd6799c4062fff9db14f2bdf1a9b006b3a6ead0339937"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7d476cb25be2a79c7ef0f1f552ecb52bb977eeecce35c0616d339ea64285e7dd"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "c667379e1da2bd7bb504e324ce5aa2aa103196258945baadd354b6f369790026"
+    }
+  ],
+  "publishedAt": 1790762108651
+}

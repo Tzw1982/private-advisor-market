@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Private Advisor Expert Package Manifest",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "packageId",
+    "slug",
+    "version",
+    "appVersion",
+    "displayName",
+    "categoryId",
+    "entry",
+    "sha256",
+    "capabilities",
+    "files"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "schemaVersion": { "type": "integer", "const": 1 },
+    "packageId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(\\.[a-z0-9][a-z0-9-]*)+$",
+      "description": "反向域名，全局唯一"
+    },
+    "slug": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+(-[0-9A-Za-z.-]+)?$" },
+    "appVersion": { "type": "string", "pattern": "^>=?\\s*\\d+\\.\\d+\\.\\d+" },
+    "displayName": { "type": "string", "minLength": 1, "maxLength": 40 },
+    "categoryId": {
+      "type": "string",
+      "enum": [
+        "01-ProductDesign",
+        "02-Engineering",
+        "03-GameSpatial",
+        "04-DataAI",
+        "05-MarketingGrowth",
+        "06-ContentCreative",
+        "07-SalesCommerce",
+        "08-FinanceInvestment",
+        "09-OperationsHR",
+        "10-ProjectQuality",
+        "11-SecurityCompliance",
+        "12-IndustryConsultant",
+        "13-TencentZone",
+        "14-WorldWise",
+        "15-Education"
+      ]
+    },
+    "entry": { "type": "string", "pattern": "^agents/.+\\.md$" },
+    "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "signature": { "type": "string" },
+    "signerKeyId": { "type": "string" },
+    "capabilities": {
+      "type": "object",
+      "required": ["network", "filesystem", "shell", "tools"],
+      "properties": {
+        "network": { "const": false },
+        "filesystem": { "const": false },
+        "shell": { "const": false },
+        "tools": { "const": false }
+      }
+    },
+    "files": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["path", "sha256"],
+        "properties": {
+          "path": { "type": "string" },
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+        }
+      }
+    },
+    "publishedAt": { "type": "integer" }
+  }
+}

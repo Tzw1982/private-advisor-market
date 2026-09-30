@@ -1,0 +1,12 @@
+# Dart
+.dart_tool/
+.packages
+pubspec.lock
+
+# 构建产物
+releases/
+*.expert
+
+# 系统
+.DS_Store
+Thumbs.db

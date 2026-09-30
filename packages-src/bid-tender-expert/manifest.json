@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.bid-tender",
+  "slug": "bid-tender-expert",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "招标文件解读专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b77e1d75d9cc976965850251476d779f8c672b96585406b04c099e0864d6e6e0",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f908b5628d57c1781bca779a076dfc3065117dcc1bc22ba2072703ef55ff3519"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "3f5f0ff28abfe12eabe7761ee9a8bba955a27061f5fbca2a6ce2fe2f83228b6d"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "e77ca534e641fb9d99a077e891b3220e5851e041688cadc1b2d07bdb8fb55ab3"
+    }
+  ],
+  "publishedAt": 1790762108637
+}

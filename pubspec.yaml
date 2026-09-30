@@ -1,0 +1,10 @@
+name: private_advisor_market
+description: 私人顾问团人才市场 —— 包校验与索引构建工具
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  crypto: ^3.0.3

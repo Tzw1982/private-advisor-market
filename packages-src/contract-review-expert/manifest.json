@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.contract-review",
+  "slug": "contract-review-expert",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "合同审查专家",
+  "categoryId": "11-SecurityCompliance",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "8099dec6a56508c70c4d13d689b30134740db6090abec3a66a27061bc2b21dad",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "c565407ce8ab896d1459a236de3757e8994e1e0f144cf4d3da1bc2e6d3492b35"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "620cb3f8412017e243a93f923a51118180ce8d8f6a9eec204af5c1baf090ce77"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "d0fb7fb1b5e7cf1fbe89801278759afb2d8bc0545d7443f5de47e4dfa4d6adc2"
+    }
+  ],
+  "publishedAt": 1790762108645
+}

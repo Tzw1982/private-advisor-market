@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1790762117827,
+  "packages": [
+    {
+      "packageId": "org.private-advisor.contract-review",
+      "slug": "contract-review-expert",
+      "displayName": "合同审查专家",
+      "profession": "商务合同风险审查顾问",
+      "description": "逐条审查合同条款，识别付款、违约、验收、知识产权等风险，按严重度分级并给出可直接替换的修改措辞。",
+      "categoryId": "11-SecurityCompliance",
+      "tags": [
+        "合同审查",
+        "风险条款",
+        "付款条件",
+        "违约责任"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/contract-review-expert/contract-review-expert-1.0.0.expert",
+          "sha256": "8099dec6a56508c70c4d13d689b30134740db6090abec3a66a27061bc2b21dad",
+          "publishedAt": 1790762108645
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.tech-spec",
+      "slug": "tech-spec-expert",
+      "displayName": "技术规格专家",
+      "profession": "消防车技术规格响应顾问",
+      "description": "逐条比对招标技术规格与本方产品参数，生成响应表与偏离说明，标出正偏离和必须澄清的负偏离项。",
+      "categoryId": "12-IndustryConsultant",
+      "tags": [
+        "技术规格",
+        "参数比对",
+        "偏离表",
+        "消防车"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/tech-spec-expert/tech-spec-expert-1.0.0.expert",
+          "sha256": "f418e45b5d888a9bb4c19b0ab53bb6b43ddb04e3bde704c168916a32123f56f4",
+          "publishedAt": 1790762108651
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.bid-proposal",
+      "slug": "bid-proposal-expert",
+      "displayName": "投标标书专家",
+      "profession": "标书编制与响应顾问",
+      "description": "负责标书结构搭建、逐条响应招标要求、目录与排版建议，确保不出现漏项和偏离，让评委一眼找到得分点。",
+      "categoryId": "12-IndustryConsultant",
+      "tags": [
+        "标书编制",
+        "响应表",
+        "目录结构",
+        "排版"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bid-proposal-expert/bid-proposal-expert-1.0.0.expert",
+          "sha256": "59499441957fc50d12f5d46b1bc4ad5843deac256db3a3fabc1b7f2b7b93e5fe",
+          "publishedAt": 1790762108632
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.bid-pricing",
+      "slug": "bid-pricing-expert",
+      "displayName": "报价成本专家",
+      "profession": "投标报价与成本测算顾问",
+      "description": "拆解报价构成、测算成本底线、给出不平衡报价与让利策略建议，帮你在合规前提下把价格分拿到手。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "报价策略",
+        "成本测算",
+        "价格分",
+        "让利"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bid-pricing-expert/bid-pricing-expert-1.0.0.expert",
+          "sha256": "9e153a524091aa88cf5942d0d349f9794a1dd75b1b6f9c21ae3ac81419f9cdba",
+          "publishedAt": 1790762108615
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.bid-tender",
+      "slug": "bid-tender-expert",
+      "displayName": "招标文件解读专家",
+      "profession": "政府采购与招投标顾问",
+      "description": "拆解招标文件，提取资格条件、评分办法与废标条款，输出结构化风险清单，帮你先看清牌面再动手。",
+      "categoryId": "12-IndustryConsultant",
+      "tags": [
+        "招标文件",
+        "资格条件",
+        "评分办法",
+        "废标条款"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bid-tender-expert/bid-tender-expert-1.0.0.expert",
+          "sha256": "b77e1d75d9cc976965850251476d779f8c672b96585406b04c099e0864d6e6e0",
+          "publishedAt": 1790762108637
+        }
+      ]
+    }
+  ]
+}

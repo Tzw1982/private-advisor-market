@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.game-designer",
+  "slug": "game-designer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "游戏设计师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "58aa8f17b4c46d0806bf4992ec447b3d4ce79681de4de7d167132d3488b223e0",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "59334841a7de3d1826d3eedf97d8e8f874f974db3978eed62b70f16647512ef1"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "4f7d7d44adca6e3ba3e388418decb71232ad0a0992fbb8a2a5329d369336e561"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "05b845d6d34ee499489016752fcbd7e52309edb1a8b74ffc870803290ccad4c9"
+    }
+  ],
+  "publishedAt": 1790783546305
+}

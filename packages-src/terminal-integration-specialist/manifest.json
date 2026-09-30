@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.terminal-integration-specialist",
+  "slug": "terminal-integration-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "终端集成专家",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "f99af9a556bc68b76c935f8fb2a32a67155b17e810695f4c411c407a26195083",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "65983f493cb2da9262eeca55b957aa47e64680991f45d07df14f181cb9e7d227"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "6e1ed0cc66102f07221cce47c6afab9a3bbb9a8923b3c92d23c0ca91c5e68bc8"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "ad397ef56fdbd968e0644c457e4996d030e82199e43f1e008d1bec78a218c7af"
+    }
+  ],
+  "publishedAt": 1790783549238
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-livestream-commerce-coach",
+  "slug": "marketing-livestream-commerce-coach",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "直播电商主播教练",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "7d14fe870f2897e4b190eb1cf2f8a98f301078920e0e2c68ac0f2d774ecd6a00",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d1c416b5865643ec1918ac3f36d2afd3ba81674a2d1a47b1a3060c73aaf318c6"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "275ee2c39d145ff19d70cd3f14e4f893666165240a5c467cda4780bc0f6b9613"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "d3c1a0b1c2a377013d6500984e7b966705dfb902119f9e21dd20f502a72010f5"
+    }
+  ],
+  "publishedAt": 1790783547394
+}

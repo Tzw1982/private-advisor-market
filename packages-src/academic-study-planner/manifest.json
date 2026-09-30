@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.academic-study-planner",
+  "slug": "academic-study-planner",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "学习规划师",
+  "categoryId": "15-Education",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "460b55d07a46d4b966443ae5c9ac8cf83f0bfe78e5284864fb144776361e102a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6effa0494b59f3db4fe2254edacd3ad7997ca3abfd08752fdee84300c86b8122"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "5d48cab6a3fcf4b4ff06bb86ac3c18f5232da47477bef0897b73c8cb4141ddec"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "5ff710d2b2f89b374010507b7029158d859b9c3f453dfb995a8adcedbc259ec7"
+    }
+  ],
+  "publishedAt": 1790783544661
+}

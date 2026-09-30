@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-filament-optimization-specialist",
+  "slug": "engineering-filament-optimization-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Filament 优化专家",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "22c481079d148272068e529bc481070b99bedcd76e433a23a9d4eee51f328d33",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "b37607823d2ccbf28cdc526a27d30870a8c216ecbe12a8b0353f4d190db5cf64"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "702e17248c49b339b6bef5db30499ade60bf90b2dd274d2084df36fb5fcfbaa7"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "946f9dc87463a25a51ce87550d1d5cb72f0a07998d608f402da6f8b84e2ace61"
+    }
+  ],
+  "publishedAt": 1790783545580
+}

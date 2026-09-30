@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.legal-client-intake",
+  "slug": "legal-client-intake",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "律所客户接案专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "41335a0ed29d8c5225db3ca4dcd7795049910a7526d54f314945b3b8c42d455c",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "e8b58ce6a4c8385e54bb85f97a7e4262729abbf30e566a9ebcf4a5533d674e90"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "d81d62f4972f882049728455579fe59da137b26d7ce352bdc23cee91f42876d6"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "e9cb4a8b9724dc3c39aa80dcc8997e34557ee2650d5b34f3713dbe205147afdf"
+    }
+  ],
+  "publishedAt": 1790783546800
+}

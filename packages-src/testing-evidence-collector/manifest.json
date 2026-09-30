@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.testing-evidence-collector",
+  "slug": "testing-evidence-collector",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "证据收集者",
+  "categoryId": "10-ProjectQuality",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "85b59d2343888dc725dd3446efc8b34e8fff2e0908f7a742e71265ead4b39722",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7ea60b08150bbe751a3655088c55c386288296048b2b63277fd630d68182da51"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "74e4f983454539dd589c83836304136ddfc78553166476ac0bad03c253109c3c"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "25d0638836b2b81955f30ccd0833342e7e59dcd77a2e846117b8e53d4554e166"
+    }
+  ],
+  "publishedAt": 1790783549312
+}

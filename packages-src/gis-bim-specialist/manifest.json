@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-bim-specialist",
+  "slug": "gis-bim-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "BIM/GIS 专家",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "7e079d298b325c1a30fb49b754493442fff752f1aa1c960ae3f54112bed90fad",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "38c90546ea63c29a4fbf9ffdf5ee0db0405a6ce897e46e5dc6050c6e9166f679"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "149e8a5bf20c86e0330b7a1809bb5c4d59949208fa4a3cb8733e129da2d85da0"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "67d303317df8d818ffbaf192820a6b898a92d6a9cc3a51e2890f155c26344526"
+    }
+  ],
+  "publishedAt": 1790783546367
+}

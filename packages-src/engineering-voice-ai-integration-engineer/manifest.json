@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-voice-ai-integration-engineer",
+  "slug": "engineering-voice-ai-integration-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "语音 AI 集成工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "64246b2e43788469b10b41bd3c5d20cb5f5df8e932fbd3e027ae0c65e32ca117",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1abf23895e206931d04a9c767f7fa041cfef8d739bda947205ae0bee1b761b6b"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7d62687d1c135604d6d3ebd0e8969274bd3de87a649b9e01391040f5c3a53adb"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "0f6780ac82b8db1324adcf4cbb8cab836b79dd3f8da35cfe51f28abd08e6a7c6"
+    }
+  ],
+  "publishedAt": 1790783546043
+}

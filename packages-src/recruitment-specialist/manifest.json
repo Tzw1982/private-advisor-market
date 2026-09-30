@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.recruitment-specialist",
+  "slug": "recruitment-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "人才获取专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "1d22ef75d7916254e1072ba02f9ca4a672578b47e2eb5a4642f2c4ad50fe58a6",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8f362a8a5e722c6950a4aecb31d4143835904fad09add70bb73e4759ff50a8ba"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7ca46c693d2aa0b1f95db3eb6edba1e44a47dabf57ab6a4d232a7de33ce89cba"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "bd823e9c45b0281b0d3edd94558525ce416c68da93e141f4ad06de72ff102dd8"
+    }
+  ],
+  "publishedAt": 1790783548236
+}

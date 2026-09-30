@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-baidu-seo-specialist",
+  "slug": "marketing-baidu-seo-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "百度 SEO 专家",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "56b50f28b24ebc0bb6dda58e049849b30737f183c1caddbb54b63a5aac82dcb9",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "208d258cb77abecd1c4440df3e75d453fb65485b9b5e825c7e9d901c0c906201"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "2c47c4c5170463ccc604cf9cc671156a82b14b7d2514a16499f624dd33335a0b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "b838e328e3f875ca51020ecfc7dd3ce56ca32a35fc78ee82fe62f8e22e5e5511"
+    }
+  ],
+  "publishedAt": 1790783547068
+}

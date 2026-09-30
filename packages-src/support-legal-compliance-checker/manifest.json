@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.support-legal-compliance-checker",
+  "slug": "support-legal-compliance-checker",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "法务合规员",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "217b8d5e5a574ce56ddcb3ea5236040712c5d89e10b87309654030bf82a00cd1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5be4a0fefe020c9f4a2d0ea80e957a806935df9525e6b9e17285839cdd987ab7"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "ffe89e1178ef4f9adf845fd1f2aee36b8fde97e1ac8e946505158a074956169e"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "72e764d49d41143abe02e1f567f1644a5aa46d68c56a2ee178956f8f7bbc7042"
+    }
+  ],
+  "publishedAt": 1790783549149
+}

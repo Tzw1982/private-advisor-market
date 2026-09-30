@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.automation-governance-architect",
+  "slug": "automation-governance-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "自动化治理架构师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "9df195435950fc72a8fcc8e7eecdbc794c1853f9b958437ca7b07165029dbd86",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6ac6124eb827fe2cb15c41da93c14e2e4dc50d707063c8ecbae7343051f7a36f"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f2c56f032b274e74ad512486909268f89b716cb6d89fcdccd2c68e9e2db0e90a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "94ec6971d9cc04098b952322a2968d7f5be6c99661d8518885dcd162fdfb2130"
+    }
+  ],
+  "publishedAt": 1790783544746
+}

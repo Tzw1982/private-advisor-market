@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-china-ecommerce-operator",
+  "slug": "marketing-china-ecommerce-operator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "中国电商运营专家",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "12a04bde4d57f97d658142d6ee4472683ffb49dd17c63a49633e8acb347d13dc",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a8b0cf440d57042ae9f175daea4ad73678b3da5a585d52a296965a172a326eff"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "6c6949bfeefa573ee1baf4290b74b4ce2ac0f208bd7126a363691561ad09051f"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "4303e3bbe7d123bf946052cc981cd18ca1acf50a3c23f8546183d5d1adf7f54d"
+    }
+  ],
+  "publishedAt": 1790783547145
+}

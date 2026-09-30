@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-mobile-app-builder",
+  "slug": "engineering-mobile-app-builder",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "移动应用开发者",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ec335461b85186865f5100e9e17b6f822a3ed0fe49a1df4369be79b621a04b40",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7f05eecd5aa7b083ae20221d56666529b88a76e9a1df5856eb83a32c8beb25fb"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "1c0c2c494da4b36986de7c3fab775cc7532c160d0be66d7fcd99527b1d4a04ed"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "d2c2a3a1889965940d9afe7fe0c0586c08cbfc3f390f885b737778b9a04e9a98"
+    }
+  ],
+  "publishedAt": 1790783545742
+}

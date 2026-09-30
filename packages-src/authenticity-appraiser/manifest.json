@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.authenticity-appraiser",
+  "slug": "authenticity-appraiser",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "鉴定评估师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b32b7e000083d021d92af44d9ddfab8e32e48ddcdb802ce4ca4c85ca7cb88a85",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5e77ed3ec6ac82f423e24407bc90ca6535a6db032b66fe6fcea1e48270e22834"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "75295427517905616beec2d31c7c28d8574c2f64e0db30e7815f91bcc55bd11b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "d040a91225752127a52e235bedf251695bc097122824dd91b42b91030f0718ca"
+    }
+  ],
+  "publishedAt": 1790783544738
+}

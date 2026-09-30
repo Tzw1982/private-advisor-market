@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.design-ux-architect",
+  "slug": "design-ux-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "UX 架构师",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b3783aa50091269fb45240aa0f4dc1d717c96ad232f66779d21d627d863e2eac",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8402a7d2ebce8f63540b0439bb1140ef9506c835ecfa4734a55c34cb0cbbc4fd"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "ec5a2c35a50bdd7060fb6667ef65fc4a175401030dfbe5b7941e6504ac7c4bb1"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "d67c86630c4ec749e9ed23fed8d76efefec3d51439ed9599b9ff1b91d755965c"
+    }
+  ],
+  "publishedAt": 1790783545151
+}

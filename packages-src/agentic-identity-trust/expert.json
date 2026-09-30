@@ -1,0 +1,11 @@
+{
+  "displayName": "身份信任架构师",
+  "profession": "身份信任架构师",
+  "description": "为自主运行的 AI 智能体设计身份认证和信任验证体系，确保智能体能证明自己是谁、被授权做什么、实际做了什么。",
+  "tags": [
+    "专项部"
+  ],
+  "recommendedModel": "deepseek-chat",
+  "emoji": "🔐",
+  "color": "#2d5a27"
+}

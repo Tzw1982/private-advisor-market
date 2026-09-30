@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.design-ui-designer",
+  "slug": "design-ui-designer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "UI 设计师",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "9a31dce5211aea621da7062f3b5b0d55aaa9e62dda2fe910ef215b9e58496ab2",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8b2b1bec4089d7d583f2c7c867008ff99d1bc935f3d58d937d82fb1313c415bd"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b0f21c40f2573de1132e5bbc2cb8fbb76205c1fffab0080cc2f7fc0de762102b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "04d43b7d151306f1916a2f26e39c65eadfea2e86be4a785b430afe3644fc3656"
+    }
+  ],
+  "publishedAt": 1790783545133
+}

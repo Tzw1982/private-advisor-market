@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-strategy-duel-agent",
+  "slug": "specialized-strategy-duel-agent",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "策略对决推演师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "52f305ae48e706d40b295cedef2426c15fc5eee321f0b46dc54b52a375d10224",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "76826f294db8ceb953bff19755019586e33aba0ab79b884101ec5bf2e5f3c722"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c793afb8f18ec9d08dfc029f65b11915d5313b4ebe511b6720b16f0924fb8389"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "0c37c0bf45eb9bc1c10678a14bce6cbaee3bb01f02fdac2bae56bff33c4488d9"
+    }
+  ],
+  "publishedAt": 1790783548955
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-web-gis-developer",
+  "slug": "gis-web-gis-developer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Web GIS 开发工程师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "98749da59a32a6d5a531b4d23d6eae8fef16190ce96f2ff2a30c249376fd95e3",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d2fa5aff2cad31b14b0573071006302ab129f352b0c28f4661a8364286ac9af2"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "9ac8ff5be0711f660e964cbd87ddada1cde4eaab32f2321e48dec450ec8b00e9"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "2da44d3a77d26ad47de62cbf9816967d21fd4caac9b9aba4f69a91ee5a21e894"
+    }
+  ],
+  "publishedAt": 1790783546503
+}

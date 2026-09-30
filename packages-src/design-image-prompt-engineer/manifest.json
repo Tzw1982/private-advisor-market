@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.design-image-prompt-engineer",
+  "slug": "design-image-prompt-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "图像提示词工程师",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "daa6ffef16fe3e4318e70640a9028f17593e27bf28edc7fc1168d35126a6233b",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0058aa5755dde1b3f080a2b397c277067aed508e394dbb806a76e1adc66d6193"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "01d2c2a417000558298af2bf14ed0e82e39eb82b9b76c1b31525a4a6ad58cff5"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "fa4457d001e1d3cc9df8e4c71442a6fc8ced9ef53959262fee0c5862f5c13043"
+    }
+  ],
+  "publishedAt": 1790783545082
+}

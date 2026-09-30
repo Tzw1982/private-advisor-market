@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-reddit-community-builder",
+  "slug": "marketing-reddit-community-builder",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Reddit 社区运营",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ac3830bbb584908fc195656028deed2955b09abccab74ad0a067fb65eff98c90",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "187f8ef63f90cd9e2f16e969f9f1f985260a840cf1e9203e6490131a5a8a2721"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "de83bd4c03a80d14fdf0a427d619161ced73dac2adb72d49a0ecdd2e26afcb86"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "ba2746ae65cfeb8796c8be5a20a4d23566985b9f6414c2307782431fcac585a8"
+    }
+  ],
+  "publishedAt": 1790783547491
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-content-creator",
+  "slug": "marketing-content-creator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "内容创作者",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b111461669abde66cd7521f54d4b24d969ca1ff33463d899acb09401af16c0ef",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "c05edeeebd8eb37f6b42b438403de8c0c46867638dd23567dba07ed749b8ffcf"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "dae6ec9ba41d8be61f00146f200fdb4065a5ab539844c7c40733655b690bf2df"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "31ec7ebb9be25e0322a7009f443640e2bd4967ebd4dbd3f5412ccfa1c8ca7121"
+    }
+  ],
+  "publishedAt": 1790783547175
+}

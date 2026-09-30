@@ -1,0 +1,11 @@
+{
+  "displayName": "视频提示词工程师",
+  "profession": "精通 AI 文生视频提示词的专家",
+  "description": "精通 AI 文生视频提示词的专家，用 5 段式结构把一句创意写成可直接投喂 Sora / 可灵 / Veo / Seedance / MiniMax 的电影感。",
+  "tags": [
+    "设计部"
+  ],
+  "recommendedModel": "deepseek-chat",
+  "emoji": "🎬",
+  "color": "crimson"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.project-management-experiment-tracker",
+  "slug": "project-management-experiment-tracker",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "实验追踪员",
+  "categoryId": "10-ProjectQuality",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "fed37cac2962bd16de89c3694a7fda6b38cf78cb75a1c9fcb279fe908da08b7e",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "ae5a3ef5025983ccb17ae3ea2619d94527988119f1728952fbd241f65b34322a"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f4c3805544fe76a0ef7bd7a4e159f56ed6207cbf86e293a11eb5725bd972ce30"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "52212a5f591756db0eb6b483d49a6a0cac82dfc4e35245b110371d2e05669dd5"
+    }
+  ],
+  "publishedAt": 1790783548069
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-geoai-ml-engineer",
+  "slug": "gis-geoai-ml-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "GeoAI/ML 工程师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "5df6041343d1da7eff1b16e29cb10f9f3a71d1c2e859edb99315833bec70d7a5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "129d5b4debe706be9c25c05a76e67ccc7aace4aa2b078ffa708eeb9614a16a21"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "ef89518e03ad81d0b319465c17a1234213e82e71af60f79996355b91477117fc"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "302e5fb202b79638920f4441d7d851bc459803d84a87f223c4b8edccbc8cdd43"
+    }
+  ],
+  "publishedAt": 1790783546396
+}

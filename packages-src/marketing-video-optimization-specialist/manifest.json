@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-video-optimization-specialist",
+  "slug": "marketing-video-optimization-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "视频优化专家",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "989fbd8bd420c53a96a5cbfaaf3cda04e9acad4a030afd6f9fb332442a800c37",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "bb343af4d303ea3e1a7f3a14801eff8e03ae3323ab36173d16a6b2a73077ae80"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "9cc61b9ad59dd9cbb6d05cc5ccdaf509dad0524b3e63d93f4a379f630a5a90b5"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "4e9d038c62f728de24f1fe8180e97fb5d5d0c28edd929a083b3db17b3396c2a9"
+    }
+  ],
+  "publishedAt": 1790783547616
+}

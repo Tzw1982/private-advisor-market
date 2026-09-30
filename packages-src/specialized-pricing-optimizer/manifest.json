@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-pricing-optimizer",
+  "slug": "specialized-pricing-optimizer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "动态定价策略师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "bb0254b4f079d256454c9b88b4ec764bcad680036f7dd4879aaf2fd9c79f1fa4",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "37ca27218d67138ef176aa0f6bc3ddd8fb5567239286552225870a73b757aba8"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "75d6c5d042e774f7ba0c93f67d3f734285becbb7ad26f4fc0a5fe70ceb76a1d8"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "5f559e773b338b0886000022f9919736aa4ca549ec926b56b12f2f3f806870b6"
+    }
+  ],
+  "publishedAt": 1790783548904
+}

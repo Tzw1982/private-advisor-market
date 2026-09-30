@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.xr-cockpit-interaction-specialist",
+  "slug": "xr-cockpit-interaction-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "XR 座舱交互专家",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "29b9dad58adbaa2ec226ed282b13399b4195dcc5836be5e715421a0e1ff769a6",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "78b0b4633a2d1d1b77d29c0cf39327cfbbb4bec08a766af07f8491d56ef2c876"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "e339d7edd1df6b626184849f4037f7d06eb7b753d630982a84425fd3f9ff8fc1"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "5202c50e7fbe4fc563b010404e89a952b53becfedb0e93e16411c8a138f0f876"
+    }
+  ],
+  "publishedAt": 1790783549632
+}

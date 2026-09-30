@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-model-qa",
+  "slug": "specialized-model-qa",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "模型 QA 专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "a8f207112846ef74148dd866a224c4500bc31129d82e2fe5d97bd5e6dc6759af",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "336bb969c3f197688ee17087d6c434a4ee2373cbf3bb2ea41a2a6d304d2a9a9a"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "92e76bcdf3a4fc151e4189a8c682e03f39e0444ff29fad44e90f17968deeeeb7"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "e76f7266a144ffdac339393682c29c69ea0c5aea4ac5198430b119b857867db1"
+    }
+  ],
+  "publishedAt": 1790783548868
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.finance-invoice-manager",
+  "slug": "finance-invoice-manager",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "发票管理专家",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "64c073b2de85f9c798055881590bf7f44b7d18b67f5ae0ed7afac8f69b9f333e",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "faa050b3c940e99ac100fcd1fb36810b5c5ab5e8cebf322e150de1b084cf122c"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "6df2390d037f23706bebf2ba6a9aba10c5b94c9750f0db734dea0bade896e681"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "96caa8e03e6ede0304de65f96aa8e4da19f132d6322b0089309af5ce3e3ea71f"
+    }
+  ],
+  "publishedAt": 1790783546248
+}

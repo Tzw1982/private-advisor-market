@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.hr-onboarding",
+  "slug": "hr-onboarding",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "HR 入职管理专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "0404e1541c22fa47e32166930ab9130dac47e75e59517c07d714f66248b31dc7",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "44bff7fbd633a2d257445eafab1bcaf1eafd7f8fe70f84b8e8f7c5f6e69b3bef"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "929386fe0444ae34e3cf4d462a0f0f5e9a145c05b8daa8402b2884b645770370"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "3715fe4e298ca6528345d9571f7eb0a2a6c1eb97362da70762a74d0d86133c8f"
+    }
+  ],
+  "publishedAt": 1790783546693
+}

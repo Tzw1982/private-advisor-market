@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.supply-chain-garment-factory-planning-engineer",
+  "slug": "supply-chain-garment-factory-planning-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "服装工厂规划工程师",
+  "categoryId": "07-SalesCommerce",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "6550c2b53474a993144e57ea79ac06c28a573156f80512adca7fcc09d4afcc7c",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7cceb96629ed6b861e20db610f782222f252f1c1f9987558cbf23bcfb08da7a1"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "855df196a62e177a5165ae637c758023b88f51e6d495349fd1c1d030c29a8169"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "a7957a1b827fdbd625c3f123040a40f7f64a7dae285c41483c2b7aceb2645903"
+    }
+  ],
+  "publishedAt": 1790783548998
+}

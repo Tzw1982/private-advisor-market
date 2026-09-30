@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.personal-growth-mentor",
+  "slug": "personal-growth-mentor",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "个人成长导师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "880ee0f34faf6332839f7f1975d74d946d8116e9b0e0913566efb241808086ea",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "cb50b449cf0717231cc3e3986618057375aeb1a2bb1dfae2e0368a51016a0c2a"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b4d5d09ea2e5edd64a5c23ae94838d6ea5031e31bd270cc850671f29f03e4574"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "39be4bd3a8f0cad95acb63b20c91fa24a1c179f07d9c90b6b3dbfb0ad6e73c4a"
+    }
+  ],
+  "publishedAt": 1790783547951
+}

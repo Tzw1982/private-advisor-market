@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.change-management-consultant",
+  "slug": "change-management-consultant",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "变革管理顾问",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "417f664156033bae78533a84bb0d38fea048e0f43f8b0cd1a6eda5491627e539",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0b967eb4ec8459cd681ade8bae67fa070f38896635169e4a15116c771e632200"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "2571d0051ad6883e0a147a58a218d0e80e6f9dd3dc8b12f1d99167416646e9a6"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "c5a0d7b005c5c9638e25a3d441827aaf1c10fa1266b9314bda73f1a484583823"
+    }
+  ],
+  "publishedAt": 1790783544808
+}

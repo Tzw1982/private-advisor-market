@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.chief-operating-officer",
+  "slug": "chief-operating-officer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "首席运营官（COO）",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "48ab66160c7f26476f913b1b8fe40e6fb0a49189b8a40f9030a03770f1f8a26e",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7f9f52de74b2af0c9da1165095c5b81d8cbff2480027c8b3d55cd71a60d895c9"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "4ec974492d58e95251fa0db559f3a4d0c3c18c9c9865d68ca09fc53c8eece964"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "8da8091a4573fbc2fa55147f58385cf053245928f138114c5f337f02b84c6dc8"
+    }
+  ],
+  "publishedAt": 1790783544911
+}

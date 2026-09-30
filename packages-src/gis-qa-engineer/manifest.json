@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-qa-engineer",
+  "slug": "gis-qa-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "GIS 质检工程师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "bc9b85f3e600e5b5a03f2ed5d1992b411464ea3e641b076c97bd707dc188455a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1d88e98c81da9d899c71da5b420418ec96b9b1d165aa4a31534b25196fd85b41"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "195a5990eeba428076403983d0804924e1c3b01786d0167ea010fac1bc6eb412"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "aaf04620d66327d3c6193ee7b9cd410f59cfc3c1794e38150cfb23bebd146013"
+    }
+  ],
+  "publishedAt": 1790783546424
+}

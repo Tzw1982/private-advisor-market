@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.game-audio-engineer",
+  "slug": "game-audio-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "游戏音频工程师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "3940aa89622c3efbfaa22b038982463aee34efdb1c1b512a7f385294073c8175",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "37e2b5813d0ec84dd0f1a3ec64b1456ba86360c5d6bb5ac6af51949060852e65"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c09813c72befe514ceb6ebf38f72e3038f6d1de35d57d9c1a89eb593eb1b5fe4"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "46c576df030086964ed302334ffa5e3aa8887acf3d2df35aa9d151aee34d6323"
+    }
+  ],
+  "publishedAt": 1790783546284
+}

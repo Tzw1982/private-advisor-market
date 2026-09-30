@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-daily-news-briefing",
+  "slug": "marketing-daily-news-briefing",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "新闻情报官",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "aa02197698c47a6b3f7c4d1f8ea6a30e85245684f27e554b803dcfa09a288b75",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "47a2df78d6a7dd5bdcdedc8f4cb050d655f838ed19cae73ef05c426168326c53"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f3c850003f18082260a2a61107eda17f5d158247b93ab3bfb096eb01b8dc6229"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "560822b40cf263383f496a253ac85286ec63ca41873073615cf13ced63959e40"
+    }
+  ],
+  "publishedAt": 1790783547209
+}

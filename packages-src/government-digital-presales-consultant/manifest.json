@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.government-digital-presales-consultant",
+  "slug": "government-digital-presales-consultant",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "政务数字化售前顾问",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "69991daed78d702ad9f570aee300595140415394858f3a196ce91b8220aa6b7b",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "972dfb59c1df9b6d08d546b6b4d132d275b627a8ffda67948d2c1f8bc666e519"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "2c03d1c50369b091d4c3f0d999e1e4fd5695761b0126ca3dcf57085b299c830a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "545afd871957525377ced2e5973ba00f5f18117f6f1109405f5acb734341afd8"
+    }
+  ],
+  "publishedAt": 1790783546586
+}

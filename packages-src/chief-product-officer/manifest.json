@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.chief-product-officer",
+  "slug": "chief-product-officer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "首席产品官（CPO）",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "8d245a34fab8fa7317ea77e94e926cbf6bc6dafc5a839cce8b5fb969dfa3a47b",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "3be6c25288fdde0695b080306c19dc166fb132632ba65cf81059d0d693a9223f"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "cb1dbc1e5c615bc112bcee962083ef25940b9b659fbea2b06e8a66ed240329b5"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "dfe26fe663429d94a86cddef3076d6f2bc29da0e00317b6db9e867abc13dffa8"
+    }
+  ],
+  "publishedAt": 1790783544935
+}

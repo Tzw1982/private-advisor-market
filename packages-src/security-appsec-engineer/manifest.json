@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.security-appsec-engineer",
+  "slug": "security-appsec-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "应用安全工程师",
+  "categoryId": "11-SecurityCompliance",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "8653690c26141b55f10f140b03c8d3586fc6d9afd42a7b70a2e7929411fbc752",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0c77e5cd855b7322ed3b165f3c52eb9fc8b3e02c77c55cb7015eec07806412a5"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "85a1ad4131c366c3b8a8e785f557846525d602ab081fcca9d41e15fd6926e3eb"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "886234396c5857c5f20a408ca0a117b7fe369130f4083e966e2dd789ca2ee005"
+    }
+  ],
+  "publishedAt": 1790783548525
+}

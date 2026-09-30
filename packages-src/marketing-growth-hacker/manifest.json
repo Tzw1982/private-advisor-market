@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-growth-hacker",
+  "slug": "marketing-growth-hacker",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "增长黑客",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b15638f7cc960bcd252c0809d24f23f229025fe5cc4d829fdf170b4107e7d780",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "3e590c0460d47da4bcb71f9b7a4017ddb387eac5e2574144008f741b517a186d"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "35ddb832a54dbdf0b1e270d2c48931c8e6732a909aacce4433905b8f2d1eac84"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "a06534781768107d815cd62f0e1bdc35b4c223030839c14a51b464033a4f3273"
+    }
+  ],
+  "publishedAt": 1790783547311
+}

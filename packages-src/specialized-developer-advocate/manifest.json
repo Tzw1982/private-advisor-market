@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-developer-advocate",
+  "slug": "specialized-developer-advocate",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "开发者布道师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "f08ca727dbd3f4df52f5240580f437cf35d8740bafeaecd5cb3ccde604b324e5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "33ed3a8f091e7c8abab47818d87ee789460ca6bdbd2223d3c23ab3a515cbd06b"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c37da8a4ecf946efae18a1fe0c042d0ca82e297ab71f7016bbfefd61f6f913a9"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "5992e3c46489fad5838f407f301c3debb9ec309ab0328eebefab6c89d8cc4818"
+    }
+  ],
+  "publishedAt": 1790783548764
+}

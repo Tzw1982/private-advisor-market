@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-multi-agent-systems-architect",
+  "slug": "engineering-multi-agent-systems-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "多智能体系统架构师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b06a312cdf822276f0351abafeb305d28842f5ca234e8cb3a8574fa3af9790bb",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0479184420a57ccb419ee53cca6381d147d0494db55b4f7abdbdae5c13446422"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b38da130dbce1e202584032f58e95466eba7799982b3036bc89b1eee1a4a1bfd"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "ae6ed3a341d01eec5b2cf392668e4e530226613b5bf06b92c138cca07a4f6dfb"
+    }
+  ],
+  "publishedAt": 1790783545760
+}

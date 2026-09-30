@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.roblox-experience-designer",
+  "slug": "roblox-experience-designer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Roblox 体验设计师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "e3728e53df06458b48b623c40d0938efd642c43ccc486abf30d302b2320af787",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "9e9b1f7ce1116e2268172a3707a612975b6df766364508012174b78ff1d019d2"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "39cb2db7eea41e1eff3b558cebdc2463ea7464c08ae8fb3a38bf23727fd5fb1f"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "4fbedc7ff83457712f0186935ddebfacf93c7b7961197f3d53647b96eba42497"
+    }
+  ],
+  "publishedAt": 1790783548298
+}

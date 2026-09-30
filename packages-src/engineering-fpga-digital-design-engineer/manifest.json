@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-fpga-digital-design-engineer",
+  "slug": "engineering-fpga-digital-design-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "FPGA/ASIC 数字设计工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "42017e9521deb2c80765eb56052026bfdb2bd6ae7509ba847f3ad99e19ed6794",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "03f34c023b93277b3609f0e3557fdd2f5891a2134af9a48a204f7d6650ceba5f"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "e1aa7a1d75e3dcf8486bbc14d3e9020bd6a22fcaab0dc592faf9932fee7b8cdc"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "50a4a38e85ea1f12d2aef3cc44f7e83dc794c79083ce172479491a77427a9b36"
+    }
+  ],
+  "publishedAt": 1790783545602
+}

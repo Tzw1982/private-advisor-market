@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.design-whimsy-injector",
+  "slug": "design-whimsy-injector",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "趣味注入师",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "c9210dd8f5211b3db8199b30d86d7ee2e7827be66a8ebb0f8942684c71bb1f61",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1b6a0733accff0b7d028d664a5931b36c0bc343416b9469e747f8dbad7537c13"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "8f4c8e1a4adb4b3b645ba891f2a025cdfce3d6aac3b3fcd596566247b45a04fd"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "33c4bf0ccd835900d31918be5043da00d7d5cabd1f33ff8e8b1f7ce11de71e61"
+    }
+  ],
+  "publishedAt": 1790783545229
+}

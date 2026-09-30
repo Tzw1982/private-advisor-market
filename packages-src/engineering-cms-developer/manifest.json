@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-cms-developer",
+  "slug": "engineering-cms-developer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "CMS 开发者",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "4b658fb5ed7565ec3efe56aea83e717b29d06059c3602115705d36711819efb3",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "ac85a4c6d14781b0b288701118bda28095c6e77b65e28a9c844c374b80774132"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "a76e957db623dbcbc88bc5c73d303f3e18c6d3c6e34710ba2952ee26428a3772"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "81bf17b2fe2e4d9718c38b97bf707f0ad7f37584ecad17adb8cca943d146bafd"
+    }
+  ],
+  "publishedAt": 1790783545327
+}

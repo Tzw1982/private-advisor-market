@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-email-intelligence-engineer",
+  "slug": "engineering-email-intelligence-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "邮件智能工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "8cc5ba2c3d5de0008837785540bf72694ada3b36cb6b26aa575d8a8d7ac1811e",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d455a3785c9cca08f84e830600b98f0757f64be8588d38d4fd84a0abf95ab8e9"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "ce80cd01b79ee04af2eeb0b0e3d34b069738fd3450cb2c12328b55c026a17ab1"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "bb7d8beea6ee4cae414236a81b431432e1750ea3561690a69a324c21de480b83"
+    }
+  ],
+  "publishedAt": 1790783545489
+}

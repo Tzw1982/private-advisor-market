@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.testing-api-tester",
+  "slug": "testing-api-tester",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "API 测试员",
+  "categoryId": "10-ProjectQuality",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "f9c1bdf2a85082a6162c736adff628601234bd04fd1eb1e44b94e688e54e3a3c",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a757e0bdeb05f863b78f7135a2272c737b635b993fac1a66a7bea790d6315a50"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "fd2b5d942439cf6eeff1f5972ccb7a48cc0dc753ac55f509e7134c305ef8a01b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "2f94ff7018af809210e520386ce6d4b490b5cc583a29985a34f43a5a42fbe2e9"
+    }
+  ],
+  "publishedAt": 1790783549280
+}

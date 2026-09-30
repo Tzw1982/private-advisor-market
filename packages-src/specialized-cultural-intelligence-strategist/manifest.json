@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-cultural-intelligence-strategist",
+  "slug": "specialized-cultural-intelligence-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "文化智能策略师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b4c90b83db72fb0f62262e3ed35d9f9b63a0b4df3c90872dadcf668c7117bf7e",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8bedbfda0798cf9edbc881c4f352e913b45e1b82091fea8d90a08d6531f66d78"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "1da4cf885452e390169ffaf31b1acf1b692b83b1f4d94566b30984cefbf6dd1f"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "02130bee0bf71fd04338a6fc27ad5f5ced397dcde21f4eb6678f34adfb74c0b0"
+    }
+  ],
+  "publishedAt": 1790783548746
+}

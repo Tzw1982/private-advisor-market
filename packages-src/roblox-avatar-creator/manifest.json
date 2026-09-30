@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.roblox-avatar-creator",
+  "slug": "roblox-avatar-creator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Roblox 虚拟形象创作者",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "4bbab21d3935d2dfec8d5107527019bc61895cc686aed1badab623caec8a4578",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "2565eac3bd2688a3b1d5e6e5bdcd8b6456efd2dcd5d9402c743744faccf2fae7"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "4be50bcebcdbb0bf6dace2515063ca0572da902ab4fe7526bfafe38e07f8a20b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "6ab2408cf74859978a17f5a3d21ac1f62b2be80386f7b2cdbe263b4a7377ea9f"
+    }
+  ],
+  "publishedAt": 1790783548285
+}

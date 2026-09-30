@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.legal-billing-time-tracking",
+  "slug": "legal-billing-time-tracking",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "律所计费与工时专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "cdd941516ba778c5891ffc9654545bd5eefd3f14ac862cfdb93af094108f011d",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "102130630a69feacf3f4951c2641f55d52ac18fe20d35dbb47cfe004196e9d0d"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7429c0664efb82c7806d01a0119575a147a58d0b2c65c1f52568715626de57a0"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "fbddd75446bdaaa49e54788af3da48d539d31991218c18a96a7de90be3ad66ba"
+    }
+  ],
+  "publishedAt": 1790783546780
+}

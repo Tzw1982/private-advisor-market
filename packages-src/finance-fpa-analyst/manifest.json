@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.finance-fpa-analyst",
+  "slug": "finance-fpa-analyst",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "FP&A 分析师",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ea788784eb6710dc0c2f09f3656eda99f753e4cc4edb61f83a4a512826e72790",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6f40b4addddcbc467f49f582ac42cae265ae8022645db391df333104d493dd56"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c4feedc3e115eafcb8045651b70d870c449439d209a67f308b9d552edc4c3062"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "37f316f9c1fde830f7f36e3183826bc387bc6d2dfa35190d95da565ea44d8de6"
+    }
+  ],
+  "publishedAt": 1790783546161
+}

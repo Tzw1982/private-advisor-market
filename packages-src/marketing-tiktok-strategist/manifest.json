@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-tiktok-strategist",
+  "slug": "marketing-tiktok-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "TikTok 策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "c212266e35af1c166a5706a2f349250a366de2b34c7262b9b8f0d7a7ece1dd22",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "ce98f7692e2be7f0cf8e5ba7902610c306c4a6027264ff729b27ae6fea567386"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "1c8e8a99ca26137498e0ffb8eeb043065f27fbcce49cc03600e221726b5d2cfe"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "0900e6d4e27f6c95d93b276f0e19f34e2469fa5eb309f276fff8243e8e0ae03e"
+    }
+  ],
+  "publishedAt": 1790783547583
+}

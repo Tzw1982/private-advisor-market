@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-document-generator",
+  "slug": "specialized-document-generator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "文档生成器",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "0a58bb6de0af576102873dcdf28bdc336e98be730018ad6a1a385290444b248a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "02ee55275960d2e318ecb6f93754651eead66cffe9fed87d5cf11dd7c7cf1bad"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "fb57b5ff8c049b7612ddbc504849c5d1ae37e120519ff8587bb0e5727c4e4572"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "7ac78a30a11f118b5636f67f27c43b4f0db65e30167e170c46fadb5fc14e2c20"
+    }
+  ],
+  "publishedAt": 1790783548784
+}

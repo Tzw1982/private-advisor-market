@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.livestock-archive-auditor",
+  "slug": "livestock-archive-auditor",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "养殖档案核对员",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "288aaf8e02759e6ab3cf444dfaeba908c27581feed4b3e94f4767f63b6bd82b0",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a43b069b4d5e7396555b23d6d6773916aa606d3065f355140f44c2fb8f9cf30e"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f3568ed466e2444c8f79ae1ec106ef0ba43469a25b128aba3c23946fb0d133a5"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f533438fb4bfa57af8e5d155a415e8ed4e6bf23b7f07c13e70497eb8a37a2e06"
+    }
+  ],
+  "publishedAt": 1790783546903
+}

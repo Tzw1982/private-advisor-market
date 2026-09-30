@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-seo-specialist",
+  "slug": "marketing-seo-specialist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "SEO 与自然搜索增长专家",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "e0a31c689b564a905d6ec822b6d70a4007c92a3fd668f132478c10eadecdb971",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "af2434d8c9fd92bfe99b329e1bd33be58ee7f268251ebbcb7b08a53de85b59da"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "e1c367b3173e6b3604bcde2c4d2911567851da0d5f4f1e4dfa7bca85262ce394"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "43ce53033fc6b97278382861c9d53a567a1d16186eb8930828cbce5a0f8b5ed4"
+    }
+  ],
+  "publishedAt": 1790783547531
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-zhihu-strategist",
+  "slug": "marketing-zhihu-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "知乎策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "cfe5d90cd61e723ccc3dd872cb5314d3203b186cafd90b397eceac72dc331f70",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "9de12fb14d3c26f18277ebdabbadc59a61579613d2e6f0eb733803ccc232a077"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "a7947f789d98e7eaa2d379f4b6e39790048d539a345907baa7f206b7f9577df6"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "b69b6f69e187276b4883923d83c1079d8090d24ec9d3b711b11259ec44e5a163"
+    }
+  ],
+  "publishedAt": 1790783547764
+}

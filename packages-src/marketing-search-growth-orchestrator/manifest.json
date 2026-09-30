@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-search-growth-orchestrator",
+  "slug": "marketing-search-growth-orchestrator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "搜索增长编排器",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "d5af9e0044a3419a78984e53cda7bd01301ccb8acfe00cd81f69f97c9158c652",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "15d85ce1da1580c3674b841b462cf42c6da2a42d097438bad64203c1260ac2b1"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "97c5177592e4ff6ef03c7b6b83b75ebd5df6919c87e63a140454bf7908298254"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "9ccf3d23a7aa55e7693a702245e29a89853d75243671fe6796c747956c9215b7"
+    }
+  ],
+  "publishedAt": 1790783547514
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-aeo-foundations",
+  "slug": "marketing-aeo-foundations",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "AEO 基础架构师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "16532bcc041489e135ed6c85edb061d283993531708fb1aa0df4dc345287038e",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "11d695ace929ac5c55e5403e03e2f11383e7a09c1c642d625e0a38b7d2044479"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "1054a4b738c0aac1b7ff8ce22e6675b9f75508df156d046e614c15b71b5a31f3"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "2d2c7f4ac86a99a2a962fbf39d5d6d1bbe239ecc7053dff37962b766823365f7"
+    }
+  ],
+  "publishedAt": 1790783546996
+}

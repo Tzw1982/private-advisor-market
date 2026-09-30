@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.design-visual-storyteller",
+  "slug": "design-visual-storyteller",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "视觉叙事师",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "a5d2f77b623fa0149a8be170fcae1540d20c110adf91fe2e983854e233ebe6a6",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "bb16f65f18f5e31974a27e8429f29f524db678c2cd22cf4d943708617230d726"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "069f52817fb6b462e8202e350f05307bc41649fc60660a062b8b1c40d2eba9fe"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "84389dba53d73157d5fb185c17aa744e2a7c6c1a3de19c9f61fb2c15fe9d6cf4"
+    }
+  ],
+  "publishedAt": 1790783545209
+}

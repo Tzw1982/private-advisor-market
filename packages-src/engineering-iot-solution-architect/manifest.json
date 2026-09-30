@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-iot-solution-architect",
+  "slug": "engineering-iot-solution-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "IoT 方案架构师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "7dba7aebf5ea94be43d1a442b5ea4aeb1bdc0a647fa59353b29c383ff9703388",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8fe8ca4ab5e56ed90ed6fe11ba922bdb11bd764e39448ea04900e2f8f2a1cf86"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b75bf8dbf24bb9985f6cf9f10049cfe2cf18cb485a9567dd52e1e0d2e37eaa61"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "22585aa11d982dcd534793ebb87bf88a3614560dfbfc536b966d147ecfcf1da2"
+    }
+  ],
+  "publishedAt": 1790783545668
+}

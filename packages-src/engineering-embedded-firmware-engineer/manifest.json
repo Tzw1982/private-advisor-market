@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-embedded-firmware-engineer",
+  "slug": "engineering-embedded-firmware-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "嵌入式固件工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "3411b13012ff32a86d76947c2456cce9ae1e56c0f1cbf60bd9971313af659a8b",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "3d8d086ab6f9ce30760702297dd2799fd143ee56165678c4e96be77981e8810c"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "0d8f92144d028315319b7d4de5336fc67c394dd109158f71ca2ff9cc84d9a44f"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "92af138c27e9383598ba84747d6259016480a0000ad70e90a317e1b36bd60db6"
+    }
+  ],
+  "publishedAt": 1790783545510
+}

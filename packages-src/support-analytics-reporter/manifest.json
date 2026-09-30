@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.support-analytics-reporter",
+  "slug": "support-analytics-reporter",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "数据分析师",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "40f3dcbbb6c9dd48e91a8cbf190e3e033c0365caae40e6ea01cccc744d7b8cc4",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "490fffc860abfd75d449d3b18f35307afe55b9ce7c9353b62e9e6f4d7f5014f4"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "001aa9cad2d5e227aa8a7182024fb5d3b4e0b49ef4778a0463ae8e0e273ace41"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "59135d8fba4c9f2f8ed3ca964207632d50636ed7ab8b2158d9fcf26147d27439"
+    }
+  ],
+  "publishedAt": 1790783549083
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.customer-success-manager",
+  "slug": "customer-success-manager",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "客户成功经理",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "bc55528280986e7951da9113befc3581e426b31bebd67fed0d9bcaff78b4e77a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "fe44ee6b447c6d4a7256fa185e9e6d79efa8ca048a79864548ae7747bf18b993"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "98272726237df09aff72e8f241e9142e986396a5f751cb8c6056e20276ac856b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "89302a82a85984b7f5f4e1be99b74bc686fc2b01a0d6d411c8d39f81763c870a"
+    }
+  ],
+  "publishedAt": 1790783544997
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.finance-hk-stock-compliance-reviewer",
+  "slug": "finance-hk-stock-compliance-reviewer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "香港股市合规审查专家",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "47df264fe3476b5b1b0bbdc05fd738a274108c28930609b35ee9f5e1de4d2d15",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "69a32f40bd71aa39b3beae12098d8af6d003ed8b5c670e8221e61fb14b9c1624"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "de674647f21415628a2c18f7379e9cca97ecbed8491bab1b4e0cd078af1edd2a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "41083297f2697499c79408d1890be9c167bf53b574e4ce9a35e56c0fe83d14b2"
+    }
+  ],
+  "publishedAt": 1790783546200
+}

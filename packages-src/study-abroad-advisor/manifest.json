@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.study-abroad-advisor",
+  "slug": "study-abroad-advisor",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "留学规划顾问",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "18a9fe4f126667e39fadc998db696bf1d469d17f79f42c7d9d35d96dd0b90517",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7f9d2eaef707a41fc052605492899f9b8e582a3dc384bb4c95e5d9b557ce9464"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "44441696addece58ef3d0e31f346a137ebddd91e2ce7f29c23a990ce80ccf107"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "1749f140be09848ae538ae531160eb37b5f41afca2e2e010b6d8805a0400ca65"
+    }
+  ],
+  "publishedAt": 1790783548986
+}

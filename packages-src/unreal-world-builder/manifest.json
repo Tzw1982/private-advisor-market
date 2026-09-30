@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.unreal-world-builder",
+  "slug": "unreal-world-builder",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Unreal 世界构建师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "7310e22029a4856f04644cb3348ee8d280c84cc8ae604afbd1675b6e9991c5c1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "c7bd264388bc6d1bf64c7ddebf93f9d06fcafea43e3f18ac4710741457d04d24"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "ef993de0192404dc1f4b7fff9be7175260cb9770cecc67c28e842f247617bc4d"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "8d224cb43219b5e30b57b14548ade49e9f5f2749ae2f0dbe4b0e96c57c8efe82"
+    }
+  ],
+  "publishedAt": 1790783549591
+}

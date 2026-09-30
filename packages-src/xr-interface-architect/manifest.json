@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.xr-interface-architect",
+  "slug": "xr-interface-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "XR 界面架构师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "4bbad6b86d7e85c13c1f9accfdd95c51eb0adc73965ff8f36632b7a432c2fe59",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "955f35dcf3b0c773a77c98523d965314d79446f5be1bbc83423e01767f9c74d7"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "56bf94a553157b33f8eb7b69f1cb389d0bf6019239fc07ca478c2911c5a46db5"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "8361172cf33955d0727292ea0f7450cecc9be79a28ed2b486517c70e34635777"
+    }
+  ],
+  "publishedAt": 1790783549680
+}

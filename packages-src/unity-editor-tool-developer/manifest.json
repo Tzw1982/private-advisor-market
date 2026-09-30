@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.unity-editor-tool-developer",
+  "slug": "unity-editor-tool-developer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Unity 编辑器工具开发者",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "dd6f7ce9007a8a8a4e22e2b78e1b724fbf39f301ba0e5b6f3db4f2389e4f40eb",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "b9d3c1ca9fa9a8da18aec302d1b2aec6262f5ed068ce3a958b6baef0fdbc456d"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b4abebab0fac23b127ce91c3ee33112cdb714b81ca0a8ae2cccf09fee2810406"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "c5cc5d0b6b3f0795fa9d49ab18d30a5945560ee6e8179a1a44262dab414d755e"
+    }
+  ],
+  "publishedAt": 1790783549472
+}

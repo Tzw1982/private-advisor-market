@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-linkedin-content-creator",
+  "slug": "marketing-linkedin-content-creator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "LinkedIn 内容创作专家",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "bdc8aaba7197e25a8d12e1b909556d383f98912a761dcc5e919c84e28ca74ed8",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0c5d2620a599db1e54baf75e54f68a4d17e9e089d1005e751638db66f749ab20"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "5d0177803723370f72dbe3868e68503abb1da3f57ef4c992e41f2ed5fda15bb1"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "b241209d4af46d6573f1c7ad5f9ac7a9d1292a128fe1973f38d6e061c09e58f3"
+    }
+  ],
+  "publishedAt": 1790783547372
+}

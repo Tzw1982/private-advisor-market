@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-ecommerce-operator",
+  "slug": "marketing-ecommerce-operator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "电商运营师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b9f4b5524618bad61a23bf1a774c938211abf6e33618bd79c762c6966fd40036",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0ecf30502496c7993c6af16a306421ebb46f88a1609a71eaa7608e3e3e367042"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "84bc36ac0b56931b6a630b3918df09e10bed8be45a6474dfbbd40c5694170507"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "1aa8c9cdb96a76d37d277f4c95a229ac3c19fb926d52e661a582a106194d37bc"
+    }
+  ],
+  "publishedAt": 1790783547251
+}

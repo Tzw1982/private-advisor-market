@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-cartography-designer",
+  "slug": "gis-cartography-designer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "地图制图设计师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "04ee66fc1da7db9701b7f9fe124c375c9ff94cd1a6d7c37cf0a5ce3d61b7975a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "2f8fc355590728593920117302c83c7a4eb7fe103270d6424ce86e2fd428ca9c"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "76b95f22c08a36b8a054186e3e7d59ccccfb97985e094ebbc4576094e23b2e6c"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "ffeb05298909fbf5f6c1a070af41008de87936df695b58936260bd366f3b6cb9"
+    }
+  ],
+  "publishedAt": 1790783546377
+}

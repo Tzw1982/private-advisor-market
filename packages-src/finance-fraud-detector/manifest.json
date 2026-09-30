@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.finance-fraud-detector",
+  "slug": "finance-fraud-detector",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "金融风控分析师",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "2266e2729a3b15554de9bac64055c55981a14e74f25bbecad7c9c39ddfb2c3a2",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5b976ec3871191bd8ec33dd8b54ca096191d97bb15d742aae764c0dba9ad9d36"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "e6caca84548507535b3ae505599f4ed834c5a0151d7cebde2eae042608682c8c"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "dc69bb9d74f08c564c6af636825a9e4ea7faa0e652dbd6b7629182f6f288a039"
+    }
+  ],
+  "publishedAt": 1790783546177
+}

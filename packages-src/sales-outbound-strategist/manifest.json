@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.sales-outbound-strategist",
+  "slug": "sales-outbound-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Outbound 策略师",
+  "categoryId": "07-SalesCommerce",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "54ee54f84bc135ded9015ba692ff123594e2d50656f7399c8aa1ac5db6c1d854",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "9861d43d37a19e570fa664400b9eceab25dfe7f1f156024af4215923254146bc"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "5a0e58b4d193d1f9e0ddb024fb501ec8420f621f36138ffd7c89015d2e4a2d12"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "0a4e722b761de6ee7cbe2be81a5cda8d1e295c38bf7dce1f85527d73416241b5"
+    }
+  ],
+  "publishedAt": 1790783548473
+}

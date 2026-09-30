@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.academic-narratologist",
+  "slug": "academic-narratologist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "叙事学家",
+  "categoryId": "15-Education",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "a6448d47f14749a832e15f8cd250706eddb0b1ba71f4efb9ff0e8729d001343d",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "feda364926d9a1ddaef64648990b7e6bebb44e11126e17aa36a746aecc4c0bf4"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c8b62e8ef009b5909000119c1f81c69605e91555e15effab716f3da7e16105ff"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f0fd4b8052cb00af8d17a996d080eb5e5d3e57c1c1dbca98cc6b3868096b2f0f"
+    }
+  ],
+  "publishedAt": 1790783544624
+}

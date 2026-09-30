@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-dingtalk-integration-developer",
+  "slug": "engineering-dingtalk-integration-developer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "钉钉集成开发工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "dcd7d41868beea9aaf3ab280f3fa30c409d06ef93780475d4c4b9f29d60c99d4",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "387dae0efdde9bb8620878a34b356f8881e465e52d142b57f72b894f6edbd104"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "5fb72bb9e152d4f63b88fae4711f25f89dcbec83584c20ee75e3fe7c2a0d2533"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "1328092cfb5031418052f29f9744eb5dbc35bed4f2e4716001334a07bb6e1d62"
+    }
+  ],
+  "publishedAt": 1790783545439
+}

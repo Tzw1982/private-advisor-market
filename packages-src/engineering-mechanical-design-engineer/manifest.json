@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-mechanical-design-engineer",
+  "slug": "engineering-mechanical-design-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "机械设计工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "abf5edcd40ffcec13294cfd5d91747a0ff59623caecea84042e1eccca6bec2e1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7a2bbf6b9533f214376c4107386a9a2c9a61d6d715cde7c4c0eb7e47ea255b0e"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7ab8196e6d766701afa6c3c57459761064aa8d843d0d8df33f9f7d179a1d3545"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "ac7054e4d9180443bb1e95becaab9d471a20931beaa95e76da2a18145333db97"
+    }
+  ],
+  "publishedAt": 1790783545710
+}

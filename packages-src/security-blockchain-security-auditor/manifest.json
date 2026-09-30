@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.security-blockchain-security-auditor",
+  "slug": "security-blockchain-security-auditor",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "区块链安全审计师",
+  "categoryId": "11-SecurityCompliance",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "c24266053218a1dab7a83dd868489c0d463ae3611ad42078286b1038189445e2",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "724539be67494bb5e726bfb5999220c1a70424885766770ce5fba1bedb800f7f"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "23afcc2a81e335ce1d684ccf81fd9a06e4726b852a897ff16f099601700cd07b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "8355236a32c7e7ee09c6541b92c8022b649835c082bc3ca63297fe93702bb509"
+    }
+  ],
+  "publishedAt": 1790783548559
+}

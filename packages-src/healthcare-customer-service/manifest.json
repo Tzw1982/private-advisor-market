@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.healthcare-customer-service",
+  "slug": "healthcare-customer-service",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "医疗客服专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "78d080c1a590345f18f1dab90cddd4cc08c07a3cf1456f3833864de379d72da0",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "4821f100d6a18fe638b55ed2a57ccd70a4def97b481f511d794e9b164cf10abe"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "9ef6275a4a16933c786bcd66f93c9e8d0158f7edbf4c4c1b5145249f433bcba4"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f2112a1c5bfccc74396abe8be0444d6c9290861c48097dd1c2e265251fc46e33"
+    }
+  ],
+  "publishedAt": 1790783546628
+}

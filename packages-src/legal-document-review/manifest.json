@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.legal-document-review",
+  "slug": "legal-document-review",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "法律文书审查专家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "92f6112be192284bb008e984b17d5f9e5280bdf9ae276ec96164300bbf172300",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "bb6b224249dc5e5719d04e6636c3cb68e93e373d60d7ec5bf734121157e10cc3"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "a780fff4eb724ae475fda4db8269e7b7c6fd1e29490196a196c0f3636e5dbe4e"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "3b26f7fba92355e3e9c45e7e61a2bca2cba51f348a3b152e3613fd5117acccf9"
+    }
+  ],
+  "publishedAt": 1790783546838
+}

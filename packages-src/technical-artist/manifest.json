@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.technical-artist",
+  "slug": "technical-artist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "技术美术",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "8f802873ed3198f5c73ec9a95c4bce06300132762559080b2983a9b49d9c9631",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "56b9e96e50bfb56df5b962872a09576868a5bb33863062a6a8e4321c29b8e9a7"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "1de11a8ec44233d80a2e082f6f3fa9b6ae064f8371f17e58bd83772d820e8385"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f4d10fb0aace8fc5509b062335f88a731b8adba4f6878afabbf831444ab39c6a"
+    }
+  ],
+  "publishedAt": 1790783549205
+}

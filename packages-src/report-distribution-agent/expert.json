@@ -1,0 +1,11 @@
+{
+  "displayName": "报告分发师",
+  "profession": "报告分发师",
+  "description": "自动把整合好的销售报告按区域分发给对应的销售代表，支持定时和手动触发。",
+  "tags": [
+    "专项部"
+  ],
+  "recommendedModel": "deepseek-chat",
+  "emoji": "📤",
+  "color": "#d69e2e"
+}

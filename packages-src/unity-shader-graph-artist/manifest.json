@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.unity-shader-graph-artist",
+  "slug": "unity-shader-graph-artist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Unity Shader Graph 美术师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "0480a470b9abbc08f8994b9d9af984372f0bbeb2282576121917520ac8767378",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f46ecc89e754a97293b4f1b41df971c82cc0d825e1c718fdd9c1254d9fb9dfb9"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b64e7e369989080b1e40c5f17b35884ced39eb2eaac30b59d16cb7b6568d334c"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "e7b0db5a9052aef115f254456bdddf01cd623738cb1272358d4e5d9ed7987e20"
+    }
+  ],
+  "publishedAt": 1790783549513
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.product-manager",
+  "slug": "product-manager",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "产品经理（PM）",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "48d5b8d5eaefd0a446b2eb20b2af589fb7af889953727bbefa71c840a0901ebe",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0721e2e4b50c9520b54b3236e45264de1accd52e7271a2a5fe8ecaa0b169df61"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f677b921e7041c701735930be3b204ed9e820ac081e5162508d161f6b519fc9c"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "a62d7f7c449d55c9fb03dcdbb1b4136a0a1f316664d0073131d51b78592488cd"
+    }
+  ],
+  "publishedAt": 1790783548009
+}

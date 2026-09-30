@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-feishu-integration-developer",
+  "slug": "engineering-feishu-integration-developer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "飞书集成开发工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "6f4ac3ac88edad2b52ec195ba261a8315b8908111166d38f8ab9314a03e095b6",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1fa0e60cb4b9990f7f79644c164cf9a6e10ad15b473e4c8f728ae219cd2d4200"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "8437b457822c84794dd109a417a38f914124c62ae27325065f11633b8cd62e2b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f0e293b1d38d367f50c9066541ed7e7f6e1364dec43538015aeddf87f5f7d210"
+    }
+  ],
+  "publishedAt": 1790783545562
+}

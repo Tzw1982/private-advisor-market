@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.business-strategist",
+  "slug": "business-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "商业战略家",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "52915122404283b7779513b979f3b27d9dca51ccc2751d64c2ec64553368e1a9",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "02a136419f08edfd485ffd5e19935f40ce6f30b4fa754ac9b8a6d50be5614ccf"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "d4f26042351a101c88e8940974f47f179f41a0bbf0c18efa5d06fa67e83a9fd8"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "cba582e8912f2b4705efa421d72066d4f2308482d546516b917784a7701860f7"
+    }
+  ],
+  "publishedAt": 1790783544789
+}

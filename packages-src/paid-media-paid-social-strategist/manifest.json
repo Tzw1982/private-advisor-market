@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.paid-media-paid-social-strategist",
+  "slug": "paid-media-paid-social-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "社交广告策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "69f8b0a4a4737c61acc6274c6354827125619d713ece20a2e85af8ecbb72057d",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "89a5c88f468f4af9bf578f113cada0df330a09153a5f1c75843d0a75583b1da7"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "fa4d87ebb3bf48014a22c3374998823213890b1e6bd8a1577ed51c2abb4d1e6f"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "8bbcceb4980e99a7a59c5f8add46a353f88ae622d1b6c5fdedff22abca19f49c"
+    }
+  ],
+  "publishedAt": 1790783547877
+}

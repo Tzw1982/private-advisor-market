@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.support-infrastructure-maintainer",
+  "slug": "support-infrastructure-maintainer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "基础设施运维师",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "19526ed581fa2078c9869fdc550f847b689707680c122692790dc64bce04db5e",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "e5e53c50d2b90184d9cf9c684a63aa132ffc737fc07272de02bdb8445a8552ba"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "0462b16a0c68eb6c7321e8f99c1d3a226730012bec6371e2cecda3c349a3102e"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f71c4592907360e5333d41a5464b11d8747e7600cb7600173288f30ee29256d7"
+    }
+  ],
+  "publishedAt": 1790783549131
+}

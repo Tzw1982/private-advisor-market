@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.testing-embedded-qa-engineer",
+  "slug": "testing-embedded-qa-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "嵌入式测试工程师",
+  "categoryId": "10-ProjectQuality",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b56efedeec4ba36e9b9c4d5c1576e6e8777fe3a9a00a66d8b2baccd258540e3a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "e4331fcd7ad1808340e2f1aa2188b57228f6de12fe7f5db528497a95f61830ff"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "8e1213e449b27283518a047aa9d7d97c7dd654876af0d92c8124cce9ea059a77"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "1f34fe7124169cb69a6d9b3e5997f015848c83f479739cc466f36541f6a61adb"
+    }
+  ],
+  "publishedAt": 1790783549292
+}

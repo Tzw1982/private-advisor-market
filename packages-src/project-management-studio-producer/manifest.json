@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.project-management-studio-producer",
+  "slug": "project-management-studio-producer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "工作室制片人",
+  "categoryId": "10-ProjectQuality",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "f814344f715a5a434bba3c98ae5b3322e96400b2ba7afae7745b298616739585",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "edaf32e82d343b5101fdedba7ad6589f5df0db19ff8200b15ce47e5cfceb2134"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f8c48ee77ec25ed07dd213f254987908ab2f38143027170346d4421ffadfeb50"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "39bcf5adeec711a58df5c070cf5a352021db48ce035063486d4c76efc8132753"
+    }
+  ],
+  "publishedAt": 1790783548146
+}

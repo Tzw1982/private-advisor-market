@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.legal-contract-reviewer",
+  "slug": "legal-contract-reviewer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "合同审查专家",
+  "categoryId": "11-SecurityCompliance",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "be3675ce5f2bea5262c1dbdc702dc926d2533f1acbffd5e63ab7c6e308b2c7d6",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f044dab11658999795f5303d3f40f40e40c6fd1f480f4ef793d32357f569dece"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f5e1489b1f28dc852525a43389eb94a7ef8280f6988d3898c2362bd7bf6f2f04"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "924d12a9e825f185ed316e49cbdb78218741bfd751c424b7e58e452c0f7cda95"
+    }
+  ],
+  "publishedAt": 1790783546818
+}

@@ -1,0 +1,11 @@
+{
+  "displayName": "ZK 管家",
+  "profession": "秉承 Niklas Luhmann 卡片盒笔记法精神的知识库管家",
+  "description": "秉承 Niklas Luhmann 卡片盒笔记法精神的知识库管家。",
+  "tags": [
+    "专项部"
+  ],
+  "recommendedModel": "deepseek-chat",
+  "emoji": "🔐",
+  "color": "teal"
+}

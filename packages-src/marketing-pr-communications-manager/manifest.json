@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-pr-communications-manager",
+  "slug": "marketing-pr-communications-manager",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "PR 与传播经理",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "2465df9b18ad27c72890d33fd566221aad46a382c809bfa30a64a5160b0856a3",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "076369af3e4c52c5402284fa2ecf0d72aeb58e727a71d71a1a74d8b42d69555a"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "d35ba8dbc78de0814400a32b19ef152210de3250ba7c793221badf738550e08e"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "7a06ef0ff38e8df68a7f18cb30405b2faa98e0bf705a8cf4630b3ca6a4289bcc"
+    }
+  ],
+  "publishedAt": 1790783547455
+}

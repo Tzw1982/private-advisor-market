@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.chief-financial-officer",
+  "slug": "chief-financial-officer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "首席财务官（CFO）",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ee4cdf01bc2375484f00851114636c56c610eafabb5774d71125d6ef98f215cb",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d9b692fd7a7fcb4b1fad5050769859fca49cab71de9ffcdfb9afb75b32a62e9c"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "decb84125d06ba9b6bc910c5955857d36853d61f125f36d154c15417924fda13"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "8654b129a024c527fc57a793cc380de9fbd65a699a944b496341953c5b935ea3"
+    }
+  ],
+  "publishedAt": 1790783544865
+}

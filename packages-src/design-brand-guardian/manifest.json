@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.design-brand-guardian",
+  "slug": "design-brand-guardian",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "品牌守护者",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "2d5f1ae1a0820f1dac8442c0f8244b0da8f9bdb9cb75ea1f1ab3ae7b765e521b",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a711643c5c2c82f4b54facdaa35299fdad4acdaa5341b68751010bc01050bafb"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "6254d10663e7cc0c8f13ccf5313d49b05e2fa8b5cf21885563229cbf7666a17a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "6ea46cf2e30b43230bf9dcaf4c1376e34d3a1923fc7d363bae9520a1d9600bb9"
+    }
+  ],
+  "publishedAt": 1790783545070
+}

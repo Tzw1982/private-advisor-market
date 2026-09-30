@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.security-architect",
+  "slug": "security-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "安全架构师",
+  "categoryId": "11-SecurityCompliance",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "d348c4ab6364272d874b623111c3c3a3907c7b7b67e5e8312ac5802fffce25f0",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "76cff9bce581fdc769c049e9f8afdcf542b7152678e5cab3a4ebb69e66d1f4e1"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "441db0d692914d833a267029a2cd9d918a8bb048b5d66812f0f5cb5106e2c9e1"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "26c21f71906263589ac113dea7d920612df9110772180137630b6e9a3844c378"
+    }
+  ],
+  "publishedAt": 1790783548539
+}

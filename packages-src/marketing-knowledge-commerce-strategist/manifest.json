@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-knowledge-commerce-strategist",
+  "slug": "marketing-knowledge-commerce-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "知识付费产品策划师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "5e6a3dc219ff246fcd2db954219fd4a12bdcf05c9806fa42ea03929346774297",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "468a8d10516dc4e367f17d2f111e95cfa807d482565ab603c2fa6754646d6a95"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "8017476d82f38718b637b7354544049c3e6a37700ed7fe469287c6e9a52cbcda"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "82458d7e97ec60041f36d45f6e906ff142023713cb605fd952cb176eb4ee3cb5"
+    }
+  ],
+  "publishedAt": 1790783547346
+}

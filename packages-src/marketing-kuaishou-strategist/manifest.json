@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-kuaishou-strategist",
+  "slug": "marketing-kuaishou-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "快手策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "3fe88acadeaaf5e1667301ae59b089de79c694eb49ca914de7f32c83b4a1bf52",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1399fd74bb94525b3c5adf604b29c35b0cd7a3fd4b5197bb6d7e199d6b6ff5c8"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "66c15329f2f75cf9378e57a431aed0b438f4b0a3519e03ba5490a1442ddb7cd2"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "26615147fcce02420c6eaf506c385907ac0e5b1d5e3c92ae3664f431cbc21878"
+    }
+  ],
+  "publishedAt": 1790783547357
+}

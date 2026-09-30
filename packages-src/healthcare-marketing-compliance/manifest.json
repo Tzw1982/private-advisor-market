@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.healthcare-marketing-compliance",
+  "slug": "healthcare-marketing-compliance",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "医疗健康营销合规师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "c5d8b9826b271c52236d30d30d167c7c07881b1e1fbf2c5525269be39004e956",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "4d9e60e36d3e90bcabf53e4a3e8a7192aaa59906b1af8118918ed55ebad5b431"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c6234de49a74d96a96bda56ef98cf12fdd9194558bd1e64478f458c9d1ec2e80"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "736ce607ca8f4cafd65c53ce04de12298f8383b433ee47a80c4a11ef9181a9d6"
+    }
+  ],
+  "publishedAt": 1790783546645
+}

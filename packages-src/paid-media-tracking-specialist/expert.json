@@ -1,0 +1,11 @@
+{
+  "displayName": "追踪与归因专家",
+  "profession": "追踪与归因专家",
+  "description": "转化追踪架构、代码管理和归因模型专家，精通 GTM、GA4、Google Ads、Meta CAPI。",
+  "tags": [
+    "付费媒体部"
+  ],
+  "recommendedModel": "deepseek-chat",
+  "emoji": "📡",
+  "color": "orange"
+}

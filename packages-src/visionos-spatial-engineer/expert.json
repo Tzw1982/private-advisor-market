@@ -1,0 +1,11 @@
+{
+  "displayName": "visionOS 空间工程师",
+  "profession": "visionOS 空间工程师",
+  "description": "原生 visionOS 空间计算、SwiftUI 体积式界面和 Liquid Glass 设计实现。",
+  "tags": [
+    "空间计算部"
+  ],
+  "recommendedModel": "deepseek-chat",
+  "emoji": "🥽",
+  "color": "indigo"
+}

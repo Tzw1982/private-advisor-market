@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-incident-response-commander",
+  "slug": "engineering-incident-response-commander",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "故障响应指挥官",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "a057888f0582df2eac435e9289c761768c8b7b376606102b065dd5f5ae977e24",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "970c0c8f8a0104f9e201212096aed30720492a42d780410a96a7369170f02716"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "0662b7799e25c1817f8ddcff006fee21cdae32f65774c09bba92595322509777"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "7393b01eb70071a8f093e9c7d3c56538c07227922c65fd138a131505fa9a68e8"
+    }
+  ],
+  "publishedAt": 1790783545650
+}

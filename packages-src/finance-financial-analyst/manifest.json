@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.finance-financial-analyst",
+  "slug": "finance-financial-analyst",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "财务分析师",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "32f91fc98e0905d0c20b15b9a8fc2f389603f1cf9f8e67276cf7494f29d8e7f8",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a7e3b9db262621bd0ca63e2e0ae2d991ad103323febe3aae2cdffa260809f88f"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "e78d4ce6f39442e1431012f444b35dc7aff37d1e09b0d47297fde3c993babedb"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "bc83edbe2ebb64a37faa47d2cfd39ece5496f7e22c1956b484146224c73c4702"
+    }
+  ],
+  "publishedAt": 1790783546121
+}

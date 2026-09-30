@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-email-strategist",
+  "slug": "marketing-email-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "邮件营销策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "e37f637fc765fe34fd432c2f52a0afb9da9c40f056cd2704587a3fc04b5f5550",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f6b13b4f166d68824eef917936030544cf3070616e540091bb8117aaff03a70a"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "3354ee1cc5718a5131208ba621f9adf2dfccefea286f42676043a1737668392a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "6d4a5e67458b487cb183130628024a86eba44250540e4168fdda250d7ac7a5fb"
+    }
+  ],
+  "publishedAt": 1790783547273
+}

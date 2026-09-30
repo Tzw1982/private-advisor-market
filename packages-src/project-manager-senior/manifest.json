@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.project-manager-senior",
+  "slug": "project-manager-senior",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "高级项目经理",
+  "categoryId": "10-ProjectQuality",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "4979197c7f75ca72c44018bb492442ccd1324996c05f960ba6f00324cdeaa7fa",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "65fe8e4c10e253410721afb364bf54c69568389e23ee72a056c7b21191c06f72"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "6b55284c0f0ad88b5fc3d05940e28b1be4df3a17f4a3ee984fd72faf3c64860e"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "635a88a1176ece8424c6358fd2dede7a3db0bc1e394da2e91af28765ec9a932e"
+    }
+  ],
+  "publishedAt": 1790783548163
+}

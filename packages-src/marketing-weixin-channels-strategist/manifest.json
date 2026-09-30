@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-weixin-channels-strategist",
+  "slug": "marketing-weixin-channels-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "微信视频号运营策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "e25f7cf66b1f2e1bf9c6c4e00f0dd21a08d4924f8105581244b485b526867927",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "2ad4f846c226185ca9db3f707e94f1c469497b2870fb6c8f78a5d527a571bdc2"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "dca412a3497807aa5e7a706c47dd4e06e0d12d906cc2e3f173f16db3cdf86ede"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "2f5154d65aafb2b7deb5fb6363238d2ca01ed499c3549ea5e9b12cf4e090d991"
+    }
+  ],
+  "publishedAt": 1790783547674
+}

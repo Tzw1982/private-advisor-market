@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-x-twitter-intelligence-analyst",
+  "slug": "marketing-x-twitter-intelligence-analyst",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "X/Twitter 情报分析师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b671c984cd1cb699aea30708461a56aa5cd0fcdedd50acf1ee0168f122cb3909",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "fe597b94877d94724248c986b82b8914e3bbbad5ecea9c1fe266f42b9dc43af4"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "cb4bc18a1b47623d68714d176b7ca0d6f221e817e634b9c4902c7ecbd36fb15a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "e09677d7eb4bb6fe21fbc64eef29566606534ae74f97e2c938e1b37d2f65fee2"
+    }
+  ],
+  "publishedAt": 1790783547701
+}

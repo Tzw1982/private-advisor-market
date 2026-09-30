@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-civil-engineer",
+  "slug": "specialized-civil-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "土木工程师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "3a8fbe639afc5bff8c39011e1e38ffac2e1b69825cc151fcc5c9fdf948942285",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "2f35987b7ab5f517b03db882f9535f4f70145f04d74daf82aa1f66f0ab86735d"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "f6d73e1d0d1af595237c702e93c261b56e8163c2ee87b1b1d46586d29b1b2975"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "36c5659b362ca41e34a87cb40774f150327771fe09fbacabd6f00aece2d27707"
+    }
+  ],
+  "publishedAt": 1790783548721
+}

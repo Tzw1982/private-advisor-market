@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.product-trend-researcher",
+  "slug": "product-trend-researcher",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "趋势研究员",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "12d4687dc87c52618d2cc43a816f8e39ff9a8b2afeddb5f2c49adb9475d49bd3",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "29d982857e6a5e7167696152419c6f29a578dce8193d531005f41c5a6c372d3b"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "90913147ec845e06d85d20e6c4e37c68a12e813febbda8d341b6aa391ff62269"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "a596206886006b8f6162922a25186f2109c795344170dc3943904fe8b1364eff"
+    }
+  ],
+  "publishedAt": 1790783548051
+}

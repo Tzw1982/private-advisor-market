@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-security-engineer",
+  "slug": "engineering-security-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "安全工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "b0af254c30b636698bfe8499c13fcc59528ebabef6e4bd8f2ef7800a6afe0933",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d2af3872eec7bd6ca1e470faa03f58122c0c94b44fb7842b89deed82843495da"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "59c234916b0dd0c553b88756b3deb7c50bfa533be1f5f94b1254d6cb79f37151"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "c64744e6f7b85051c2b863ff78d1b1a093263ad3eba90ef7e0012a48511029ea"
+    }
+  ],
+  "publishedAt": 1790783545896
+}

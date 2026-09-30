@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.finance-bookkeeper-controller",
+  "slug": "finance-bookkeeper-controller",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "簿记与财务总监",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ad4b3c92b2db41d9902ae07acf65e872e575ccc38809f61109906d7fc8bec773",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a6912438f4ef7c08fa99d1613d52001a617ea809331dce20cb0970e96e73d09e"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "9e626599606d6d4036affc1e184077d6b119fdc8228acdfcc054dd9b03675a92"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "41790b67ff3ea72383a8bf05e5e179de8bb683eb1f30bfeb0fa069bfde65c5f9"
+    }
+  ],
+  "publishedAt": 1790783546108
+}

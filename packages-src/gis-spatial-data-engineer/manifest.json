@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-spatial-data-engineer",
+  "slug": "gis-spatial-data-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "空间数据工程师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "e40a56dd34c2827f1b956b1675250cad0ea4a051940114e01ec6a35d5c0a4baf",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "696e899f35d5ea9264b6317eed39b1f0aeac0f2367108d46c1aff1dbf61af446"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "fa565b4931906b1ba57cdbdc50be9c9c29f9b55b260f8b95ed8bd0cadb327bcb"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "303803b2acb995c205b8067a3591f7ee8b8f81fcf27a230c570ef78044e98402"
+    }
+  ],
+  "publishedAt": 1790783546451
+}

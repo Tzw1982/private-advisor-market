@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.data-privacy-officer",
+  "slug": "data-privacy-officer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "数据隐私官",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "3c99bc5a9f731b357f2d95af909af8f8f856267cb8786aead75556961d5ccae2",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1a5efd34cca824d9eb10c64a5c80029d872ca45a2322fcd5cbb55b064b290bcb"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "9532617356005572dab92a5997c068b9105da90b918ff9515dd252ba9d87d640"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "9368ab8ef6461dc0bcf0e4ffe72068deaa195981867250e07491eabd807d4473"
+    }
+  ],
+  "publishedAt": 1790783545056
+}

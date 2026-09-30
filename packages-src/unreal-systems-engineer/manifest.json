@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.unreal-systems-engineer",
+  "slug": "unreal-systems-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Unreal 系统工程师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "8ed082d14a3868b0392702be8e05f0f63402ca2a2d524a4a77139a2df9129169",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "df352b7d5eb6e3cb5ef0e79e4bb453238a3e38d68f3873f39a2ef622d886cf16"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "adcec2ad9fc29c0e001135c4fbf40f4353982844f12532f7bd8a213b6cc64367"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f83af05da6d1ba8df5b69b852ea1b77bba2a2d0d06c43acde802fbc0f0b2c846"
+    }
+  ],
+  "publishedAt": 1790783549547
+}

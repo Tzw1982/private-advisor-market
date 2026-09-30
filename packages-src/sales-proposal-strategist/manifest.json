@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.sales-proposal-strategist",
+  "slug": "sales-proposal-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "投标策略师",
+  "categoryId": "07-SalesCommerce",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "46352301a64e779a991b1e61a0084910c7bf1d1af7a47217da59119f8a54c9dc",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "508212aa9b811890252288f449b2865cb7fb49230fa873b63f46c1e6019ba414"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "9a208cbf6557975322e0be16b0b5ea46aa5b4ad4181f38e8bdeef71ce361b67c"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "e9a1b624ff9cb0ad59d0da1a4dff83c05a575117d5b42104ef852a76c92f99af"
+    }
+  ],
+  "publishedAt": 1790783548502
+}

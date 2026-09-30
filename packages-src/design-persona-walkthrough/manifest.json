@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.design-persona-walkthrough",
+  "slug": "design-persona-walkthrough",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Persona 走查专家",
+  "categoryId": "01-ProductDesign",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "0797fda056a7e98bb7b8495889150b46cc8e8ed8bfd875d0d6faf67191ee13cb",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f9a93cfce483e0541c068c948fed89d45433e70f598c5d78d1a33031d18ac58a"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "3a913f35d325ebf4f398c2bf6f34355170dd642027fde90fff676ecd9546ae24"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "1937ac277ab4c77e577b18e71835cab3213cb41e22b9a4fc977bdf85a183e90c"
+    }
+  ],
+  "publishedAt": 1790783545119
+}

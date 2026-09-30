@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.sales-pipeline-analyst",
+  "slug": "sales-pipeline-analyst",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Pipeline 分析师",
+  "categoryId": "07-SalesCommerce",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "5f54c2d44b773c5839762a802bbca20b751ceacdbf06a92ce285cdc7d1d9ad40",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f9bbff1e54af43b45e64de08c4941dfd655dd00704e68918ca7648f47586ed01"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "edc68202cc4ca34a0ad300e6865dceda3ad9c7c4c331a7daf2d284efccaf036a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "cd720a4ce1e29de8150409972f1b72ef062ce14ffa39368218ce2238c6c1248c"
+    }
+  ],
+  "publishedAt": 1790783548490
+}

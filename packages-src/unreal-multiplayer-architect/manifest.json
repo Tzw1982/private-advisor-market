@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.unreal-multiplayer-architect",
+  "slug": "unreal-multiplayer-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Unreal 多人游戏架构师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "2539e4c365e5309a9b694c4efb572ae767b7c8fc05f5625e9a9e86a9a3c64c50",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "9a02e8a440f95ec66e9e69b24f22e17a4b19fab7388bcc1dee9b70502fd370a1"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "dba6299c406b3cb6ad9957e92a64e7ac6b4c3ff41d77d6a29609ce7bad723f17"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "4a093b1a6ca3fc51daa387a25a2ff7f6a662991c67cd2c0977a70bd833d4cea5"
+    }
+  ],
+  "publishedAt": 1790783549529
+}

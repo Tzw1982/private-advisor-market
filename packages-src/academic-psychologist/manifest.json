@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.academic-psychologist",
+  "slug": "academic-psychologist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "心理学家",
+  "categoryId": "15-Education",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "e55e4f707db1ae24b42bbca37b72967ccc99988becb5d11790bffe1b2f14e4d1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "03c321b2dc0f6c83b83b1dc4ba502cd3a0bc802f54f99f4ffbd2e6645cdb8f74"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "37540e14f764c854221cc0360d36f71405e64c82112b194d5832b202a9f2129a"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "a029b7230b6ebaa50f967798cdfe0bf12d3e86afac0eb6f06bdf7040d182fec9"
+    }
+  ],
+  "publishedAt": 1790783544637
+}

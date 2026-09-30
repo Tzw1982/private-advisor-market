@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.chief-marketing-officer",
+  "slug": "chief-marketing-officer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "首席营销官（CMO）",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "e7e8e9a7494bea8d417203215762dd944a5496ef0b2d86295cdd09305f4a25d5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5f1bec72a555c561941fef30e5c3a16e7ce6f05c184abb7974640fc046cbe9d8"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "6ab9b57df38bb78ad31a8377c629bb3607f9addb0de0c62426b0b1f572ba6e1e"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f6d1a4ae09108685a19a9c97706d0f33127cbc943faa8542788a3f9941595ff4"
+    }
+  ],
+  "publishedAt": 1790783544876
+}

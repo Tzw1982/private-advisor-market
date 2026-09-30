@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-devops-automator",
+  "slug": "engineering-devops-automator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "DevOps 自动化师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "54229b5a4e4dd0f1402ffa81b1a5baac5e2283c6da1fb58987cc7b034bde2648",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5161460e423649e3f004efc15cba32a9c03ed7b67cebca102adf58338068a62d"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "a25e034445c279bc03800be5f5f55a14177d86d3a201046c66898690644583a2"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "40d3aed0c24c813d12e655c0a1e857e468e3f5351e36a53e060a3066000fada0"
+    }
+  ],
+  "publishedAt": 1790783545421
+}

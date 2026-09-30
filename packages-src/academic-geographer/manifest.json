@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.academic-geographer",
+  "slug": "academic-geographer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "地理学家",
+  "categoryId": "15-Education",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "dbe786d19698de70259eb8b3a9a86f8984d34dd0d635041b28950e49bdcf5211",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "4a56e4b1b8d54c8501f7188e8abf354092696c10c49e84adc3e8db2bd951d082"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "63096f1e84f7ce6a4f33544b139d9b6790c8c2485b6d7d21e042a244ca5d4150"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f6be1f739a0d9081c77f6255256af07538917af8af45325fe6fcd9f5363011a2"
+    }
+  ],
+  "publishedAt": 1790783544586
+}

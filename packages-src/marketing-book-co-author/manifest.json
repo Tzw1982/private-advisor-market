@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-book-co-author",
+  "slug": "marketing-book-co-author",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "图书联合作者",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "f1b9bf23cdea666dbe651def34be3bec2804a321c9cdf35645357b787f4c831a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "50915c34c755089aafb14ce94691a51d14e40c1922c9136f0e5df19c356f429e"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "dd6fcc80e741bee9c1727e449d49fc2a9077e344805dcbfaf196e9776c1c21df"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "2c406e2968ea94551718ed6572309a25656cab13a8cdd0abce7a7f02d55bf365"
+    }
+  ],
+  "publishedAt": 1790783547107
+}

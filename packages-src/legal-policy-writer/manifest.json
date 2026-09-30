@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.legal-policy-writer",
+  "slug": "legal-policy-writer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "制度文件撰写专家",
+  "categoryId": "11-SecurityCompliance",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ed30014c5b44f50c18eb0089e466b3773b0257d1eece9c70de348c197a3438e5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "ccd25def82e83140677e84002145ca9da31de21af44b70f746c30a457630f796"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "1835bfbce28a124d628d16c4458a1dd997342698618c85b2153532c766cbe149"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "42fb39d591caf5fa2b21599cf74593c8e5e778770dd81da5148cd98354552701"
+    }
+  ],
+  "publishedAt": 1790783546852
+}

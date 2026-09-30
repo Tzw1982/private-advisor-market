@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-wechat-official-account",
+  "slug": "marketing-wechat-official-account",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "微信公众号管理",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "c39504d91cc3175025f9bd2b61a00c4487ab9fde5c291974a0f85d13c0b616c1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "79a7dfab918865fba3f8618088b889baa6e4defdfb9cc24cdb496700c60cb79c"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c95f379e40178bcd03ba5f9ca3de77fad4ac04c2c5b71dc616ee7020a4b5e85c"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "d87e908adf53ed6a68369c5bc853aabe8c7865b1a3f06dda0dcce86d5dd039db"
+    }
+  ],
+  "publishedAt": 1790783547626
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-prompt-engineer",
+  "slug": "engineering-prompt-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "Prompt 工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "fb8beccb288db4ef5b1dd3db16b906be40f0cd8d235fe035f5f11fc624bf3ace",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a2eb46cbe4169e6c413a6ef57e8666a6ca07a68556b14f7d92aa39a2614c6239"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "0573b5caebede76b13df776c0273225c1cd081a036874b9728d9c6c4f80ec038"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "fd9f683244c6765b367c00221b13c4168b067a0c172bdbd558550d6c64077602"
+    }
+  ],
+  "publishedAt": 1790783545844
+}

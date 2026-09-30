@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-codebase-onboarding-engineer",
+  "slug": "engineering-codebase-onboarding-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "代码库入职引导工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "6e1495f04fa1206b109fdd126e9925f1d9f95205978fc602779a203265c8eadc",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "fdd8ed194b8492aae0643ae23ff405d3ea3566d55d4e1c9d4eaec612598416c7"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "078068a2458a12d1975a397c364169b1a1d66ef161badcc2f8b19de18b0324c4"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "1f6663154591cdec66b91293a45dc45d6b783d8515ef956124b6a47b06d4b66e"
+    }
+  ],
+  "publishedAt": 1790783545363
+}

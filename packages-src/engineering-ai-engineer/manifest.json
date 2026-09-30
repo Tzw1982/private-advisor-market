@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-ai-engineer",
+  "slug": "engineering-ai-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "AI 工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "856f625c56c39a9ce5802e0d9ec74d39a582ef1490efb51cdf0fba03933f3038",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "2fc55b1ca9b13ce24583a76ad1bea35fcda052daf6463c5deebcb7a6a1e3db00"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "a0341463a17d09ceebd68543af86aa0ff439b1906761e6c869772267edbf04b3"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "36d28bc14681cf740b8e6542830547fc3081dd6df449f1eab95b6c7fedbf861e"
+    }
+  ],
+  "publishedAt": 1790783545263
+}

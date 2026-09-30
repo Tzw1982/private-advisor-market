@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.lsp-index-engineer",
+  "slug": "lsp-index-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "LSP 索引工程师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "0e09678efb3ab72dbdc35ea107e21009ba159c78da4569b5f2872995697d9080",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6acc3f516de7101b71ae907a6ff1f2b15062a3f2244eab56708fb46b6828006b"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "752470934da9a36b04d120d157c6ab3dab74075b194ff8b9297e5ebe2e99eff7"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "cd11fb31a2f3962c042ac97245ef6f85a6c6a517179fc0688b075f5f21524fbd"
+    }
+  ],
+  "publishedAt": 1790783546952
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-spatial-data-scientist",
+  "slug": "gis-spatial-data-scientist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "空间数据科学家",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "877077daa6d3328f1ab443b4eacf5fdbdc390614664c9f62aba5c93c5cafd085",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "fc6b2eb42dbe0a13599f48dc3e96823a4baa996f7950679eb3c67b1240703297"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7e414bb49923d94784f4c096dcd866072610d3edf8759f682f7390825618fe45"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "8ed23b01e69600204f7ca300bf5c0fe29ba61819f720e16deb7150351d59955a"
+    }
+  ],
+  "publishedAt": 1790783546468
+}

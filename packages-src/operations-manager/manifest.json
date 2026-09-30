@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.operations-manager",
+  "slug": "operations-manager",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "运营经理",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "a5733553a30c09e438b81da39210cadb3f8a6ec4ca21afefad2351b38a9cb2ed",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "fd4b7de3fe7d2536d51501f95dfbd52fd8c92602b76238b7afce2f8a77957c95"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "8e3761658364ebfae392c80833fc0d858093154a5b1c265b8880ba3766fdf0cc"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "73a398608178570fb27140f66241f39bcad90c83ea5d95cab71dd981fe686d7c"
+    }
+  ],
+  "publishedAt": 1790783547811
+}

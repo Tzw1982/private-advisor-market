@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.gis-solution-engineer",
+  "slug": "gis-solution-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "解决方案工程师",
+  "categoryId": "03-GameSpatial",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "32a191abff04e642a1d14a2be67e23b57b48668a2e436249094fd30e538b5318",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "b39578451655aa954d4f4c54adb847c48a4d1fc1f662eb5a0fe7c298493f6fdd"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "ef63e947ab3655448d0e995d2a1acb22226f2dd075d36b377dcf796fda81f50b"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "504a1691afccf3f759b868b8f483635d5b9309123666d3ff95e1e6bc92276ea1"
+    }
+  ],
+  "publishedAt": 1790783546432
+}

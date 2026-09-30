@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.marketing-private-domain-operator",
+  "slug": "marketing-private-domain-operator",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "私域流量运营师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "c218b0475fe1e38651a5071d7fac3fd4595dea5f8b878db13f9931d661a0ee90",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0612f0444dc9cb6400e2e5efac6728abdec5e8fa0754401ece01a4962124b088"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b4816ae62747a63d2723526ea59b7270375eeeb902b765c86806bcf8360aa7ac"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "dc230213a4b4f726f3bdf02423fc72d9e8aa49b993586fdb8a0986d7acbb0aaa"
+    }
+  ],
+  "publishedAt": 1790783547474
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.specialized-workflow-architect",
+  "slug": "specialized-workflow-architect",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "工作流架构师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ca43643fb5dbb70afde46f96948f104ea951a96e5c3c2a558087d7277edb88a3",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d10d8fea5e42c2bea3fe60bcb7d12d53c23ea3dc07b3631b5c362120c124bd33"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "c6fc996ad070e5fcf62e19581b9f6409c9aac347677688ab5597b54e7f3f20e2"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "85cc0090e347088d8a990120307bc9402fe41f7251e4a6dcb6454a8b87b40e2f"
+    }
+  ],
+  "publishedAt": 1790783548973
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-pc-host-engineer",
+  "slug": "engineering-pc-host-engineer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "上位机工程师",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "747372552c8c4902d6259aa66fe299ddbcb76c3dd6472e0f140f058b6e54b140",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "485dec41cff8e09e6d9ee3592b8a31d5f7d6a527167fd830539707f113395ad9"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7aca6d7603cb6d71ef849dae87fbc4964153375faac4ae026853f21bb131664d"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "fbd05a022920a7a6bae0cff68b53a85d1b15d164e233e9432da11f4e8de8b0e6"
+    }
+  ],
+  "publishedAt": 1790783545821
+}

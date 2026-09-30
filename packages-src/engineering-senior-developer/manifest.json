@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.engineering-senior-developer",
+  "slug": "engineering-senior-developer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "高级开发者",
+  "categoryId": "02-Engineering",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "7f1f8b8821f66468d50fde444f8a4d3ab3fceebac36d0c625f128ae24971dbec",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7027b40d4c66ca052c7a1a07745b0cf9b9d94eefd782023d7b452da0f5a4454b"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "65cb71ede76d2b497af5b73300a5cd8e5e3f4d5ed1d3b327b0f90a8705a3bb1f"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "86b89366d9a5d017948b5f9f102a387330854e4377c1d64ccfdc0890baa60c62"
+    }
+  ],
+  "publishedAt": 1790783545920
+}

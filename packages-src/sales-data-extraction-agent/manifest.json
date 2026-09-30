@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.sales-data-extraction-agent",
+  "slug": "sales-data-extraction-agent",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "销售数据提取师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "6ee98893f4cab8d9a7f07d5c3d0f977b7d34b60297e7786401cc1c830f7a4672",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "412afbd352cd6cf3713793f800454fab85d8c4851111686460b91cf9ddb4746b"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "7beb8ba0a40fd73a09a36a37c6f9b0b44bae8e79de0380fcf5537ddf8720fdd3"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "185e0fcfe0309fc95597888f970e639bac6f01c315e0e2ea79f9077bbfe5433a"
+    }
+  ],
+  "publishedAt": 1790783548381
+}

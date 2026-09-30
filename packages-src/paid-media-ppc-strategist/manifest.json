@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.paid-media-ppc-strategist",
+  "slug": "paid-media-ppc-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "PPC 竞价策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "bf486db8324b042531f248f4f81f2dc30eb87c42a50ecc06106e36f7786b956c",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7f9ce6da45c43d8cff5afa560f53352d3cb0b1c0d4b5693086ca27d40fa3ef3f"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "15f168ecc2d1455b8c4e5e73d0e7695e57f3960505d397bac27c9f60053b7600"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "f81bd86c44140281a487ce35203bfae5b6103377c88176fca395f3a25306cb55"
+    }
+  ],
+  "publishedAt": 1790783547891
+}

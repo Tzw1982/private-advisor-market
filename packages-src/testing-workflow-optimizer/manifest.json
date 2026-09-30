@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.testing-workflow-optimizer",
+  "slug": "testing-workflow-optimizer",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "工作流优化师",
+  "categoryId": "10-ProjectQuality",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ae9bc6fb35f62421ae5873e2a984459cfa22c6a94b0c725f5170542dd2f102ee",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "06a3488e2e542e101e9bdd5c82955c78277ca8e17fdb286f98d6649eff76f8f2"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "9b79fe4deb4cd7fcac847560239445a6af09403661d9ea43ccd482d1ba7a4924"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "e90f5a2dc13d956497a48c0c523d70a8cd2a73a6e1f41eb800f81d487fb1e1a1"
+    }
+  ],
+  "publishedAt": 1790783549397
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1790785441428,
+  "generatedAt": 1790868836695,
   "packages": [
     {
       "packageId": "org.private-advisor.marketing-aeo-foundations",
@@ -2203,6 +2203,26 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.legal-contract-reviewer",
+      "slug": "legal-contract-reviewer",
+      "displayName": "合同审查专家",
+      "profession": "精通中国《民法典》合同编及商业合同实务的法律专家",
+      "description": "精通中国《民法典》合同编及商业合同实务的法律专家，擅长合同风险识别、条款审查与修改建议，熟悉电子签章、争议解决机制、违约金条款设计。",
+      "categoryId": "11-SecurityCompliance",
+      "tags": [
+        "法务部"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/legal-contract-reviewer/legal-contract-reviewer-1.0.0.expert",
+          "sha256": "be3675ce5f2bea5262c1dbdc702dc926d2533f1acbffd5e63ab7c6e308b2c7d6",
+          "publishedAt": 1790783546818
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.contract-review",
       "slug": "contract-review-expert",
       "displayName": "合同审查专家",
@@ -2222,26 +2242,6 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/contract-review-expert/contract-review-expert-1.0.0.expert",
           "sha256": "8099dec6a56508c70c4d13d689b30134740db6090abec3a66a27061bc2b21dad",
           "publishedAt": 1790762108645
-        }
-      ]
-    },
-    {
-      "packageId": "org.private-advisor.legal-contract-reviewer",
-      "slug": "legal-contract-reviewer",
-      "displayName": "合同审查专家",
-      "profession": "精通中国《民法典》合同编及商业合同实务的法律专家",
-      "description": "精通中国《民法典》合同编及商业合同实务的法律专家，擅长合同风险识别、条款审查与修改建议，熟悉电子签章、争议解决机制、违约金条款设计。",
-      "categoryId": "11-SecurityCompliance",
-      "tags": [
-        "法务部"
-      ],
-      "latestVersion": "1.0.0",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/legal-contract-reviewer/legal-contract-reviewer-1.0.0.expert",
-          "sha256": "be3675ce5f2bea5262c1dbdc702dc926d2533f1acbffd5e63ab7c6e308b2c7d6",
-          "publishedAt": 1790783546818
         }
       ]
     },
@@ -3342,6 +3342,26 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/testing-performance-benchmarker/testing-performance-benchmarker-1.0.0.expert",
           "sha256": "58e4ec5e3350c88b9fc9a42438c5ddfe1882e822abed5471441e1c538a9aa10f",
           "publishedAt": 1790783549324
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.executive-assistant",
+      "slug": "executive-assistant",
+      "displayName": "总裁助理",
+      "profession": "群聊主持与多专家协作的组织者",
+      "description": "负责组织会议、分派任务、维护秩序、总结成果、建立共识——让多位专家围绕同一目标有序协作，不跑题、不刷屏。",
+      "categoryId": "09-OperationsHR",
+      "tags": [
+        "运营与人力"
+      ],
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/executive-assistant/executive-assistant-1.0.0.expert",
+          "sha256": "80669a528a23f5cc1bae3709fb5a46b59cfe488bd627389837babc61c949e5f0",
+          "publishedAt": 1790868795005
         }
       ]
     },

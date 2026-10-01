@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.executive-assistant",
+  "slug": "executive-assistant",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "总裁助理",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "80669a528a23f5cc1bae3709fb5a46b59cfe488bd627389837babc61c949e5f0",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "1edd8618100b33afa861cd17e099bbbad45e653cd35857e7ff30edbd13d906b1"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "1656a32bb6cb020c599d330b27b7c8d3ffa4d626d801e7d4b736fc1acb478d05"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "30f40d8efcb23a21a92dc222fee5de984d4d5954d544b03a0e2091735f7d6676"
+    }
+  ],
+  "publishedAt": 1790868795005
+}

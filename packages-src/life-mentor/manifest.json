@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.life-mentor",
+  "slug": "life-mentor",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "人生导师",
+  "categoryId": "12-IndustryConsultant",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "publishedAt": 1790919000000,
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d3d3d865841c737ee84cb2b6343e28d70cc95b7e39b161b3eb23fcfcc69e0053"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "251dedfb125cb04b36df8b5f24cf07e987dee8e9ff74af3abd9c94cc6f2439dc"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "3ee23d0375dfea5dd26ba3ef60bc1720c7f510a9053f4e32f9e4f721b08db8f4"
+    }
+  ],
+  "sha256": "e86a4db564a63f0e981f3fd05a0a8de40ffaa41568e9283d96a78c90615f2bc3"
+}

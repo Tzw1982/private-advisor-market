@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1790910677598,
+  "generatedAt": 1790919007354,
   "packages": [
     {
       "packageId": "org.private-advisor.marketing-aeo-foundations",
@@ -1785,6 +1785,28 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.life-mentor",
+      "slug": "life-mentor",
+      "displayName": "人生导师",
+      "profession": "人生决策顾问",
+      "description": "按《高性价比人生指南》34 章回答该不该做、值不值、怎么选、出事先做什么；每条标成本收益与证据等级，没查到就明说书里没写。",
+      "categoryId": "12-IndustryConsultant",
+      "tags": [
+        "行业顾问"
+      ],
+      "emoji": "🧭",
+      "color": "#2E3A8C",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/life-mentor/life-mentor-1.0.0.expert",
+          "sha256": "e86a4db564a63f0e981f3fd05a0a8de40ffaa41568e9283d96a78c90615f2bc3",
+          "publishedAt": 1790919000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.academic-anthropologist",
       "slug": "academic-anthropologist",
       "displayName": "人类学家",
@@ -2423,28 +2445,6 @@
       ]
     },
     {
-      "packageId": "org.private-advisor.legal-contract-reviewer",
-      "slug": "legal-contract-reviewer",
-      "displayName": "合同审查专家",
-      "profession": "精通中国《民法典》合同编及商业合同实务的法律专家",
-      "description": "精通中国《民法典》合同编及商业合同实务的法律专家，擅长合同风险识别、条款审查与修改建议，熟悉电子签章、争议解决机制、违约金条款设计。",
-      "categoryId": "11-SecurityCompliance",
-      "tags": [
-        "法务部"
-      ],
-      "emoji": "📑",
-      "color": "#3498DB",
-      "latestVersion": "1.0.0",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/legal-contract-reviewer/legal-contract-reviewer-1.0.0.expert",
-          "sha256": "be3675ce5f2bea5262c1dbdc702dc926d2533f1acbffd5e63ab7c6e308b2c7d6",
-          "publishedAt": 1790783546818
-        }
-      ]
-    },
-    {
       "packageId": "org.private-advisor.contract-review",
       "slug": "contract-review-expert",
       "displayName": "合同审查专家",
@@ -2464,6 +2464,28 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/contract-review-expert/contract-review-expert-1.0.0.expert",
           "sha256": "8099dec6a56508c70c4d13d689b30134740db6090abec3a66a27061bc2b21dad",
           "publishedAt": 1790762108645
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.legal-contract-reviewer",
+      "slug": "legal-contract-reviewer",
+      "displayName": "合同审查专家",
+      "profession": "精通中国《民法典》合同编及商业合同实务的法律专家",
+      "description": "精通中国《民法典》合同编及商业合同实务的法律专家，擅长合同风险识别、条款审查与修改建议，熟悉电子签章、争议解决机制、违约金条款设计。",
+      "categoryId": "11-SecurityCompliance",
+      "tags": [
+        "法务部"
+      ],
+      "emoji": "📑",
+      "color": "#3498DB",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/legal-contract-reviewer/legal-contract-reviewer-1.0.0.expert",
+          "sha256": "be3675ce5f2bea5262c1dbdc702dc926d2533f1acbffd5e63ab7c6e308b2c7d6",
+          "publishedAt": 1790783546818
         }
       ]
     },

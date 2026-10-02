@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1790871201454,
+  "generatedAt": 1790910677598,
   "packages": [
     {
       "packageId": "org.private-advisor.marketing-aeo-foundations",
@@ -12,6 +12,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🏗️",
+      "color": "#059669",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -32,6 +34,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🤖",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -52,6 +56,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🤖",
+      "color": "#6D28D9",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -72,6 +78,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🧹",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -92,6 +100,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📜",
+      "color": "#6366F1",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -112,6 +122,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "🔗",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -132,6 +144,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🏗️",
+      "color": "gold",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -152,6 +166,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🧊",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -172,6 +188,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📺",
+      "color": "pink",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -192,6 +210,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "📋",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -212,6 +232,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🚀",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -232,6 +254,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "❓",
+      "color": "#5C7CFA",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -252,6 +276,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🛒",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -272,6 +298,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🌱",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -292,6 +320,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "📊",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -312,6 +342,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🔬",
+      "color": "#1565C0",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -332,6 +364,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🧵",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -352,6 +386,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🖥️",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -372,6 +408,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "✅",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -392,6 +430,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🤖",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -412,6 +452,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🔀",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -432,6 +474,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🎨",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -452,6 +496,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🌐",
+      "color": "violet",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -472,6 +518,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🎮",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -492,6 +540,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "👋",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -512,6 +562,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🖧",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -532,6 +584,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📸",
+      "color": "#E4405F",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -552,6 +606,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "📡",
+      "color": "#00897B",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -572,6 +628,8 @@
       "tags": [
         "项目管理部"
       ],
+      "emoji": "📋",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -592,6 +650,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔎",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -612,6 +672,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "💼",
+      "color": "#0A66C2",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -632,6 +694,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🤝",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -652,6 +716,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔧",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -672,6 +738,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "🧲",
+      "color": "#F59E0B",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -692,6 +760,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "📜",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -712,6 +782,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "🎯",
+      "color": "#E8590C",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -732,6 +804,8 @@
       "tags": [
         "付费媒体部"
       ],
+      "emoji": "🎯",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -752,6 +826,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📣",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -772,6 +848,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🎭",
+      "color": "#10B981",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -792,6 +870,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "📊",
+      "color": "#059669",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -812,6 +892,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🧬",
+      "color": "violet",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -832,6 +914,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🤖",
+      "color": "#FF4500",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -852,6 +936,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🎭",
+      "color": "lime",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -872,6 +958,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "⚙️",
+      "color": "rose",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -892,6 +980,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🧑‍🎨",
+      "color": "fuchsia",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -912,6 +1002,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🔎",
+      "color": "#4285F4",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -932,6 +1024,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🛠️",
+      "color": "#e63946",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -952,6 +1046,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "☁️",
+      "color": "#00A1E0",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -972,6 +1068,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "📝",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -992,6 +1090,8 @@
       "tags": [
         "产品部"
       ],
+      "emoji": "🏁",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1012,6 +1112,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🎵",
+      "color": "#000000",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1032,6 +1134,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🐦",
+      "color": "#1DA1F2",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1052,6 +1156,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🎨",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1072,6 +1178,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🏗️",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1092,6 +1200,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🔍",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1112,6 +1222,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🎨",
+      "color": "cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1132,6 +1244,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🌐",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1152,6 +1266,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🏛️",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1172,6 +1288,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🔧",
+      "color": "gray",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1192,6 +1310,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🗺️",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1212,6 +1332,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🌐",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1232,6 +1354,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🎨",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1252,6 +1376,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "⚙️",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1272,6 +1398,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🌐",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1292,6 +1420,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🛍️",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1312,6 +1442,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🛰️",
+      "color": "#111111",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1332,6 +1464,8 @@
       "tags": [
         "空间计算部"
       ],
+      "emoji": "🛩️",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1352,6 +1486,8 @@
       "tags": [
         "空间计算部"
       ],
+      "emoji": "🥽",
+      "color": "neon-cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1372,6 +1508,8 @@
       "tags": [
         "空间计算部"
       ],
+      "emoji": "🕹️",
+      "color": "neon-green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1392,6 +1530,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔐",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1412,6 +1552,8 @@
       "tags": [
         "空间计算部"
       ],
+      "emoji": "🍎",
+      "color": "metallic-blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1432,6 +1574,8 @@
       "tags": [
         "空间计算部"
       ],
+      "emoji": "🥽",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1452,6 +1596,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🏔️",
+      "color": "cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1472,6 +1618,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🖥️",
+      "color": "#41CD52",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1492,6 +1640,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🌱",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1512,6 +1662,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🇨🇳",
+      "color": "#E60012",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1532,6 +1684,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🛍️",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1552,6 +1706,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🚨",
+      "color": "#f59e0b",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1572,6 +1728,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "☁️",
+      "color": "#3b82f6",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1592,6 +1750,8 @@
       "tags": [
         "产品部"
       ],
+      "emoji": "📦",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1612,6 +1772,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🎯",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1632,6 +1794,8 @@
       "tags": [
         "学术部"
       ],
+      "emoji": "🦴",
+      "color": "#D97706",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1652,6 +1816,8 @@
       "tags": [
         "付费媒体部"
       ],
+      "emoji": "📋",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1672,6 +1838,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "👀",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1692,6 +1860,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🧭",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1712,6 +1882,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🎓",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1732,6 +1904,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "⚖️",
+      "color": "#E74C3C",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1752,6 +1926,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📅",
+      "color": "#06B6D4",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1772,6 +1948,8 @@
       "tags": [
         "项目管理部"
       ],
+      "emoji": "📋",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1792,6 +1970,8 @@
       "tags": [
         "供应链部"
       ],
+      "emoji": "🔍",
+      "color": "#2ECC71",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1812,6 +1992,8 @@
       "tags": [
         "供应链部"
       ],
+      "emoji": "🔗",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1832,6 +2014,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏦",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1852,6 +2036,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🎙️",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1872,6 +2058,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🗺️",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1892,6 +2080,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🐄",
+      "color": "#22C55E",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1912,6 +2102,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "✍️",
+      "color": "#FF7F50",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1932,6 +2124,8 @@
       "tags": [
         "法务部"
       ],
+      "emoji": "📜",
+      "color": "#2ECC71",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1952,6 +2146,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "💻",
+      "color": "cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1972,6 +2168,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "💲",
+      "color": "#E74C3C",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -1992,6 +2190,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🌈",
+      "color": "#4DB6AC",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2012,6 +2212,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🛡️",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2032,6 +2234,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏥",
+      "color": "#2E8B57",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2052,6 +2256,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏥",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2072,6 +2278,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏥",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2092,6 +2300,8 @@
       "tags": [
         "学术部"
       ],
+      "emoji": "📜",
+      "color": "#B45309",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2112,6 +2322,8 @@
       "tags": [
         "产品部"
       ],
+      "emoji": "📊",
+      "color": "amber",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2132,6 +2344,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "🧾",
+      "color": "#2ECC71",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2152,6 +2366,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔄",
+      "color": "amber",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2172,6 +2388,8 @@
       "tags": [
         "学术部"
       ],
+      "emoji": "📖",
+      "color": "#8B5CF6",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2192,6 +2410,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "✍️",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2212,6 +2432,8 @@
       "tags": [
         "法务部"
       ],
+      "emoji": "📑",
+      "color": "#3498DB",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2255,6 +2477,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "📋",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2275,6 +2499,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "⚙️",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2295,6 +2521,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🛡️",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2315,6 +2543,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "🔧",
+      "color": "#2E5090",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2335,6 +2565,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "♟️",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2355,6 +2587,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🌐",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2375,6 +2609,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📕",
+      "color": "#8B5E3C",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2395,6 +2631,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🖼️",
+      "color": "amber",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2415,6 +2653,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏗️",
+      "color": "yellow",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2435,6 +2675,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🎨",
+      "color": "pink",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2455,6 +2697,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "⚙️",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2475,6 +2719,8 @@
       "tags": [
         "学术部"
       ],
+      "emoji": "🌍",
+      "color": "#059669",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2495,6 +2741,8 @@
       "tags": [
         "支持部"
       ],
+      "emoji": "🔧",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2515,6 +2763,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🚀",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2535,6 +2785,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📡",
+      "color": "#FF6B35",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2555,6 +2807,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🕸️",
+      "color": "cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2575,6 +2829,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🔍",
+      "color": "#7c3aed",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2595,6 +2851,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🎯",
+      "color": "#7b2d8e",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2615,6 +2873,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🛡️",
+      "color": "#7b2d8e",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2635,6 +2895,8 @@
       "tags": [
         "学术部"
       ],
+      "emoji": "📚",
+      "color": "#10B981",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2655,6 +2917,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🔒",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2675,6 +2939,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🛡️",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2695,6 +2961,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "💰",
+      "color": "gold",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2715,6 +2983,8 @@
       "tags": [
         "项目管理部"
       ],
+      "emoji": "🧪",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2735,6 +3005,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🌟",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2755,6 +3027,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "💼",
+      "color": "#2E7D32",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2775,6 +3049,8 @@
       "tags": [
         "支持部"
       ],
+      "emoji": "💬",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2795,6 +3071,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📕",
+      "color": "#FF1B6D",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2815,6 +3093,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📕",
+      "color": "#FF2442",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2835,6 +3115,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🔌",
+      "color": "#2D572C",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2855,6 +3137,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🔧",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2875,6 +3159,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "🔌",
+      "color": "#E65100",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2895,6 +3181,8 @@
       "tags": [
         "项目管理部"
       ],
+      "emoji": "🎬",
+      "color": "gold",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2915,6 +3203,8 @@
       "tags": [
         "项目管理部"
       ],
+      "emoji": "⚙️",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2935,6 +3225,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "🔄",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2955,6 +3247,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔄",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2975,6 +3269,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "🔧",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -2995,6 +3291,8 @@
       "tags": [
         "公司经营部"
       ],
+      "emoji": "👔",
+      "color": "#6B7280",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3015,6 +3313,8 @@
       "tags": [
         "付费媒体部"
       ],
+      "emoji": "🎨",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3035,6 +3335,8 @@
       "tags": [
         "供应链部"
       ],
+      "emoji": "📦",
+      "color": "#3498DB",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3055,6 +3357,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "💳",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3075,6 +3379,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📲",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3095,6 +3401,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🔐",
+      "color": "#059669",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3115,6 +3423,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📣",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3135,6 +3445,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📋",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3155,6 +3467,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "⏱️",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3175,6 +3489,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "公众号",
+      "color": "#09B83E",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3195,6 +3511,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "💬",
+      "color": "#07C160",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3215,6 +3533,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "💬",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3235,6 +3555,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📹",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3255,6 +3577,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🔥",
+      "color": "#FF8200",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3275,6 +3599,8 @@
       "tags": [
         "学术部"
       ],
+      "emoji": "🧠",
+      "color": "#EC4899",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3295,6 +3621,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "⚡",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3315,6 +3643,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "⚡",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3335,6 +3665,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "📊",
+      "color": "lime",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3355,6 +3687,8 @@
       "tags": [
         "运营与人力"
       ],
+      "emoji": "🗂️",
+      "color": "#2E3A8C",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3375,6 +3709,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏠",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3395,6 +3731,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "✍️",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3415,6 +3753,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🎨",
+      "color": "pink",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3435,6 +3775,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🌐",
+      "color": "cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3478,6 +3820,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🧠",
+      "color": "navy",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3521,6 +3865,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "📝",
+      "color": "#2563EB",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3541,6 +3887,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "🔍",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3561,6 +3909,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🎵",
+      "color": "#000000",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3604,6 +3954,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📤",
+      "color": "#d69e2e",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3647,6 +3999,8 @@
       "tags": [
         "人力资源部"
       ],
+      "emoji": "🎯",
+      "color": "#9B59B6",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3667,6 +4021,8 @@
       "tags": [
         "支持部"
       ],
+      "emoji": "🎯",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3687,6 +4043,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🧠",
+      "color": "violet",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3707,6 +4065,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🧭",
+      "color": "#0F766E",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3727,6 +4087,8 @@
       "tags": [
         "付费媒体部"
       ],
+      "emoji": "🔎",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3747,6 +4109,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🎙️",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3767,6 +4131,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏛️",
+      "color": "#8B0000",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3787,6 +4153,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🚨",
+      "color": "#e63946",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3807,6 +4175,8 @@
       "tags": [
         "支持部"
       ],
+      "emoji": "📈",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3827,6 +4197,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "📊",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3847,6 +4219,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🗄️",
+      "color": "amber",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3867,6 +4241,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🗃️",
+      "color": "#38a169",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3887,6 +4263,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔐",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3907,6 +4285,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🌏",
+      "color": "#FFA000",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3927,6 +4307,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📄",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3947,6 +4329,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📰",
+      "color": "#FF4444",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3967,6 +4351,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🧳",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -3987,6 +4373,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🛸",
+      "color": "amber",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4007,6 +4395,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "♿",
+      "color": "#0077B6",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4027,6 +4417,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🎭",
+      "color": "cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4047,6 +4439,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🔍",
+      "color": "#0891B2",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4067,6 +4461,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🪶",
+      "color": "#708090",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4087,6 +4483,8 @@
       "tags": [
         "供应链部"
       ],
+      "emoji": "🏭",
+      "color": "#1565C0",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4107,6 +4505,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "⚙️",
+      "color": "#546E7A",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4127,6 +4527,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "✅",
+      "color": "#B22222",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4147,6 +4549,8 @@
       "tags": [
         "支持部"
       ],
+      "emoji": "⚖️",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4167,6 +4571,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🇫🇷",
+      "color": "#002395",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4187,6 +4593,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📑",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4207,6 +4615,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "📈",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4227,6 +4637,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🗡️",
+      "color": "#dc2626",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4247,6 +4659,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🎮",
+      "color": "yellow",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4267,6 +4681,8 @@
       "tags": [
         "游戏开发部"
       ],
+      "emoji": "🔊",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4287,6 +4703,8 @@
       "tags": [
         "供应链部"
       ],
+      "emoji": "🗺️",
+      "color": "#F39C12",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4307,6 +4725,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "🎯",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4327,6 +4747,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🛒",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4347,6 +4769,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "✈️",
+      "color": "#1B4D3E",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4367,6 +4791,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🔍",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4387,6 +4813,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📡",
+      "color": "#E63946",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4407,6 +4835,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "❓",
+      "color": "#0084FF",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4427,6 +4857,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🎓",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4447,6 +4879,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "✂️",
+      "color": "#7B2D8E",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4467,6 +4901,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📱",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4487,6 +4923,8 @@
       "tags": [
         "付费媒体部"
       ],
+      "emoji": "📱",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4507,6 +4945,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🏦",
+      "color": "#1A73E8",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4527,6 +4967,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "📱",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4547,6 +4989,8 @@
       "tags": [
         "付费媒体部"
       ],
+      "emoji": "💰",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4567,6 +5011,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "🧾",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4587,6 +5033,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "📦",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4607,6 +5055,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "📊",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4627,6 +5077,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "⚔️",
+      "color": "#1e90ff",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4647,6 +5099,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "📒",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4667,6 +5121,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🧠",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4687,6 +5143,8 @@
       "tags": [
         "空间计算部"
       ],
+      "emoji": "🖥️",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4707,6 +5165,8 @@
       "tags": [
         "人力资源部"
       ],
+      "emoji": "📋",
+      "color": "#F39C12",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4727,6 +5187,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🔄",
+      "color": "#673AB7",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4747,6 +5209,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "⚙️",
+      "color": "cyan",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4767,6 +5231,8 @@
       "tags": [
         "产品部"
       ],
+      "emoji": "🧩",
+      "color": "#FF8A65",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4787,6 +5253,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🎬",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4807,6 +5275,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🎞️",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4827,6 +5297,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "🎬",
+      "color": "crimson",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4847,6 +5319,8 @@
       "tags": [
         "GIS 部"
       ],
+      "emoji": "🔧",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4867,6 +5341,8 @@
       "tags": [
         "测试部"
       ],
+      "emoji": "🗂️",
+      "color": "#708090",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4887,6 +5363,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🌐",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4907,6 +5385,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🎙️",
+      "color": "violet",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4927,6 +5407,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "📈",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4947,6 +5429,8 @@
       "tags": [
         "支持部"
       ],
+      "emoji": "💵",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4967,6 +5451,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "🔮",
+      "color": "#3498DB",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -4987,6 +5473,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📝",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5007,6 +5495,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "🏆",
+      "color": "#1B4D3E",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5027,6 +5517,8 @@
       "tags": [
         "产品部"
       ],
+      "emoji": "🔭",
+      "color": "violet",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5047,6 +5539,8 @@
       "tags": [
         "设计部"
       ],
+      "emoji": "✨",
+      "color": "pink",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5067,6 +5561,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🌐",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5087,6 +5583,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔐",
+      "color": "#2d5a27",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5107,6 +5605,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🕸️",
+      "color": "#C5A572",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5127,6 +5627,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "🎠",
+      "color": "#FF0050",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5147,6 +5649,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🏛️",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5167,6 +5671,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "⚙️",
+      "color": "slate",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5187,6 +5693,8 @@
       "tags": [
         "付费媒体部"
       ],
+      "emoji": "📡",
+      "color": "orange",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5207,6 +5715,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "📧",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5227,6 +5737,8 @@
       "tags": [
         "营销部"
       ],
+      "emoji": "📧",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5247,6 +5759,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🏨",
+      "color": "teal",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5267,6 +5781,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "🕵️",
+      "color": "#E74C3C",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5287,6 +5803,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🔍",
+      "color": "amber",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5307,6 +5825,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🔗",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5327,6 +5847,8 @@
       "tags": [
         "销售部"
       ],
+      "emoji": "🏋️",
+      "color": "#E65100",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5347,6 +5869,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "📊",
+      "color": "#2b6cb0",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5367,6 +5891,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "↩️",
+      "color": "amber",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5387,6 +5913,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🇰🇷",
+      "color": "#003478",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5407,6 +5935,8 @@
       "tags": [
         "项目管理部"
       ],
+      "emoji": "🐑",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5427,6 +5957,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "🐦",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5447,6 +5979,8 @@
       "tags": [
         "公司经营部"
       ],
+      "emoji": "🧭",
+      "color": "indigo",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5467,6 +6001,8 @@
       "tags": [
         "公司经营部"
       ],
+      "emoji": "👔",
+      "color": "navy",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5487,6 +6023,8 @@
       "tags": [
         "公司经营部"
       ],
+      "emoji": "🛠️",
+      "color": "slate",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5507,6 +6045,8 @@
       "tags": [
         "公司经营部"
       ],
+      "emoji": "📣",
+      "color": "crimson",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5527,6 +6067,8 @@
       "tags": [
         "公司经营部"
       ],
+      "emoji": "💼",
+      "color": "navy",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5547,6 +6089,8 @@
       "tags": [
         "公司经营部"
       ],
+      "emoji": "⚙️",
+      "color": "steel",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5567,6 +6111,8 @@
       "tags": [
         "金融部"
       ],
+      "emoji": "⚖️",
+      "color": "#1A237E",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5587,6 +6133,8 @@
       "tags": [
         "支持部"
       ],
+      "emoji": "📝",
+      "color": "purple",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5607,6 +6155,8 @@
       "tags": [
         "安全部"
       ],
+      "emoji": "🛡️",
+      "color": "#E67E22",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5627,6 +6177,8 @@
       "tags": [
         "工程部"
       ],
+      "emoji": "👨‍💻",
+      "color": "green",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5647,6 +6199,8 @@
       "tags": [
         "项目管理部"
       ],
+      "emoji": "👔",
+      "color": "blue",
       "latestVersion": "1.0.0",
       "versions": [
         {
@@ -5667,6 +6221,8 @@
       "tags": [
         "专项部"
       ],
+      "emoji": "🎓",
+      "color": "red",
       "latestVersion": "1.0.0",
       "versions": [
         {

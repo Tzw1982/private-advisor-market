@@ -260,6 +260,13 @@ Map<String, dynamic> buildIndexEntry(Directory pkgDir, {String? releaseBaseUrl})
     'description': expert['description'],
     'categoryId': manifest['categoryId'],
     'tags': expert['tags'] ?? [],
+    // 第 7 轮 T06（emoji 方案）：把包内 expert.json 的 emoji / color 透传进索引。
+    // **纯 additive**：仅当非空才写；`schemaVersion` 保持 1——客户端
+    // `MarketPackage.fromJson` 逐字段取值、忽略未知字段 → 旧客户端读到这两个
+    // 新字段会忽略、行为不变；新客户端读旧索引则两字段缺失 → 走回退档。
+    // 红线：绝不允许借此改动 `packages-src/**` 内任何已有包（改则 sha256 不符 → 包被剔除）。
+    if ('${expert['emoji'] ?? ''}'.trim().isNotEmpty) 'emoji': expert['emoji'],
+    if ('${expert['color'] ?? ''}'.trim().isNotEmpty) 'color': expert['color'],
     'latestVersion': version,
     'versions': [
       {

@@ -3,7 +3,10 @@
   "profession": "AI 搜索可见性与 GEO 策略师",
   "description": "面向 ChatGPT、Claude、Google Search AI 功能。",
   "tags": [
-    "营销部"
+    "AI 搜索",
+    "GEO 策略",
+    "品牌引用",
+    "SEO 排名"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🤖",

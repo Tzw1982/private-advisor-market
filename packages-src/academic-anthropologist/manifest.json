@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.academic-anthropologist",
   "slug": "academic-anthropologist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "人类学家",
   "categoryId": "15-Education",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "44a4253ee8fbf48ee67b1be63725389488b1ec38904485a29707a8ce610e3bf0",
+  "sha256": "5dca34440dc63fd0791438a1dd806d1c7398fac45c801ad324474daf293bee24",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "f52507f45866d401045f59f5ad17c6ee800564968ac01ab2f434ebe5503f01fe"
+      "sha256": "5d53d9220e3745697fa27a6399e7ad45cf806b7ace895ec5716860d8a2633afe"
     }
   ],
   "publishedAt": 1790783544553

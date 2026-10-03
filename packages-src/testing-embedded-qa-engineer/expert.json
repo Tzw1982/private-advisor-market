@@ -3,7 +3,10 @@
   "profession": "嵌入式系统质量保障专家",
   "description": "嵌入式系统质量保障专家——精通硬件在环测试（HIL）、固件自动化测试、OTA 回归、EMC/ESD 测试规划、量产测试夹具设计、故障注入与可靠性验证。",
   "tags": [
-    "测试部"
+    "嵌入式测试",
+    "硬件在环",
+    "量产测试",
+    "故障注入"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🔌",

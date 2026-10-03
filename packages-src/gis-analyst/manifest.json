@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.gis-analyst",
   "slug": "gis-analyst",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "GIS 分析师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "154c2778c8919ad4c5f1aeeb82cd321c58b2ba017d9ba78b36021861857197d8",
+  "sha256": "457995d702c375c74ae923b72b9791e11a894bf35617cf466744647f3f9d84eb",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "53696d9df59b6696b69f141731b425cf89e23cf98a23d58708a134f397c9fb23"
+      "sha256": "3946e9e327dfde2b3535673abbe381a6cfb98dcb22192087b799890cd60f8308"
     }
   ],
   "publishedAt": 1790783546345

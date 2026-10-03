@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.visionos-spatial-engineer",
   "slug": "visionos-spatial-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "visionOS 空间工程师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "f983da3ace13b5edf35232f99fccbbb4b84819b4087b3183087e4723dffc03d5",
+  "sha256": "94d9609197b0e9648b6c9d46752c5de78993aa4363a60906eedb58cb33ee3737",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "789a225ef4e93f54b9b445cd20404977dc82f7c7480fd07e23ac3559d6d8398c"
+      "sha256": "9fb89c8bf10b9a5ed176d14f188d412d3835d35b475242aeea7b46fda5e04ca6"
     }
   ],
   "publishedAt": 1790783549613

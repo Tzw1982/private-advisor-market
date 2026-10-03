@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-xiaohongshu-specialist",
   "slug": "marketing-xiaohongshu-specialist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "小红书专家",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "5e214584fd06bb0d5929111637888c44b9c1862189bc6c485a0e9f3afbc93072",
+  "sha256": "09cc6fdf04708fb5f1fb1b424939f8b330bde3163997487939cd257ced472a6b",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "86848bdf50d215bc5165156e640c0b6085425bea06ec03423d40590d2ad41e04"
+      "sha256": "38a97e7c2f90705f90d8546bbf05763846035c14a7316f864ae851085cf7551c"
     }
   ],
   "publishedAt": 1790783547742

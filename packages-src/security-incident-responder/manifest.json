@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.security-incident-responder",
   "slug": "security-incident-responder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "事件响应专家",
   "categoryId": "11-SecurityCompliance",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "4e7d9726c9718a4897e77c036b20cd3ef08fbb2abd668950b66118b604d48644",
+  "sha256": "a835c3885a6ac2a9ce2aed786a2f17b21cd48ad94af94f42c6a42f3eb86c3919",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "f2712179574e1bf29f925b9f5832a7145f99e3e81f8450b8ff99ea43a0c6ff7e"
+      "sha256": "64124bfe7e196429a5632ccc1315389f191c4b886a8fa485980890d1de30976d"
     }
   ],
   "publishedAt": 1790783548607

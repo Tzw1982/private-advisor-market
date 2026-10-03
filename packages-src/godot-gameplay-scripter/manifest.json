@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.godot-gameplay-scripter",
   "slug": "godot-gameplay-scripter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Godot 游戏脚本开发者",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "6d7587a447335bb92982df25b92e6563f6dad486b297acac66d5d3697eb7a112",
+  "sha256": "037d8429ea99f3ef064cc26348582fb771bc5eea9bd35dd13cf1a23162371577",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "752aaf304b5d43db3c2b7917c07f7234e71e4061de81575760ed3545e994813a"
+      "sha256": "5b7f5d19691b9c523ee543fa219a882d4fa1fb266bbaa985d448180d1f2ca160"
     }
   ],
   "publishedAt": 1790783546517

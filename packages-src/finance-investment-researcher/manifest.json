@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.finance-investment-researcher",
   "slug": "finance-investment-researcher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "投资研究员",
   "categoryId": "08-FinanceInvestment",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "29433a79b40c388247d501f9ca7ec0e2ddd525335cc84efb71fa06a5b76f2525",
+  "sha256": "50aee416e7bdcebf1a8da44c7ca842b6fdbd3c841bad4c5b84300e7925146ca7",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "1a2db6e4466ceb2778d5a7879a760964161d5785d2beaeb0c2d57143cb2f0d8e"
+      "sha256": "390f5d9823791d405c8f8712007729b082aa4e7f41c9739450fa6a8b22d5d04c"
     }
   ],
   "publishedAt": 1790783546231

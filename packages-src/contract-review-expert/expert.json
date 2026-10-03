@@ -7,5 +7,7 @@
   "welcomeMessage": "把合同发我，我按风险等级列出问题条款和修改建议。",
   "recommendedModel": "deepseek-chat",
   "temperature": 0.2,
-  "knowledgeHint": "公司合同模板 / 法务红线清单"
+  "knowledgeHint": "公司合同模板 / 法务红线清单",
+  "emoji": "📜",
+  "color": "#059669"
 }

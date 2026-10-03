@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.design-ux-researcher",
   "slug": "design-ux-researcher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "UX 研究员",
   "categoryId": "01-ProductDesign",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "8b27d4c0b07ef773934d02a655f0cebf6b9c62bf95648fcafd3ce7da699b73cb",
+  "sha256": "e555af1d3c35fde0365bdf8fe797042b5a299d8a0277f1ca9c03b8b608b4779b",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "c7fcfbad877b4724d1d353dd3b7694ed8cd95d5fc9915018e318e8172c5b0080"
+      "sha256": "2dd3a9f553e2b7389edbeaea6854f71e6bf9f113ffa075392e8046a9ed55252f"
     }
   ],
   "publishedAt": 1790783545174

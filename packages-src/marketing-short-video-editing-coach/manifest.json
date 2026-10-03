@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-short-video-editing-coach",
   "slug": "marketing-short-video-editing-coach",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "短视频剪辑指导师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "306eaef11567d4ae5619ef252ee59beae643a428d004aae22e53e602f0a754a9",
+  "sha256": "d12af3c5b6e5cd529c94e29697af4b78fceec776422d9b1e01e1a81ffdca8d7f",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "2b0985c809b840a944011bc1f197d480a564a2c4d322e974b185daedde8691aa"
+      "sha256": "d9801ff5900382957ca485cd5cd23721ad391b62a6f24b5567bce25c3bf510cd"
     }
   ],
   "publishedAt": 1790783547548

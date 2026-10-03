@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "9e153a524091aa88cf5942d0d349f9794a1dd75b1b6f9c21ae3ac81419f9cdba",
+  "sha256": "106e8486136fd2e17711ec27d2d7254ae67d41e6e8fa022eff1d466820c26c8e",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "794bf200932a5e8a3cab195393c82ccb65bffd91b40263af319ebebe8f69e59e"
+      "sha256": "8c069f85611a0beabecd9ff3d8912baa2fb177ff5c15985ad19d20b2a56297a9"
     }
   ],
   "publishedAt": 1790762108615

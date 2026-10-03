@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.finance-financial-forecaster",
   "slug": "finance-financial-forecaster",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "财务预测分析师",
   "categoryId": "08-FinanceInvestment",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "612f5c97c59f4a2ad8c7ef657cb7f558300bc443fcd9b34344f82f2800a05f3c",
+  "sha256": "da34138e9fd82905a32c71fbb8bf21d6746b79acb55574a9997cdaa009a1b7a1",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "4cbac805f0e7d6f38a00bc3b6aa2e293756c4396cb3c8725ab9572aea887d097"
+      "sha256": "20d08d6a45104f20bf753fa326a94163813f75caa6407d0d56d57aa8c055fa3d"
     }
   ],
   "publishedAt": 1790783546143

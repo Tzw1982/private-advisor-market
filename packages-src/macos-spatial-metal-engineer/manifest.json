@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.macos-spatial-metal-engineer",
   "slug": "macos-spatial-metal-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "macOS Metal 空间工程师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "81937818db4a135943f72baf58bd4eff45cf67849097ec689ddec9b907c5587f",
+  "sha256": "b346798935d82ca5bdde2ec4145bd34c691b404e14aa7ca37631c9e72b6fa847",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "89c0f945c13cee1402ffb489df99e33db9c64805548b8e17a446074a268590e2"
+      "sha256": "d1e48dbb90d760ce395e9b4fd237c285a89d3f17e856d79d55376d2712cb8022"
     }
   ],
   "publishedAt": 1790783546984

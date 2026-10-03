@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.specialized-french-consulting-market",
   "slug": "specialized-french-consulting-market",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "法国咨询市场专家",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "7517e8b0181c2ab2a2d0d568beb212fa71a0e45ebbcb4c85f925a59cc9654943",
+  "sha256": "689536e621cbdf025563beec8d7436ce6a416473af9177635ca3cc25e288ae63",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "2a544236cd8ee9e8a72314b43f1961ccc2cf0d1c283db18377acb73fd4a35fd3"
+      "sha256": "3964ed6f625f4b0ad97e0dc02238f18fed125cf1b0ecb1468b1cb25372297d35"
     }
   ],
   "publishedAt": 1790783548798

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.supply-chain-vendor-evaluator",
   "slug": "supply-chain-vendor-evaluator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "供应商评估专家",
   "categoryId": "07-SalesCommerce",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "82bbbbfd035e40e1dd32f58cb46d532ace2b0854d9608782ef31c2caaa198215",
+  "sha256": "621993fb1edbe8cadf460ca4218943f16559e96d62a9d3c33ff81ba6c06358da",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "5adeef955823a5203afaa346d749e372a70ca91c2bed5e8e6b6b26e5afa11f1f"
+      "sha256": "9742d7e1e14e2d6b17a29a79195487b8e6ca1ddedf714d36c4d0f3d25fac0dfe"
     }
   ],
   "publishedAt": 1790783549065

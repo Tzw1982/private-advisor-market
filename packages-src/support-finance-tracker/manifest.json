@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.support-finance-tracker",
   "slug": "support-finance-tracker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "财务追踪员",
   "categoryId": "09-OperationsHR",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "03b1c71b61dec243eca6dba7ad732c1dbaeebdc848b87b3031c7badbd089ea04",
+  "sha256": "7bdb9305c5435d44efa8a658f430e733e2508d944ac5239cc4eac983962c66ad",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "59a1d3ef49bd64c5d073a931c766e155cbc389e53936be43d017d1418ad433f3"
+      "sha256": "5ae1c2bb60973fb2f8f9cf89e673080cf235f8b625299858115c5445d7bb0884"
     }
   ],
   "publishedAt": 1790783549115

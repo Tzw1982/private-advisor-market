@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.grant-writer",
   "slug": "grant-writer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "资助申请撰稿人",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "8c9d6ab1a6470486ecd27c1ebab9f081ece6a7a4914f283952aff3ed79049225",
+  "sha256": "fccef281aeb1398cbba42d8c05f0b24ecfd88b418246bff810fc1510a41469cb",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "d33fd707ecc40bcc7e927769283f1332979194dd6c216698e46ec730e47fe204"
+      "sha256": "f7223b949cc6ad5f46875348e9e8dee5902efb2102f7094bcfc24c0992b7b4d7"
     }
   ],
   "publishedAt": 1790783546609

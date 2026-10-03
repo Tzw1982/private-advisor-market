@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.unreal-technical-artist",
   "slug": "unreal-technical-artist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Unreal 技术美术",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "634d131768ac54fa717c75e05d552a762e485c74fce44a6581e9da6605516e3c",
+  "sha256": "4796067477544118fa9cdf3ef90141e95ffbbce4fefc0ae30dc0f067fd39fc96",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "018449061ba2d6abc93f288bc01f76fb8434d2f9d1888d3deb11b750436365f1"
+      "sha256": "94140e6a830aca2adaf3a3790536d51cd4b3896396dc8cf0686d412434e2afeb"
     }
   ],
   "publishedAt": 1790783549569

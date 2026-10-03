@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-ai-citation-strategist",
   "slug": "marketing-ai-citation-strategist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "AI 搜索可见性与 GEO 策略师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "42b423ba2256301aa76c5478b58903a2cafcbdf62d5493e9624c97f919afc9b1",
+  "sha256": "cee143e50264a78092fc8b779e538526f5461aee84847f3529211d4b32b6ce45",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "d81a5315f81cdc859afa35a87a7c9cd05a09597f9135faf5bebe23de40d4dd34"
+      "sha256": "a8a1724759b97a0f85759f8c2537d773dbcdbf17c14726fe55feeab0407652fc"
     }
   ],
   "publishedAt": 1790783547033

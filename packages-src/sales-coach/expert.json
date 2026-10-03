@@ -3,7 +3,10 @@
   "profession": "专注销售团队能力提升的教练专家",
   "description": "专注销售团队能力提升的教练专家，擅长 Pipeline Review、通话辅导、单子策略和 Forecast 准确度管理。",
   "tags": [
-    "销售部"
+    "销售教练",
+    "Pipeline Review",
+    "通话辅导",
+    "单子策略"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🏋️",

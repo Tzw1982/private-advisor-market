@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.project-management-meeting-notes-specialist",
   "slug": "project-management-meeting-notes-specialist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "会议纪要专家",
   "categoryId": "10-ProjectQuality",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "5a72ef7f5a3cc0f77d941b01a42bbf267e7fa1186f26b597268551e5a51b40df",
+  "sha256": "1a7de84601986cbeb99ac36e4726fd6b6fa6386348d708571ee5f7304be2fa83",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "5efc71950c20b8dd7798221147b081ebbf6bb49632b5bfcbe696cbf81be51486"
+      "sha256": "d4b16ccdad966c206eefcfdfbc85b7bacaa2065884c6a9a3e86594198e18ad41"
     }
   ],
   "publishedAt": 1790783548099

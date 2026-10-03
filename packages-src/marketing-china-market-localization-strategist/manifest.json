@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-china-market-localization-strategist",
   "slug": "marketing-china-market-localization-strategist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "中国市场本地化策略师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "664aaa40d21535a43dddcaad61a652c7df48c050f5a03cb78f688251a44b424a",
+  "sha256": "f579be34d39024f7e997c40c33a9e14bd51c973381f84d84cfcc7fb9178842ad",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "b1968fc3a995e5fa4b2cb115b61293c82774bd53ff3a23b164fd981f94547610"
+      "sha256": "9b1c5a16342e3fbe9f99ed98c74b68434b89031c3a0ab524a7bf8308a7091c77"
     }
   ],
   "publishedAt": 1790783547162

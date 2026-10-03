@@ -3,7 +3,10 @@
   "profession": "Unity 编辑器自动化专家",
   "description": "Unity 编辑器自动化专家——精通自定义 EditorWindow、PropertyDrawer、AssetPostprocessor。",
   "tags": [
-    "游戏开发部"
+    "Unity",
+    "编辑器工具",
+    "工具开发",
+    "自动化"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🔧",

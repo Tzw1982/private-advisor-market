@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-network-engineer-china",
   "slug": "engineering-network-engineer-china",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "国内网络工程师",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "d2fac32517b0c5209820873b0a82ae75a43be988691bcdccd0afeb85fae1ab2e",
+  "sha256": "19dedc0e62f7a6fae964575978f9b0f783c5de0bd7f6fd28dc278525ccdb6f63",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "251b974e6204a58edbeb25830003adfadc679c4cef68211293b511f4fade412f"
+      "sha256": "7fcedc9873d11df117a0568c9081ec6eead3c1fe4b506ea8801b5e40ea17ab9e"
     }
   ],
   "publishedAt": 1790783545778

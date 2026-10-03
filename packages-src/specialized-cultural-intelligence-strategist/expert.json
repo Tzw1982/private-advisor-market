@@ -3,7 +3,10 @@
   "profession": "文化智商（CQ）专家",
   "description": "文化智商（CQ）专家，检测隐性排斥、研究全球化上下文，确保软件产品在跨文化和交叉身份中产生真实共鸣。",
   "tags": [
-    "专项部"
+    "本地化",
+    "国际化",
+    "文化差异",
+    "包容性设计"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🌏",

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.godot-multiplayer-engineer",
   "slug": "godot-multiplayer-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Godot 多人游戏工程师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "7f4e849801d9dc8ed0b1a6dabafbddae68d5ceb972ed8230cc6b49e7cd25b0cc",
+  "sha256": "bea4544263baae55a16be5005850c4e383a1957c5c2f7b8d09af4569d63c01d4",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "fbb7b0e4466e95ab1b19345b2f61b82896bfcb6ad3673d37e03f170affd50ea5"
+      "sha256": "30b87e05f99090423f6f4aa9262499bba7017ce26dcea4788c22d4ffdf2ac585"
     }
   ],
   "publishedAt": 1790783546545

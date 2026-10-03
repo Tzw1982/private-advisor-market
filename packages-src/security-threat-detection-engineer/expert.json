@@ -3,7 +3,10 @@
   "profession": "资深检测工程师",
   "description": "资深检测工程师，专注于 SIEM 规则开发、MITRE ATT&CK 覆盖映射、威胁狩猎、告警调优。",
   "tags": [
-    "安全部"
+    "威胁检测",
+    "SIEM规则",
+    "威胁狩猎",
+    "ATT&CK"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🎯",

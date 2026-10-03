@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.specialized-risk-assessor",
   "slug": "specialized-risk-assessor",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "企业风险评估师",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "ccac1e968627017efd0eaa21befe85d5f009452107f6bcc3e06c1b35a074a3b6",
+  "sha256": "8d3fa44631142915e8538a2ce3063f770dcf8ff1c6426241ccc3b6a86411e970",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "7cb753da8a9c72427244fa6a78d3aac8ddf0d8df7426c39ea650b18e6fea7b53"
+      "sha256": "ed2f62c8ff233fb9e99f2912192548ebc7d4c7f2ff844981ea382004a7193c88"
     }
   ],
   "publishedAt": 1790783548917

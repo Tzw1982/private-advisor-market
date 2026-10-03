@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.medical-billing-coding-specialist",
   "slug": "medical-billing-coding-specialist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "医疗账单与编码专员",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "729edf43091078fe183d57c671513deec77ece313b531daf9689a51bacacdb36",
+  "sha256": "a36bcf0fd84ab9469dd1422f68203c3fafe925a8e5f641327709f81da0aedc9b",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "246b2bfa06d6d9a750e924828f7adf1c219103e622af9e04a402d3daef36d5b4"
+      "sha256": "c1dd33aeb14a4a471b8c192be0f8716cc46930c2784ea5c168ae893cb4bb4aff"
     }
   ],
   "publishedAt": 1790783547776

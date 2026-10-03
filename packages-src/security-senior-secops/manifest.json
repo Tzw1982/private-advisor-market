@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.security-senior-secops",
   "slug": "security-senior-secops",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "高级安全运营工程师",
   "categoryId": "11-SecurityCompliance",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "d589914342dc1050a98bfa17945dd499ee5a7656a98cb1154d685e68fdb445cf",
+  "sha256": "93ac9fee092c42905e577c43706a811e03420a459dcf349a63a349909ec94bca",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "49eeb6629d0db29bcaad9f7b1d51f61107820ef1d0236b2c06ec2105a0e7e897"
+      "sha256": "25f8e5e5f9e6b83e3598182ba9ffe3b6a8a8cb0039cc35bef2d8dbb739a9dadf"
     }
   ],
   "publishedAt": 1790783548643

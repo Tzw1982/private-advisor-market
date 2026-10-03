@@ -3,7 +3,10 @@
   "profession": "数据库性能专家",
   "description": "数据库性能专家，专注于 Schema 设计、查询优化、索引策略和性能调优，精通 PostgreSQL、MySQL 及 Supabase。",
   "tags": [
-    "工程部"
+    "数据库",
+    "性能调优",
+    "查询优化",
+    "索引策略"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🗄️",

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.paid-media-creative-strategist",
   "slug": "paid-media-creative-strategist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "广告创意策略师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "2afe3007ba0c5fd93a9d48ab6bb5628c14d53d33e5f2ca5c194a64879ee54fd8",
+  "sha256": "ad6939db8f34c1fa0f41b600a60edd91dddf256c7bb2a27b5bc062cb88cc14cf",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "b276ad2b39d32d8bad59ad9f16279c78740838fd1d309cb36d13ee32108a06da"
+      "sha256": "8ad6ddaf2721b0568f926d4bc6a85a8d4aad1f8b0b8d069855b7440096e37980"
     }
   ],
   "publishedAt": 1790783547866

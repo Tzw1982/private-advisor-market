@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-software-architect",
   "slug": "engineering-software-architect",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "软件架构师",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "04bcd788c079d291fbd59fc860234526b07b832b65868a7c9c8924d51ecb708d",
+  "sha256": "5e0679522c26381ad286e884204f18c7bdbdeb8e6581e5849c55f8d48a42bdcb",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "b0ba8945c0b4b3af4fc6af73be9ff783f225726f754241aaa8a792e23fd68fa6"
+      "sha256": "e48abb123e947eb5c0fb44e5fb254f46ba318582be870d16bdfaa5f3d5bcc71e"
     }
   ],
   "publishedAt": 1790783545942

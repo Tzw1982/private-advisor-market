@@ -3,7 +3,10 @@
   "profession": "嵌入式 Linux 内核驱动与 BSP 开发专家",
   "description": "嵌入式 Linux 内核驱动与 BSP 开发专家——精通 Linux 内核模块、设备树、Platform/I2C/SPI/USB 驱动框架、DMA、中断子系统。",
   "tags": [
-    "工程部"
+    "内核驱动",
+    "设备树",
+    "交叉编译",
+    "嵌入式"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🔌",

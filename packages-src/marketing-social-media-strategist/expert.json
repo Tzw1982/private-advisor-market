@@ -3,7 +3,10 @@
   "profession": "跨平台社交媒体策略专家",
   "description": "跨平台社交媒体策略专家，专注 LinkedIn、Twitter 等职业社交平台的品牌建设、社区运营和整合营销。",
   "tags": [
-    "营销部"
+    "社交媒体",
+    "LinkedIn",
+    "社区运营",
+    "内容日历"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📱",

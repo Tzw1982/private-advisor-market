@@ -3,7 +3,10 @@
   "profession": "跨平台社交广告专家",
   "description": "跨平台社交广告专家，覆盖 Meta（Facebook/Instagram）、LinkedIn、TikTok（抖音海外版）、Pinterest。",
   "tags": [
-    "付费媒体部"
+    "社交广告",
+    "广告投放",
+    "受众定向",
+    "TikTok"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📱",

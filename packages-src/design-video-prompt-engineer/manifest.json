@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.design-video-prompt-engineer",
   "slug": "design-video-prompt-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "视频提示词工程师",
   "categoryId": "01-ProductDesign",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "f6bbc3eea7ce5824c90fca61688c7bded054bc856d8aa373432130b09b76519a",
+  "sha256": "842aff0ba172bc9ccddd396f1a5c462a136e2385d1bd70de896face44577d9e9",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "795b1340686fda95262563469c00bc00e7cdd1663094b3b73a0385f480f38fb1"
+      "sha256": "f35f3e79e568725b43bdf49dc78cf294408130a61ac593ff8a388a48ba877400"
     }
   ],
   "publishedAt": 1790783545198

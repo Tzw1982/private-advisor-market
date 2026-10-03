@@ -3,7 +3,10 @@
   "profession": "社交情报专家",
   "description": "社交情报专家，负责 X/Twitter 调研、趋势识别、账号监测，并基于公开信号与结构化数据流程产出有证据支撑的受众洞察。",
   "tags": [
-    "营销部"
+    "社交情报",
+    "趋势识别",
+    "品牌监测",
+    "竞品情报"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🛰️",

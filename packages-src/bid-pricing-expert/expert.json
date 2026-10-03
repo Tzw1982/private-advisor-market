@@ -7,5 +7,7 @@
   "welcomeMessage": "把技术规格、配置清单和成本数据给我，我帮你算报价空间。",
   "recommendedModel": "deepseek-reasoner",
   "temperature": 0.2,
-  "knowledgeHint": "历史成交价 / 成本清单"
+  "knowledgeHint": "历史成交价 / 成本清单",
+  "emoji": "🧮",
+  "color": "#E67E22"
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.paid-media-programmatic-buyer",
   "slug": "paid-media-programmatic-buyer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "程序化广告采买专家",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "ff15a1735dd1673debdf076c04b3576c5ae0305833c3fe137b9ccbe253a10ec4",
+  "sha256": "0a4f47ed761f693f1a6cb099494cf520059d3809d797845e414c7c0f88ad7646",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "f32b08c52cad5d591b02113aff77c361b2694e302565bddc584ef537e53c14f3"
+      "sha256": "e4265333f4b23df55e6fd0fe490ce097acb532af69da1067325a87a517fd28fb"
     }
   ],
   "publishedAt": 1790783547904

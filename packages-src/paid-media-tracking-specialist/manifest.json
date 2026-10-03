@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.paid-media-tracking-specialist",
   "slug": "paid-media-tracking-specialist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "追踪与归因专家",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "7506b920588c74b31967138d382f2e069e16cc70093b66c0763a104e1521a75e",
+  "sha256": "536e62549fb6d06ce1094c2027290b6addb93f605e15a497de72b807df693710",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "4e1442fa50419bcf208a7cdce617e3fa8fdd39ff118fca942b6ca15e4d357e2e"
+      "sha256": "a63e91da186c35393659981d2d51c553a58397b2160e8c115cf2d48a49f2b99b"
     }
   ],
   "publishedAt": 1790783547943

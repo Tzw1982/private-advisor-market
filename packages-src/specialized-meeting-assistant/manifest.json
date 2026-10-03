@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.specialized-meeting-assistant",
   "slug": "specialized-meeting-assistant",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "会议效率专家",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "c3253585db3f7faaf973ad70e7f85ceb949d79ba87e8ea7a63cea3683619b154",
+  "sha256": "72773d075d4bfd8db6ccd22e6a6447c5acceea522df1f3f9218e362c9a40d982",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "60f4d436559edaae1e6aa5307459e3f045c1ddbfad11b261485638b695daaf25"
+      "sha256": "06f8cbdcca1f18b4c4ba552e5a56123f5d2555f8f24c62ea26f7e320bb8351db"
     }
   ],
   "publishedAt": 1790783548846

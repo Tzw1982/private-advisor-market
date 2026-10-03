@@ -3,7 +3,10 @@
   "profession": "自愈数据管道专家",
   "description": "自愈数据管道专家——使用气隙隔离的本地 SLM 和语义聚类，自动检测、分类和修复大规模数据异常。",
   "tags": [
-    "工程部"
+    "数据修复",
+    "数据管道",
+    "语义聚类",
+    "审计追踪"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🧹",

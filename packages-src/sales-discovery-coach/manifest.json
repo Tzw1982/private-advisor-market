@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.sales-discovery-coach",
   "slug": "sales-discovery-coach",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Discovery 教练",
   "categoryId": "07-SalesCommerce",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "7b948687625e245b02890bc8bd8d95694ffbecf7af8219dcc100008354044259",
+  "sha256": "c73942f0541ff18abf6e01335283172dbe7e6ace0b8612da8786e5e87e81a01a",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "316a19e3bd1b7f6b20abd5c3a771e46fd04a1035279acbc39619f5386ea3ff0f"
+      "sha256": "9910fd9ea508d6ae0c0af691826cce22d7866709e57d5407cdd596aaf24d67ba"
     }
   ],
   "publishedAt": 1790783548415

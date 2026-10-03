@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.chief-executive-officer",
   "slug": "chief-executive-officer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "首席执行官（CEO）",
   "categoryId": "09-OperationsHR",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "07c3c6f982597539948fb2f937913bfaacac623e56320a03d39f57f6cc86db41",
+  "sha256": "1ab230ca7daf4671a9a32c38ef1c13215860a501da15b3fb3ec355a33f74118e",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "380759dd39f34334c7138664128a66679e12679eb4802b58f70ddaf6c2bce663"
+      "sha256": "ad57aa2f659397665aca7ab7a35ee343bb227ca3f534c87037ab6d4a71e34c00"
     }
   ],
   "publishedAt": 1790783544834

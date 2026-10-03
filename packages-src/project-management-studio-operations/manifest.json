@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.project-management-studio-operations",
   "slug": "project-management-studio-operations",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "工作室运营",
   "categoryId": "10-ProjectQuality",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "e09cf0d882f0cfed5bfc66814ab8a81499878ce2646d7223deb50dc435f39f97",
+  "sha256": "2b1b86698d0134af484b7e02abdbe9ea478786c954e599e2b4644d491acd8f9b",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "1bef294d31a33a9c0e193d32b9046a2fe20e29911262435ccb016df36f510ab6"
+      "sha256": "5c9d1e62a53b9438e29361e847afb533b25825793b3b54da1e9f927b07e088cc"
     }
   ],
   "publishedAt": 1790783548123

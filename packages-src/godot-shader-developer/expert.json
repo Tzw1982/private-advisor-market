@@ -3,7 +3,10 @@
   "profession": "Godot 4 视觉效果专家",
   "description": "Godot 4 视觉效果专家——精通 Godot 着色语言（类 GLSL）、VisualShader 编辑器。",
   "tags": [
-    "游戏开发部"
+    "视觉效果",
+    "Shader 优化",
+    "表面材质",
+    "全屏后处理"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🎨",

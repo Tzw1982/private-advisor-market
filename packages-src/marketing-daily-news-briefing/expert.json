@@ -3,7 +3,10 @@
   "profession": "新闻情报官",
   "description": "国内外多源新闻实时采集与结构化简报生成，为内容创作团队提供高质量新闻素材。",
   "tags": [
-    "营销部"
+    "新闻简报",
+    "新闻采集",
+    "交叉验证",
+    "热搜"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📰",

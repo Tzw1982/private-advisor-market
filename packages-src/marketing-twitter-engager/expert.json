@@ -3,7 +3,10 @@
   "profession": "Twitter 营销专家",
   "description": "Twitter 营销专家，适合出海营销场景。擅长实时互动、思想领袖建设和社区驱动增长，通过真实对话建立品牌影响力。",
   "tags": [
-    "营销部"
+    "Twitter",
+    "实时互动",
+    "Thread创作",
+    "社区建设"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🐦",

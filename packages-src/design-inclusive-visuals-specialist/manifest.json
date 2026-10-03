@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.design-inclusive-visuals-specialist",
   "slug": "design-inclusive-visuals-specialist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "包容性视觉专家",
   "categoryId": "01-ProductDesign",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "ea8cac9e032e9e28a31de875d293a2430868ae7ea129ad9037b41bd0c28b707c",
+  "sha256": "3899485b434ba729872da41901443e9cecde885d8dbe5409b60808eb0b55af83",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "949279f0d9a8a7300df97dfa1f8c0812533a897c09176b334f35596fcda5eacb"
+      "sha256": "d8f39d1915589c857c8e68ab750e8f1ed4518b9fdcc152653188fa0d8ed82adf"
     }
   ],
   "publishedAt": 1790783545093

@@ -3,7 +3,10 @@
   "profession": "空间交互设计师和沉浸式 AR/VR/XR 环境的界面策略专家",
   "description": "空间交互设计师和沉浸式 AR/VR/XR 环境的界面策略专家。",
   "tags": [
-    "空间计算部"
+    "空间交互",
+    "XR 界面",
+    "空间信息架构",
+    "晕动症"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🕹️",

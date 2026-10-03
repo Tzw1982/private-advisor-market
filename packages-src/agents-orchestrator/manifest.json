@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.agents-orchestrator",
   "slug": "agents-orchestrator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "智能体编排者",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "1a9789c9a63d75c1250edb136feddb68e63672236dcb2cfafc6a3db75b183f81",
+  "sha256": "4076928d0573a6a64b03ef8b3ff4fdea03ea62ce04247594d7423705b52b0eee",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "94b556e93e9e28bc71a9bd7e9ad412db4c9ad0566d964f72bb8c714b7a9def6d"
+      "sha256": "e40682a638cb7d8c3d8c2be447f0aa2bc7d1023c28623ff8fc7fd270e50f8be8"
     }
   ],
   "publishedAt": 1790783544712

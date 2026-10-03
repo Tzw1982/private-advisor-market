@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.sales-coach",
   "slug": "sales-coach",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "销售教练",
   "categoryId": "07-SalesCommerce",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "d4ebf8b5daf04566abd9763c3cf19eedbbafa8795986f0e9ab31ebecac996368",
+  "sha256": "63914a0ba699de92256bee770d2c0dcaac39b15a9ce682e1af148c3ba8b5d078",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "1421354e45f4076fd64e09da37bd88588a5be28881a9107e57d39120521e4ae7"
+      "sha256": "d84a574ec871178f7b6475caaeecd70a4d903c3b8cb9b46707b26e254eb36ab1"
     }
   ],
   "publishedAt": 1790783548363

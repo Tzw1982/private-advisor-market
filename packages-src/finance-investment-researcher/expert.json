@@ -3,7 +3,10 @@
   "profession": "专业投资研究员",
   "description": "专业投资研究员，精通市场研究、尽职调查、投资组合分析和资产估值。",
   "tags": [
-    "金融部"
+    "投资研究",
+    "尽职调查",
+    "股票分析",
+    "资产估值"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🔍",

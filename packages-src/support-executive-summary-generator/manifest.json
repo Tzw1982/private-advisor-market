@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.support-executive-summary-generator",
   "slug": "support-executive-summary-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "高管摘要师",
   "categoryId": "09-OperationsHR",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "1fd924221902fd21d736076e6b822a906260b11918ee151f514477fedcb4b171",
+  "sha256": "c81ad3dfefc7cae81f7f8d3cc251633ba662905ce9af12a22ff3f24c062dc8f2",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "97630449b01d5cc662acfaf59c762c928e10d30a8a6f3301e483839ac2bb1bf8"
+      "sha256": "b42da46a15fd6a153e5e0ece73b9812fc782df88d88aee8ae2c39ee52c68b297"
     }
   ],
   "publishedAt": 1790783549102

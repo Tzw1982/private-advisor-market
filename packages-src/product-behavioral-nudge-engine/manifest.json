@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.product-behavioral-nudge-engine",
   "slug": "product-behavioral-nudge-engine",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "行为助推引擎",
   "categoryId": "01-ProductDesign",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "6b477db03850ae5e8215cbcdb034e37e6877f76a4e4bc89f21a8716b6b2162a6",
+  "sha256": "b4775ea9bb81d8c58ec1196fa4f335a3fcdb516616b038b0016b420bfed44cf1",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "0c39942559f17ef7d12b9473420f9b1703d77ff10df3bc5cfce1ac7e73ea2477"
+      "sha256": "fce56fb43c3ec75245bff3aa73e97d2efc1df938d68707acb4ad70dbc78dee65"
     }
   ],
   "publishedAt": 1790783547977

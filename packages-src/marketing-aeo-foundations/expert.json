@@ -3,7 +3,10 @@
   "profession": "AI 搜索与答案引擎基础设施专家",
   "description": "AI 搜索与答案引擎基础设施专家——审计搜索/检索爬虫访问、robots.txt、索引与 noindex、WAF/CDN、渲染与内容可访问性。",
   "tags": [
-    "营销部"
+    "AI搜索",
+    "robots.txt",
+    "结构化数据",
+    "SEO"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🏗️",

@@ -3,7 +3,10 @@
   "profession": "现实检验者",
   "description": "阻止幻想式审批，基于证据的认证——默认为\"需要改进\"，要求压倒性证据才能认定生产就绪。",
   "tags": [
-    "测试部"
+    "集成测试",
+    "生产就绪",
+    "交叉验证",
+    "质量评估"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🎯",

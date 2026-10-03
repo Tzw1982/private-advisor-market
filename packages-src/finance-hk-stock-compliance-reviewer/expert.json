@@ -3,7 +3,10 @@
   "profession": "资深香港股市合规审查专家",
   "description": "资深香港股市合规审查专家，精通HKEX上市规则、SFC监管条例、公司条例及证券及期货条例。",
   "tags": [
-    "金融部"
+    "香港上市",
+    "合规审查",
+    "关联交易",
+    "招股书"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "⚖️",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1790919007354,
+  "generatedAt": 1791005718393,
   "packages": [
     {
       "packageId": "org.private-advisor.marketing-aeo-foundations",
@@ -2457,12 +2457,14 @@
         "付款条件",
         "违约责任"
       ],
+      "emoji": "📜",
+      "color": "#059669",
       "latestVersion": "1.0.0",
       "versions": [
         {
           "version": "1.0.0",
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/contract-review-expert/contract-review-expert-1.0.0.expert",
-          "sha256": "8099dec6a56508c70c4d13d689b30134740db6090abec3a66a27061bc2b21dad",
+          "sha256": "7e77e00937e467135c2e1828869c0ea2bd91781b9cfa658bda4c7b629b6ae4c4",
           "publishedAt": 1790762108645
         }
       ]
@@ -3822,12 +3824,14 @@
         "偏离表",
         "消防车"
       ],
+      "emoji": "📐",
+      "color": "#0891B2",
       "latestVersion": "1.0.0",
       "versions": [
         {
           "version": "1.0.0",
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/tech-spec-expert/tech-spec-expert-1.0.0.expert",
-          "sha256": "f418e45b5d888a9bb4c19b0ab53bb6b43ddb04e3bde704c168916a32123f56f4",
+          "sha256": "0a9f1d5785faa4a726fb24c470bc1653f2e1abf6cbe08ce5bc3e1782c859841d",
           "publishedAt": 1790762108651
         }
       ]
@@ -3867,12 +3871,14 @@
         "目录结构",
         "排版"
       ],
+      "emoji": "📑",
+      "color": "#2563EB",
       "latestVersion": "1.0.0",
       "versions": [
         {
           "version": "1.0.0",
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bid-proposal-expert/bid-proposal-expert-1.0.0.expert",
-          "sha256": "59499441957fc50d12f5d46b1bc4ad5843deac256db3a3fabc1b7f2b7b93e5fe",
+          "sha256": "f3fbf903845f376b96525068648c53eedc7c49d14f87e7ad0ffd748939cfacbb",
           "publishedAt": 1790762108632
         }
       ]
@@ -3956,12 +3962,14 @@
         "价格分",
         "让利"
       ],
+      "emoji": "🧮",
+      "color": "#E67E22",
       "latestVersion": "1.0.0",
       "versions": [
         {
           "version": "1.0.0",
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bid-pricing-expert/bid-pricing-expert-1.0.0.expert",
-          "sha256": "9e153a524091aa88cf5942d0d349f9794a1dd75b1b6f9c21ae3ac81419f9cdba",
+          "sha256": "106e8486136fd2e17711ec27d2d7254ae67d41e6e8fa022eff1d466820c26c8e",
           "publishedAt": 1790762108615
         }
       ]
@@ -4001,12 +4009,14 @@
         "评分办法",
         "废标条款"
       ],
+      "emoji": "🔍",
+      "color": "#8B5CF6",
       "latestVersion": "1.0.0",
       "versions": [
         {
           "version": "1.0.0",
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bid-tender-expert/bid-tender-expert-1.0.0.expert",
-          "sha256": "b77e1d75d9cc976965850251476d779f8c672b96585406b04c099e0864d6e6e0",
+          "sha256": "46c2beb23fdead45fd4eaa3abffad01381b41d12fb72a8ba140f1cda557bdaed",
           "publishedAt": 1790762108637
         }
       ]

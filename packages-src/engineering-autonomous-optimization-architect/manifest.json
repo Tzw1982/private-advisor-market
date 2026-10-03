@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-autonomous-optimization-architect",
   "slug": "engineering-autonomous-optimization-architect",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "自主优化架构师",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "ca659e04c6db0b643aabf55691e8584bdb7c8210203fcf1eeedc2ce6f029f0ff",
+  "sha256": "7b07800d09bc40b59e4f75ffa7dbf5fb937744e30f6e5b645ba0c9219e732dbb",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "c0fc88bb1b4961d3cf7cac1179d67760d68990d0612baebef54f507d363d5a90"
+      "sha256": "cb8532e4c67941b5db7716576d4303ee4449a999ca25bc11a734398493336e9c"
     }
   ],
   "publishedAt": 1790783545281

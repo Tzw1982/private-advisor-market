@@ -3,7 +3,10 @@
   "profession": "资深邮件营销策略师",
   "description": "资深邮件营销策略师，专注于 CRM 驱动的营销活动、生命周期自动化、分群架构与可送达性。",
   "tags": [
-    "营销部"
+    "邮件营销",
+    "分群架构",
+    "生命周期邮件",
+    "可送达性"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📧",

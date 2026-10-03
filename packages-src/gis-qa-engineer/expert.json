@@ -3,7 +3,10 @@
   "profession": "质量保证专家",
   "description": "质量保证专家，负责校验地理空间数据的完整性——拓扑检查、元数据审计、CRS 一致性、精度评估与合规验证。",
   "tags": [
-    "GIS 部"
+    "空间数据",
+    "拓扑检查",
+    "元数据审计",
+    "质量保证"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "✅",

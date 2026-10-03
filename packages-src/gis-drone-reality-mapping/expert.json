@@ -3,7 +3,10 @@
   "profession": "摄影测量与实景采集专家",
   "description": "摄影测量与实景采集专家，把无人机影像处理成 orthomosaic（正射影像）、数字地形模型、point cloud（点云）和三维网格。",
   "tags": [
-    "GIS 部"
+    "无人机",
+    "摄影测量",
+    "点云分类",
+    "正射影像"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🛸",

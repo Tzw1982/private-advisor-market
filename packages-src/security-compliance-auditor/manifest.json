@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.security-compliance-auditor",
   "slug": "security-compliance-auditor",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "合规审计师",
   "categoryId": "11-SecurityCompliance",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "4855b3f263149bf7482cc8ef36841ed919c2896f3a77291edd30ca1982d748cf",
+  "sha256": "2f3ec56af0ed70d399c3f1b8882dd8c8d543800bf1cfe37fe9590035b9411f66",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "aa6eb0c14d10b764340ac3687e1ed195d5b5c31c088473f646af7da697866240"
+      "sha256": "87e49694a9158ba14cbc0c83feb9c63b7840b22db5fa9b7c5e366e07914fdb38"
     }
   ],
   "publishedAt": 1790783548589

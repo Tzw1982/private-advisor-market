@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1791005718393,
+  "generatedAt": 1791036970710,
   "packages": [
     {
       "packageId": "org.private-advisor.marketing-aeo-foundations",
@@ -32,16 +32,19 @@
       "description": "精通机器学习模型开发与部署的 AI 工程专家，擅长从数据处理到模型上线的全链路工程化，专注构建可靠、可扩展的 AI 系统。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "模型开发",
+        "模型部署",
+        "RAG",
+        "LLM应用"
       ],
       "emoji": "🤖",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-ai-engineer/engineering-ai-engineer-1.0.0.expert",
-          "sha256": "856f625c56c39a9ce5802e0d9ec74d39a582ef1490efb51cdf0fba03933f3038",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-ai-engineer/engineering-ai-engineer-1.1.0.expert",
+          "sha256": "8ec3ddf25a161e14ac2330e9887bebf2ae02f4faccbd5e7f0e35a27d19793fe2",
           "publishedAt": 1790783545263
         }
       ]
@@ -76,16 +79,19 @@
       "description": "自愈数据管道专家——使用气隙隔离的本地 SLM 和语义聚类，自动检测、分类和修复大规模数据异常。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "数据修复",
+        "数据管道",
+        "语义聚类",
+        "审计追踪"
       ],
       "emoji": "🧹",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-ai-data-remediation-engineer/engineering-ai-data-remediation-engineer-1.0.0.expert",
-          "sha256": "32ff2a202fbf6fb3085ba4c7a7622d6e33c5761c661ad8c46bf3be8be6ed1fec",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-ai-data-remediation-engineer/engineering-ai-data-remediation-engineer-1.1.0.expert",
+          "sha256": "a4226d563362d82e5d783511dd14da5f7b86d3313dd62c073f5f07a058bdc312",
           "publishedAt": 1790783545243
         }
       ]
@@ -142,16 +148,19 @@
       "description": "整合专家，打通 BIM（建筑信息模型）与 GIS（地理信息系统）——负责 Revit/IFC 数据转换、室内地图、数字孪生架构与设施管理数据模型。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "BIM 数据转换",
+        "室内地图",
+        "数字孪生",
+        "地理配准"
       ],
       "emoji": "🏗️",
       "color": "gold",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-bim-specialist/gis-bim-specialist-1.0.0.expert",
-          "sha256": "7e079d298b325c1a30fb49b754493442fff752f1aa1c960ae3f54112bed90fad",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-bim-specialist/gis-bim-specialist-1.1.0.expert",
+          "sha256": "b900aae54b780bf095f48a9d680382ea5a0100cf5a9797b93babf838c93f055f",
           "publishedAt": 1790783546367
         }
       ]
@@ -164,16 +173,19 @@
       "description": "Blender 工具专家——构建 Python 插件、资源验证器、导出工具和管线自动化，把重复的 DCC 工作变成可靠的一键流程。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "游戏开发部"
+        "Blender插件",
+        "导出工具",
+        "资源验证",
+        "管线自动化"
       ],
       "emoji": "🧊",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/blender-addon-engineer/blender-addon-engineer-1.0.0.expert",
-          "sha256": "77d797c790d7b8197a713ce54ac4853cc84d3afbb4fbc8d52d64abbfd6204eb0",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/blender-addon-engineer/blender-addon-engineer-1.1.0.expert",
+          "sha256": "acfa3e776ddcc45068ed61b51d5a73c2e59d1be230c2a4e2dcdb033464696db1",
           "publishedAt": 1790783544775
         }
       ]
@@ -208,16 +220,19 @@
       "description": "Drupal 与 WordPress 专家，精通主题开发、自定义插件/模块、内容架构和代码优先的 CMS 实现。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "网站开发",
+        "WordPress 开发",
+        "主题开发",
+        "内容建模"
       ],
       "emoji": "📋",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-cms-developer/engineering-cms-developer-1.0.0.expert",
-          "sha256": "4b658fb5ed7565ec3efe56aea83e717b29d06059c3602115705d36711819efb3",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-cms-developer/engineering-cms-developer-1.1.0.expert",
+          "sha256": "f0fb1077bd9f7a739e90c5c0fe1fce62d0c081631eafa3cfa86c969f534e2644",
           "publishedAt": 1790783545327
         }
       ]
@@ -230,16 +245,19 @@
       "description": "精通基础设施自动化、CI/CD 流水线开发和云运维的 DevOps 专家。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "DevOps",
+        "自动化部署",
+        "CI/CD",
+        "云运维"
       ],
       "emoji": "🚀",
       "color": "orange",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-devops-automator/engineering-devops-automator-1.0.0.expert",
-          "sha256": "54229b5a4e4dd0f1402ffa81b1a5baac5e2283c6da1fb58987cc7b034bde2648",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-devops-automator/engineering-devops-automator-1.1.0.expert",
+          "sha256": "6ee2ee3fb6d37814b29ae783e53ca7301272ef31fbf1a9f3a98d0abffde332be",
           "publishedAt": 1790783545421
         }
       ]
@@ -274,16 +292,19 @@
       "description": "资深 Drupal 电商工程师，精通 Drupal Commerce，负责商品目录管理、支付网关集成、checkout 流程设计、订单管理、税费与促销配置。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "Drupal",
+        "电商开发",
+        "支付集成",
+        "订单管理"
       ],
       "emoji": "🛒",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-drupal-shopping-cart/engineering-drupal-shopping-cart-1.0.0.expert",
-          "sha256": "440d47a16cb51dfd30b3aaa2fb6ed6aa75c1177032dc0ec47c468fd26027b4d5",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-drupal-shopping-cart/engineering-drupal-shopping-cart-1.1.0.expert",
+          "sha256": "a6073d1721af6a6a6ae929f44c436d00d72104bf1395d7c16b94d9386521aeb1",
           "publishedAt": 1790783545461
         }
       ]
@@ -296,16 +317,19 @@
       "description": "企业可持续发展战略专家与 ESG 信息披露专员，负责搭建 environmental、social、governance（环境、社会、治理）项目，管理信息披露。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "可持续发展",
+        "信息披露",
+        "排放清单",
+        "重要性评估"
       ],
       "emoji": "🌱",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/esg-sustainability-officer/esg-sustainability-officer-1.0.0.expert",
-          "sha256": "5e20fbcd1d2b2e8488e171ac7632ecd650a6d04e0cb36d59bf523f0a9e1a4c47",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/esg-sustainability-officer/esg-sustainability-officer-1.1.0.expert",
+          "sha256": "08e48144184643789efc590a9479767c76c6f287f11be8d74345f7022e8e7e62",
           "publishedAt": 1790783546087
         }
       ]
@@ -318,16 +342,19 @@
       "description": "专业财务规划与分析（FP&A）专家，精通预算编制、差异分析、财务规划、滚动预测和战略决策支持。在数字与业务叙事之间架起桥梁，驱动运营绩效和战略资源配置。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "财务规划",
+        "预算编制",
+        "滚动预测",
+        "差异分析"
       ],
       "emoji": "📊",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-fpa-analyst/finance-fpa-analyst-1.0.0.expert",
-          "sha256": "ea788784eb6710dc0c2f09f3656eda99f753e4cc4edb61f83a4a512826e72790",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-fpa-analyst/finance-fpa-analyst-1.1.0.expert",
+          "sha256": "36aadbbc4b08523e54af51bd009f1071c285c12d66a90d00fe4388160db185d1",
           "publishedAt": 1790783546161
         }
       ]
@@ -340,16 +367,19 @@
       "description": "FPGA 与 ASIC 数字前端设计专家——精通 Verilog/SystemVerilog、VHDL、Vivado/Quartus、AXI/AHB 总线。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "FPGA",
+        "Verilog",
+        "时序收敛",
+        "AXI总线"
       ],
       "emoji": "🔬",
       "color": "#1565C0",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-fpga-digital-design-engineer/engineering-fpga-digital-design-engineer-1.0.0.expert",
-          "sha256": "42017e9521deb2c80765eb56052026bfdb2bd6ae7509ba847f3ad99e19ed6794",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-fpga-digital-design-engineer/engineering-fpga-digital-design-engineer-1.1.0.expert",
+          "sha256": "3f1e7a07b586dd1b2952a65a2e5c0bf152d5de89252fb16985470b62a364b225",
           "publishedAt": 1790783545602
         }
       ]
@@ -362,16 +392,19 @@
       "description": "专精于重构和优化 Filament PHP 后台管理界面的专家，专注高影响力的结构性改造，而非表面调整，打造极致可用性与效率。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "后台管理",
+        "表单重构",
+        "结构优化",
+        "信息架构"
       ],
       "emoji": "🧵",
       "color": "indigo",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-filament-optimization-specialist/engineering-filament-optimization-specialist-1.0.0.expert",
-          "sha256": "22c481079d148272068e529bc481070b99bedcd76e433a23a9d4eee51f328d33",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-filament-optimization-specialist/engineering-filament-optimization-specialist-1.1.0.expert",
+          "sha256": "7231340384cb6ed8fb1eedb7eea9cd2f7f6d472f1d8e512925acac900edb7418",
           "publishedAt": 1790783545580
         }
       ]
@@ -384,16 +417,19 @@
       "description": "日常 GIS 操作员，负责制图、图层管理、空间查询，并在桌面与 Web 环境中维护地理空间数据的完整性。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "制图",
+        "空间查询",
+        "图层管理",
+        "GIS"
       ],
       "emoji": "🖥️",
       "color": "teal",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-analyst/gis-analyst-1.0.0.expert",
-          "sha256": "154c2778c8919ad4c5f1aeeb82cd321c58b2ba017d9ba78b36021861857197d8",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-analyst/gis-analyst-1.1.0.expert",
+          "sha256": "457995d702c375c74ae923b72b9791e11a894bf35617cf466744647f3f9d84eb",
           "publishedAt": 1790783546345
         }
       ]
@@ -406,16 +442,19 @@
       "description": "质量保证专家，负责校验地理空间数据的完整性——拓扑检查、元数据审计、CRS 一致性、精度评估与合规验证。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "空间数据",
+        "拓扑检查",
+        "元数据审计",
+        "质量保证"
       ],
       "emoji": "✅",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-qa-engineer/gis-qa-engineer-1.0.0.expert",
-          "sha256": "bc9b85f3e600e5b5a03f2ed5d1992b411464ea3e641b076c97bd707dc188455a",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-qa-engineer/gis-qa-engineer-1.1.0.expert",
+          "sha256": "0120c9f98c802aa95cc760e8916d775a083baf3751e01f827f67def3a35389e7",
           "publishedAt": 1790783546424
         }
       ]
@@ -428,16 +467,19 @@
       "description": "地理空间机器学习专家，构建模型从卫星与航拍影像中做特征提取、目标检测、影像分割和地表覆盖分类。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "目标检测",
+        "语义分割",
+        "地表覆盖",
+        "变化检测"
       ],
       "emoji": "🤖",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-geoai-ml-engineer/gis-geoai-ml-engineer-1.0.0.expert",
-          "sha256": "5df6041343d1da7eff1b16e29cb10f9f3a71d1c2e859edb99315833bec70d7a5",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-geoai-ml-engineer/gis-geoai-ml-engineer-1.1.0.expert",
+          "sha256": "8390cb7bcd3539703b629026764fcd166f6acb4569ad90df83685b7f49b4e21e",
           "publishedAt": 1790783546396
         }
       ]
@@ -450,16 +492,19 @@
       "description": "Git 工作流专家，精通分支策略、版本控制最佳实践，包括约定式提交、变基、工作树和 CI 友好的分支管理。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "Git",
+        "分支策略",
+        "约定式提交",
+        "版本控制"
       ],
       "emoji": "🔀",
       "color": "orange",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-git-workflow-master/engineering-git-workflow-master-1.0.0.expert",
-          "sha256": "5153f65cbd5ac84c8d3cab2d21a60ce9fe6f008ebaa6af6a183db94c17ba1b57",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-git-workflow-master/engineering-git-workflow-master-1.1.0.expert",
+          "sha256": "aaa535526fab6d551d7ab4f6460f3bc2756794d48c61afc61dee39443d61ae10",
           "publishedAt": 1790783545625
         }
       ]
@@ -560,16 +605,19 @@
       "description": "资深 IT 服务管理（ITSM）专家，运用 ITIL 4 框架进行服务目录设计、incident（事件）与 problem（问题）管理、变更控制、SLA 治理。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "服务管理",
+        "事件管理",
+        "变更管理",
+        "SLA 治理"
       ],
       "emoji": "🖧",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-it-service-manager/engineering-it-service-manager-1.0.0.expert",
-          "sha256": "3d5e36183bb571df66a26917d9f087004033e0abcbcc5f8a440ee593349bc5b1",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-it-service-manager/engineering-it-service-manager-1.1.0.expert",
+          "sha256": "3ff99c1fb819b33a2bee509408d4177d996e17fbb93123c7a1c7d372de0596f5",
           "publishedAt": 1790783545687
         }
       ]
@@ -604,16 +652,19 @@
       "description": "物联网端到端方案设计专家——精通设备接入（MQTT/CoAP/LwM2M）、边缘计算、云平台（AWS IoT/Azure IoT/阿里云 IoT）、OTA。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "物联网架构",
+        "设备接入",
+        "MQTT",
+        "边缘计算"
       ],
       "emoji": "📡",
       "color": "#00897B",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-iot-solution-architect/engineering-iot-solution-architect-1.0.0.expert",
-          "sha256": "7dba7aebf5ea94be43d1a442b5ea4aeb1bdc0a647fa59353b29c383ff9703388",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-iot-solution-architect/engineering-iot-solution-architect-1.1.0.expert",
+          "sha256": "3b72cda61338ec6e2ce48237aec62c119ed9ef01bb76aa56c9cc0525e9d20a79",
           "publishedAt": 1790783545668
         }
       ]
@@ -758,16 +809,19 @@
       "description": "精通 OrgScript 语法的设计、解析与实现，擅长 AST 校验和业务逻辑定义。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "DSL 设计",
+        "解析器架构",
+        "业务逻辑",
+        "流程建模"
       ],
       "emoji": "📜",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-orgscript-engineer/engineering-orgscript-engineer-1.0.0.expert",
-          "sha256": "4b0f7fce128777ea4b663bfa652c80e7ab954cde962769e2085993090f639f38",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-orgscript-engineer/engineering-orgscript-engineer-1.1.0.expert",
+          "sha256": "9186daee082d8e906d362662da36a287584a4b23a344a919250eb84deb13c0c2",
           "publishedAt": 1790783545791
         }
       ]
@@ -846,16 +900,19 @@
       "description": "从设定好的 persona（用户画像）心理视角出发，对网页进行认知走查的模拟——捕捉每个滚动位置上的情绪反应与理性思考，再输出植根于 LIFT。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "用户画像",
+        "转化分析",
+        "五秒测试",
+        "LIFT 模型"
       ],
       "emoji": "🎭",
       "color": "#10B981",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-persona-walkthrough/design-persona-walkthrough-1.0.0.expert",
-          "sha256": "0797fda056a7e98bb7b8495889150b46cc8e8ed8bfd875d0d6faf67191ee13cb",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-persona-walkthrough/design-persona-walkthrough-1.1.0.expert",
+          "sha256": "f6829e9ffe9b9f6dbe93e46a96b43e8516624607ce11baa88be82c9362c1abd6",
           "publishedAt": 1790783545119
         }
       ]
@@ -890,16 +947,19 @@
       "description": "专精于为 LLM（大语言模型）打磨、测试并系统化优化 prompt 的专家——把含糊的指令变成可靠、可上生产的 AI 行为。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "prompt 设计",
+        "提示词优化",
+        "思维链",
+        "回归测试"
       ],
       "emoji": "🧬",
       "color": "violet",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-prompt-engineer/engineering-prompt-engineer-1.0.0.expert",
-          "sha256": "fb8beccb288db4ef5b1dd3db16b906be40f0cd8d235fe035f5f11fc624bf3ace",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-prompt-engineer/engineering-prompt-engineer-1.1.0.expert",
+          "sha256": "3c72e22dbf4742728201ecc3db64007bfeb0ea5bcaa7482be73c263c20db2196",
           "publishedAt": 1790783545844
         }
       ]
@@ -1022,16 +1082,19 @@
       "description": "站点可靠性工程专家，精通 SLO、错误预算、可观测性、混沌工程和减少重复劳动，守护大规模生产系统的稳定性。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "可靠性工程",
+        "可观测性",
+        "混沌工程",
+        "故障响应"
       ],
       "emoji": "🛠️",
       "color": "#e63946",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-sre/engineering-sre-1.0.0.expert",
-          "sha256": "9167249a59af97917860f613d3d4b34338aeb2d4a1b8794f7ad915f544031f2f",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-sre/engineering-sre-1.1.0.expert",
+          "sha256": "35a26e3647beb71d25753531c08f2c59ccb4a297ecd803a22f72c0fd5ce2cb9c",
           "publishedAt": 1790783545988
         }
       ]
@@ -1066,16 +1129,19 @@
       "description": "精通 EVM 智能合约架构、Gas 优化、可升级代理模式、DeFi 协议开发和安全优先合约设计的 Solidity 开发专家。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "Solidity",
+        "智能合约",
+        "Gas优化",
+        "DeFi协议"
       ],
       "emoji": "📝",
       "color": "orange",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-solidity-smart-contract-engineer/engineering-solidity-smart-contract-engineer-1.0.0.expert",
-          "sha256": "a7b51282ccf27da4fc131da9e4f9313b5ce6aa18fd940c1220f6004a9b7b4802",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-solidity-smart-contract-engineer/engineering-solidity-smart-contract-engineer-1.1.0.expert",
+          "sha256": "7785b29a5415e2c7612c36bd1dc5a9d0e9470389b05233c15465e699672ac40e",
           "publishedAt": 1790783545965
         }
       ]
@@ -1154,16 +1220,19 @@
       "description": "精通视觉设计系统、组件库和像素级界面创建的 UI 设计专家。创建美观、一致、无障碍的用户界面，增强用户体验并体现品牌形象。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "界面设计",
+        "视觉设计",
+        "组件库",
+        "无障碍设计"
       ],
       "emoji": "🎨",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-ui-designer/design-ui-designer-1.0.0.expert",
-          "sha256": "9a31dce5211aea621da7062f3b5b0d55aaa9e62dda2fe910ef215b9e58496ab2",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-ui-designer/design-ui-designer-1.1.0.expert",
+          "sha256": "d3621081dd1559fb282f65109c6d78ba7a98a7beedab08c31168f437f892ccbc",
           "publishedAt": 1790783545133
         }
       ]
@@ -1176,16 +1245,19 @@
       "description": "技术架构与 UX 专家，给开发者提供扎实的基础设施——CSS 体系、布局框架、清晰的实现指引。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "CSS架构",
+        "设计系统",
+        "响应式布局",
+        "信息架构"
       ],
       "emoji": "🏗️",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-ux-architect/design-ux-architect-1.0.0.expert",
-          "sha256": "b3783aa50091269fb45240aa0f4dc1d717c96ad232f66779d21d627d863e2eac",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-ux-architect/design-ux-architect-1.1.0.expert",
+          "sha256": "8c0528f12a47054948acfff50ff48f8005d7ca2e11e461f5f0ae8aa85242f90e",
           "publishedAt": 1790783545151
         }
       ]
@@ -1198,16 +1270,19 @@
       "description": "专精用户行为分析、可用性测试和数据驱动设计洞察的用户体验研究专家。提供可落地的研究发现，提升产品可用性和用户满意度。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "用户研究",
+        "可用性测试",
+        "用户画像",
+        "用户行为"
       ],
       "emoji": "🔍",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-ux-researcher/design-ux-researcher-1.0.0.expert",
-          "sha256": "8b27d4c0b07ef773934d02a655f0cebf6b9c62bf95648fcafd3ce7da699b73cb",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-ux-researcher/design-ux-researcher-1.1.0.expert",
+          "sha256": "e555af1d3c35fde0365bdf8fe797042b5a299d8a0277f1ca9c03b8b608b4779b",
           "publishedAt": 1790783545174
         }
       ]
@@ -1418,16 +1493,19 @@
       "description": "WordPress 电商专家工程师，专精 WooCommerce，负责商品目录管理、payment gateway 集成、checkout 定制、订单管理。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "WordPress",
+        "WooCommerce",
+        "电商开发",
+        "支付集成"
       ],
       "emoji": "🛍️",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-wordpress-shopping-cart/engineering-wordpress-shopping-cart-1.0.0.expert",
-          "sha256": "bed9a385bcd6417002c57fd746870aebd67816a2491b40a4643dfd2f2ab816e1",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-wordpress-shopping-cart/engineering-wordpress-shopping-cart-1.1.0.expert",
+          "sha256": "361199e55447ad9c95dac16d7107b5f69ab5316066a9216c4ef4f001cbc85292",
           "publishedAt": 1790783546071
         }
       ]
@@ -1594,16 +1672,19 @@
       "description": "Web 三维可视化专家，使用 Cesium、ArcGIS Scene Viewer 及现代三维 Web 框架，打造沉浸式三维场景、地形模型。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "三维可视化",
+        "三维场景",
+        "Cesium",
+        "点云"
       ],
       "emoji": "🏔️",
       "color": "cyan",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-3d-scene-developer/gis-3d-scene-developer-1.0.0.expert",
-          "sha256": "afdf2148f12511dbcf818b531dbb060c8a084edf1730ba595cbc12d90950d721",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-3d-scene-developer/gis-3d-scene-developer-1.1.0.expert",
+          "sha256": "85a531fb9f0ad0c966308683edfe7ab711599ca7c41e88bee202c269b98a2e41",
           "publishedAt": 1790783546333
         }
       ]
@@ -1616,16 +1697,19 @@
       "description": "Qt/QML 桌面上位机开发专家——精通 Qt Widgets/Quick、QSerialPort 串口、Modbus/CAN/TCP 工业协议。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "上位机开发",
+        "串口通信",
+        "Modbus",
+        "数据可视化"
       ],
       "emoji": "🖥️",
       "color": "#41CD52",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-pc-host-engineer/engineering-pc-host-engineer-1.0.0.expert",
-          "sha256": "747372552c8c4902d6259aa66fe299ddbcb76c3dd6472e0f140f058b6e54b140",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-pc-host-engineer/engineering-pc-host-engineer-1.1.0.expert",
+          "sha256": "cba57797ca05106837f70b26e3cabef4a3fe261f067bd89ad54ffaef09e9742b",
           "publishedAt": 1790783545821
         }
       ]
@@ -1814,16 +1898,19 @@
       "description": "文化体系、仪式、亲属关系、信仰系统和民族志方法专家——构建有生活气息而非凭空捏造的、文化上连贯自洽的社会。",
       "categoryId": "15-Education",
       "tags": [
-        "学术部"
+        "文化体系",
+        "亲属关系",
+        "仪式",
+        "民族志"
       ],
       "emoji": "🦴",
       "color": "#D97706",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-anthropologist/academic-anthropologist-1.0.0.expert",
-          "sha256": "44a4253ee8fbf48ee67b1be63725389488b1ec38904485a29707a8ce610e3bf0",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-anthropologist/academic-anthropologist-1.1.0.expert",
+          "sha256": "5dca34440dc63fd0791438a1dd806d1c7398fac45c801ad324474daf293bee24",
           "publishedAt": 1790783544553
         }
       ]
@@ -1858,16 +1945,19 @@
       "description": "专业代码审查专家，提供建设性、可操作的反馈，聚焦正确性、可维护性、安全性和性能，而非代码风格偏好。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "代码审查",
+        "代码质量",
+        "安全漏洞",
+        "可维护性"
       ],
       "emoji": "👀",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-code-reviewer/engineering-code-reviewer-1.0.0.expert",
-          "sha256": "81d3b107a930123971fc26a50e73ba01fc370f5f5f64627e0699bb14da0b90d8",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-code-reviewer/engineering-code-reviewer-1.1.0.expert",
+          "sha256": "c660ecf899c2d37fdba2948c15276c20506cd37c28042fc084f13303b6a7a166",
           "publishedAt": 1790783545344
         }
       ]
@@ -1880,16 +1970,19 @@
       "description": "专业的开发者入职引导专家，帮助新工程师快速理解陌生代码库，通过阅读源码、追踪代码路径，只陈述基于代码的事实。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "代码库导航",
+        "架构走查",
+        "代码路径",
+        "入职引导"
       ],
       "emoji": "🧭",
       "color": "teal",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-codebase-onboarding-engineer/engineering-codebase-onboarding-engineer-1.0.0.expert",
-          "sha256": "6e1495f04fa1206b109fdd126e9925f1d9f95205978fc602779a203265c8eadc",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-codebase-onboarding-engineer/engineering-codebase-onboarding-engineer-1.1.0.expert",
+          "sha256": "c2330fa6c2e74dce6fe584df5747e0595c820fc27fffcc1c2c7f5e9acba118c9",
           "publishedAt": 1790783545363
         }
       ]
@@ -1902,16 +1995,19 @@
       "description": "专注企业培训体系搭建与课程开发的专家，精通培训需求分析、教学设计方法论、混合式学习方案设计、内训师培养、领导力发展项目以及培训效果评估与持续优化。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "培训需求分析",
+        "课程体系设计",
+        "教学设计",
+        "培训效果评估"
       ],
       "emoji": "🎓",
       "color": "orange",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/corporate-training-designer/corporate-training-designer-1.0.0.expert",
-          "sha256": "5c0e2c93b2bc0245dc35a4ce136d8fa6421662c118966dbba2a7cb4392f9f178",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/corporate-training-designer/corporate-training-designer-1.1.0.expert",
+          "sha256": "5c5b8ae5a83e31da23da71b591cffd7e93d8973d3ce004a563ef907e22902b90",
           "publishedAt": 1790783544974
         }
       ]
@@ -2166,16 +2262,19 @@
       "description": "精通现代 Web 技术、React/Vue/Angular 框架、UI 实现和性能优化的前端开发专家。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "前端开发",
+        "性能优化",
+        "组件库",
+        "无障碍设计"
       ],
       "emoji": "💻",
       "color": "cyan",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-frontend-developer/engineering-frontend-developer-1.0.0.expert",
-          "sha256": "a219098957be30cd6a0e38bf7271083b11cf68766e289d559440091d0ebd8267",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-frontend-developer/engineering-frontend-developer-1.1.0.expert",
+          "sha256": "2442814d56582375ca07de25c1826fc10590aa193b5c3406f73b0a56c707e481",
           "publishedAt": 1790783545614
         }
       ]
@@ -2210,16 +2309,19 @@
       "description": "专注于消除 AI 生成图像中的系统性偏见，确保生成的人物图像和视频在文化、肤色、体型等方面真实、有尊严、不刻板。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "AI生图",
+        "Prompt工程",
+        "多元化表现",
+        "文化准确性"
       ],
       "emoji": "🌈",
       "color": "#4DB6AC",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-inclusive-visuals-specialist/design-inclusive-visuals-specialist-1.0.0.expert",
-          "sha256": "ea8cac9e032e9e28a31de875d293a2430868ae7ea129ad9037b41bd0c28b707c",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-inclusive-visuals-specialist/design-inclusive-visuals-specialist-1.1.0.expert",
+          "sha256": "3899485b434ba729872da41901443e9cecde885d8dbe5409b60808eb0b55af83",
           "publishedAt": 1790783545093
         }
       ]
@@ -2320,16 +2422,19 @@
       "description": "历史分析、分期、物质文化和史学方法专家——验证历史一致性，以扎根于一手和二手资料的真实时代细节丰富设定。",
       "categoryId": "15-Education",
       "tags": [
-        "学术部"
+        "历史分析",
+        "史学方法",
+        "物质文化",
+        "比较历史学"
       ],
       "emoji": "📜",
       "color": "#B45309",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-historian/academic-historian-1.0.0.expert",
-          "sha256": "283e53767eeb0b6f6b99fffa05cec395722f58431a9b92634df470b371204cfa",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-historian/academic-historian-1.1.0.expert",
+          "sha256": "694ad936b4dc82aef34231439a68a0c6a6fb1847e390544fecf6947e7afb4dd7",
           "publishedAt": 1790783544605
         }
       ]
@@ -2364,16 +2469,19 @@
       "description": "专注中国企业发票全生命周期管理的财税专家，精通增值税专用发票与普通发票管理、金税系统操作、电子发票推广、三单匹配、报销审批和税务合规。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "发票管理",
+        "税务合规",
+        "三单匹配",
+        "报销审批"
       ],
       "emoji": "🧾",
       "color": "#2ECC71",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-invoice-manager/finance-invoice-manager-1.0.0.expert",
-          "sha256": "64c073b2de85f9c798055881590bf7f44b7d18b67f5ae0ed7afac8f69b9f333e",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-invoice-manager/finance-invoice-manager-1.1.0.expert",
+          "sha256": "b7af731ae9bd803abbca7c25fd961cc2e66bdf75b5d4ec951728f760cb82b91a",
           "publishedAt": 1790783546248
         }
       ]
@@ -2386,16 +2494,19 @@
       "description": "资深变革管理专家，运用 ADKAR、Kotter 和 Prosci 框架，引导组织顺利完成技术落地、组织重构、文化转型与并购整合——管理阻力、推动接纳。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "变革管理",
+        "阻力管理",
+        "变革沟通",
+        "组织变革"
       ],
       "emoji": "🔄",
       "color": "amber",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/change-management-consultant/change-management-consultant-1.0.0.expert",
-          "sha256": "417f664156033bae78533a84bb0d38fea048e0f43f8b0cd1a6eda5491627e539",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/change-management-consultant/change-management-consultant-1.1.0.expert",
+          "sha256": "51a115994a7f99767f5f1e2ea6da720deb3b597dc12a0f06081a1af09cb23410",
           "publishedAt": 1790783544808
         }
       ]
@@ -2408,16 +2519,19 @@
       "description": "叙事理论、故事结构、人物弧线和文学分析专家——基于从普罗普到坎贝尔再到现代叙事学的成熟框架提供建议。",
       "categoryId": "15-Education",
       "tags": [
-        "学术部"
+        "叙事理论",
+        "故事结构",
+        "人物弧线",
+        "文学分析"
       ],
       "emoji": "📖",
       "color": "#8B5CF6",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-narratologist/academic-narratologist-1.0.0.expert",
-          "sha256": "a6448d47f14749a832e15f8cd250706eddb0b1ba71f4efb9ff0e8729d001343d",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-narratologist/academic-narratologist-1.1.0.expert",
+          "sha256": "dc0ea05f34d88c94a6baf64f2be438cbe7fd5f124090e479ee799453c150e948",
           "publishedAt": 1790783544624
         }
       ]
@@ -2521,16 +2635,19 @@
       "description": "资深后端架构师，专精可扩展系统设计、数据库架构、API 开发和云基础设施。构建健壮、安全、高性能的服务端应用和微服务。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "后端架构",
+        "API 设计",
+        "数据库",
+        "性能优化"
       ],
       "emoji": "⚙️",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-backend-architect/engineering-backend-architect-1.0.0.expert",
-          "sha256": "bfdeac9d6a99876e29d039f8456cb3f2545b10def46779d5f74d282f436260d3",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-backend-architect/engineering-backend-architect-1.1.0.expert",
+          "sha256": "6514a75d307fcf79e315a9995df0628bf5fa4c5b2279d02721dc8ac97d45af1f",
           "publishedAt": 1790783545304
         }
       ]
@@ -2543,16 +2660,19 @@
       "description": "专精品牌形象开发、一致性维护和战略品牌定位的品牌策略师和品牌守护专家。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "品牌战略",
+        "视觉形象",
+        "品牌指南",
+        "品牌保护"
       ],
       "emoji": "🛡️",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-brand-guardian/design-brand-guardian-1.0.0.expert",
-          "sha256": "2d5f1ae1a0820f1dac8442c0f8244b0da8f9bdb9cb75ea1f1ab3ae7b765e521b",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-brand-guardian/design-brand-guardian-1.1.0.expert",
+          "sha256": "038570fd879cf74a379e714f82fe5ac17446b12d84c925a6dd788a5d2f9b297c",
           "publishedAt": 1790783545070
         }
       ]
@@ -2587,16 +2707,19 @@
       "description": "资深管理咨询专家，专注竞争分析、市场进入策略、商业模式设计、增长规划、组织战略与战略决策——把复杂的市场动态转化为清晰、可落地、能创造可持续竞争优势的战略。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "竞争分析",
+        "商业模式",
+        "市场进入",
+        "增长规划"
       ],
       "emoji": "♟️",
       "color": "indigo",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/business-strategist/business-strategist-1.0.0.expert",
-          "sha256": "52915122404283b7779513b979f3b27d9dca51ccc2751d64c2ec64553368e1a9",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/business-strategist/business-strategist-1.1.0.expert",
+          "sha256": "bf705192cdb1bb343bdcd08ac1e5e8b28200a77afa056b9f5c3ec6573b07bcd9",
           "publishedAt": 1790783544789
         }
       ]
@@ -2609,16 +2732,19 @@
       "description": "面向国产网络设备的企业网工程专家——精通华为 VRP、华三 Comware、锐捷 RGOS，覆盖园区网/数据中心/广域网的 VLAN、STP、OSPF。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "企业网组网",
+        "网络排障",
+        "华为配置",
+        "等保合规"
       ],
       "emoji": "🌐",
       "color": "teal",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-network-engineer-china/engineering-network-engineer-china-1.0.0.expert",
-          "sha256": "d2fac32517b0c5209820873b0a82ae75a43be988691bcdccd0afeb85fae1ab2e",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-network-engineer-china/engineering-network-engineer-china-1.1.0.expert",
+          "sha256": "19dedc0e62f7a6fae964575978f9b0f783c5de0bd7f6fd28dc278525ccdb6f63",
           "publishedAt": 1790783545778
         }
       ]
@@ -2653,16 +2779,19 @@
       "description": "精通摄影美学和 AI 图像生成的提示词专家，擅长把视觉概念转化为精准的文字描述，生成专业级摄影作品。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "提示词工程",
+        "AI 图像生成",
+        "摄影美学",
+        "摄影构图"
       ],
       "emoji": "🖼️",
       "color": "amber",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-image-prompt-engineer/design-image-prompt-engineer-1.0.0.expert",
-          "sha256": "daa6ffef16fe3e4318e70640a9028f17593e27bf28edc7fc1168d35126a6233b",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-image-prompt-engineer/design-image-prompt-engineer-1.1.0.expert",
+          "sha256": "4ebfbccffa8f52f09a4f8192b51c2217f39da687da615df536505fda3c46c7fd",
           "publishedAt": 1790783545082
         }
       ]
@@ -2697,16 +2826,19 @@
       "description": "地图美学专家，设计美观、易读、有效的地图——配色理论、字体排印、标注布局、底图选择，以及面向打印和 Web 的视觉层次。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "地图设计",
+        "配色方案",
+        "字体排印",
+        "标注布局"
       ],
       "emoji": "🎨",
       "color": "pink",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-cartography-designer/gis-cartography-designer-1.0.0.expert",
-          "sha256": "04ee66fc1da7db9701b7f9fe124c375c9ff94cd1a6d7c37cf0a5ce3d61b7975a",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-cartography-designer/gis-cartography-designer-1.1.0.expert",
+          "sha256": "2caecf1d88f26e53d0ce5f8fb574a260f5663fe8db11e732140b4f2494ced177",
           "publishedAt": 1790783546377
         }
       ]
@@ -2719,16 +2851,19 @@
       "description": "精通 ArcPy 与 Python 工具箱的自动化专家，专攻空间工作流自动化——构建 .pyt 工具箱、Model Builder 流程、批量地理处理自动化。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "地理处理",
+        "ArcPy",
+        "Model Builder",
+        "批量处理"
       ],
       "emoji": "⚙️",
       "color": "red",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-geoprocessing-specialist/gis-geoprocessing-specialist-1.0.0.expert",
-          "sha256": "37d81a68e961f115f89c8dd673d283f5238fe04f3dd86d4e17da677624ee543a",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-geoprocessing-specialist/gis-geoprocessing-specialist-1.1.0.expert",
+          "sha256": "c8214c7e9c1edde100e87bfa524def2072e6cde8f86784ea8db59401fbeefb03",
           "publishedAt": 1790783546408
         }
       ]
@@ -2741,16 +2876,19 @@
       "description": "自然地理与人文地理、气候系统、制图学和空间分析专家——构建地理上连贯自洽的世界，使地形、气候、资源和聚落模式在科学上合理。",
       "categoryId": "15-Education",
       "tags": [
-        "学术部"
+        "地理设定",
+        "气候系统",
+        "制图设计",
+        "地形设计"
       ],
       "emoji": "🌍",
       "color": "#059669",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-geographer/academic-geographer-1.0.0.expert",
-          "sha256": "dbe786d19698de70259eb8b3a9a86f8984d34dd0d635041b28950e49bdcf5211",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-geographer/academic-geographer-1.1.0.expert",
+          "sha256": "4ee9b5d217d7439f8b4dbcbe7c8149ac7f3c50246f64d663f01bb1c7152d7960",
           "publishedAt": 1790783544586
         }
       ]
@@ -2829,16 +2967,19 @@
       "description": "系统架构师，专精于 multi-agent（多智能体）AI 流水线的设计、协调与治理——涵盖拓扑选型、上下文管理、智能体间信任、故障恢复。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "多智能体",
+        "系统架构",
+        "拓扑设计",
+        "上下文管理"
       ],
       "emoji": "🕸️",
       "color": "cyan",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-multi-agent-systems-architect/engineering-multi-agent-systems-architect-1.0.0.expert",
-          "sha256": "b06a312cdf822276f0351abafeb305d28842f5ca234e8cb3a8574fa3af9790bb",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-multi-agent-systems-architect/engineering-multi-agent-systems-architect-1.1.0.expert",
+          "sha256": "f9a41256a822b38b5ddbde269e0bdecfb785c8d91ded538c4103ce8f2680327a",
           "publishedAt": 1790783545760
         }
       ]
@@ -2895,16 +3036,19 @@
       "description": "专精于 SIEM 规则开发、MITRE ATT&CK 覆盖度映射、威胁狩猎、告警调优和检测即代码流水线的安全运营检测工程专家。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "威胁检测",
+        "威胁狩猎",
+        "SIEM",
+        "告警调优"
       ],
       "emoji": "🛡️",
       "color": "#7b2d8e",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-threat-detection-engineer/engineering-threat-detection-engineer-1.0.0.expert",
-          "sha256": "83f11f25d6e72868aa1b5f3ccd7014a1ee4604a469a6b2e55470d62b10b461d0",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-threat-detection-engineer/engineering-threat-detection-engineer-1.1.0.expert",
+          "sha256": "3676481df6e0a962a7eba5f38597010156e41633a2f3b4abb7c24fefb2cd9f80",
           "publishedAt": 1790783546025
         }
       ]
@@ -2917,16 +3061,19 @@
       "description": "面向中国考生和终身学习者的个性化学习规划专家，精通考研、考公、司法考试、CPA 等重大考试的备考策略，擅长运用费曼学习法、艾宾浩斯遗忘曲线、番茄钟等科学方法。",
       "categoryId": "15-Education",
       "tags": [
-        "学术部"
+        "备考规划",
+        "学习计划",
+        "考研考公",
+        "番茄钟"
       ],
       "emoji": "📚",
       "color": "#10B981",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-study-planner/academic-study-planner-1.0.0.expert",
-          "sha256": "460b55d07a46d4b966443ae5c9ac8cf83f0bfe78e5284864fb144776361e102a",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-study-planner/academic-study-planner-1.1.0.expert",
+          "sha256": "6a47769464a72926df98b20967558ec7ddde4947b09cc5aa8d93e8104482f751",
           "publishedAt": 1790783544661
         }
       ]
@@ -2939,16 +3086,19 @@
       "description": "专业应用安全工程师，专注于威胁建模、漏洞评估、安全代码审查、安全架构设计和事件响应，服务于现代 Web、API 和云原生应用。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "应用安全",
+        "威胁建模",
+        "漏洞评估",
+        "安全架构"
       ],
       "emoji": "🔒",
       "color": "red",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-security-engineer/engineering-security-engineer-1.0.0.expert",
-          "sha256": "b0af254c30b636698bfe8499c13fcc59528ebabef6e4bd8f2ef7800a6afe0933",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-security-engineer/engineering-security-engineer-1.1.0.expert",
+          "sha256": "594218b986afad32fe684d172c78e25c98415c4d2e83288af28c8eaf3daf678b",
           "publishedAt": 1790783545896
         }
       ]
@@ -3027,16 +3177,19 @@
       "description": "战略型客户成功专家，负责 onboarding（新客导入）、health scoring（健康度评分）、QBR 主持、churn（流失）防控。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "新客导入",
+        "健康度评分",
+        "续约管理",
+        "流失防控"
       ],
       "emoji": "🌟",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/customer-success-manager/customer-success-manager-1.0.0.expert",
-          "sha256": "bc55528280986e7951da9113befc3581e426b31bebd67fed0d9bcaff78b4e77a",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/customer-success-manager/customer-success-manager-1.1.0.expert",
+          "sha256": "97f59f72bef7558a92caa9e6b909cbdac1f5ce89abdb00b0148cc346dfd18d6d",
           "publishedAt": 1790783544997
         }
       ]
@@ -3137,16 +3290,19 @@
       "description": "嵌入式 Linux 内核驱动与 BSP 开发专家——精通 Linux 内核模块、设备树、Platform/I2C/SPI/USB 驱动框架、DMA、中断子系统。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "内核驱动",
+        "设备树",
+        "交叉编译",
+        "嵌入式"
       ],
       "emoji": "🔌",
       "color": "#2D572C",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-embedded-linux-driver-engineer/engineering-embedded-linux-driver-engineer-1.0.0.expert",
-          "sha256": "e2a78b4caff125ef8abeb61d146f1dd1a4b671594999087027e20d94b2f7f6bb",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-embedded-linux-driver-engineer/engineering-embedded-linux-driver-engineer-1.1.0.expert",
+          "sha256": "619101345c8a8515f536602f60a083312684bde2eb21031665de0db2506b744a",
           "publishedAt": 1790783545539
         }
       ]
@@ -3159,16 +3315,19 @@
       "description": "裸机和 RTOS 固件开发专家——精通 ESP32/ESP-IDF、PlatformIO、Arduino、ARM Cortex-M、STM32 HAL/LL。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "固件开发",
+        "RTOS",
+        "STM32",
+        "ESP32"
       ],
       "emoji": "🔧",
       "color": "orange",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-embedded-firmware-engineer/engineering-embedded-firmware-engineer-1.0.0.expert",
-          "sha256": "3411b13012ff32a86d76947c2456cce9ae1e56c0f1cbf60bd9971313af659a8b",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-embedded-firmware-engineer/engineering-embedded-firmware-engineer-1.1.0.expert",
+          "sha256": "624a4b9b2aed04ec3635d3cc539e443ac00b92a62e31380364792d5dab4c37f4",
           "publishedAt": 1790783545510
         }
       ]
@@ -3313,16 +3472,19 @@
       "description": "创始人和高管的首席协调者——过滤噪音、掌控流程、确保一致性、路由决策、将产出定位到最大影响处，让老板能清晰思考。",
       "categoryId": "09-OperationsHR",
       "tags": [
-        "公司经营部"
+        "信息过滤",
+        "流程管理",
+        "决策支持",
+        "文档同步"
       ],
       "emoji": "👔",
       "color": "#6B7280",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-of-staff/chief-of-staff-1.0.0.expert",
-          "sha256": "83b107c93612593fea3c6a297ccb8c70bc0e150fca83b05512022db40acd344c",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-of-staff/chief-of-staff-1.1.0.expert",
+          "sha256": "06ebc6fb5215dd32bc36f2c706fa50e76d5c60c0f2e8aabe01be704c67ca5db2",
           "publishedAt": 1790783544896
         }
       ]
@@ -3379,16 +3541,19 @@
       "description": "自主支付处理专家，负责执行供应商付款、承包商发票和定期账单，支持加密货币、法币、稳定币等多种支付通道，通过 MCP 与 AI 智能体工作流集成。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "支付处理",
+        "供应商付款",
+        "应付账款",
+        "审计轨迹"
       ],
       "emoji": "💳",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/accounts-payable-agent/accounts-payable-agent-1.0.0.expert",
-          "sha256": "0aafa1a1c8fe352a1684af4ef86d044e48fb989759a32b36de13e1296a0e2900",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/accounts-payable-agent/accounts-payable-agent-1.1.0.expert",
+          "sha256": "317876107b7531f2db088060fbcdd709a69ebb74ab4cdc4996312b0cabdd8217",
           "publishedAt": 1790783544676
         }
       ]
@@ -3555,16 +3720,19 @@
       "description": "专注微信小程序全栈开发的工程专家，精通 WXML/WXSS/WXS、微信原生API、微信支付集成、订阅消息、云开发，擅长在微信生态内构建高性能。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "小程序开发",
+        "微信支付",
+        "云开发",
+        "性能优化"
       ],
       "emoji": "💬",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-wechat-mini-program-developer/engineering-wechat-mini-program-developer-1.0.0.expert",
-          "sha256": "8dbcfe35d807d260b87313ea4118363ca8a33e0674a9dc42fa6bba1a3379ee86",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-wechat-mini-program-developer/engineering-wechat-mini-program-developer-1.1.0.expert",
+          "sha256": "46aba9ad929a6d13fe580884803715c92c334347462fb5f34d44b6c6d0440e75",
           "publishedAt": 1790783546057
         }
       ]
@@ -3621,16 +3789,19 @@
       "description": "人类行为、人格理论、动机和认知模式专家——基于临床和研究框架构建心理上可信的角色和互动。",
       "categoryId": "15-Education",
       "tags": [
-        "学术部"
+        "人格心理学",
+        "依恋理论",
+        "创伤反应",
+        "群体动力学"
       ],
       "emoji": "🧠",
       "color": "#EC4899",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-psychologist/academic-psychologist-1.0.0.expert",
-          "sha256": "e55e4f707db1ae24b42bbca37b72967ccc99988becb5d11790bffe1b2f14e4d1",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/academic-psychologist/academic-psychologist-1.1.0.expert",
+          "sha256": "744c40bf8e659c6cf2d14d8dd219bb8d9a7db71d03f6368346f1da0567e91115",
           "publishedAt": 1790783544637
         }
       ]
@@ -3665,16 +3836,19 @@
       "description": "专注于超快速概念验证开发和 MVP 创建，使用高效工具和框架快速实现想法验证。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "快速原型",
+        "MVP",
+        "概念验证",
+        "用户反馈"
       ],
       "emoji": "⚡",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-rapid-prototyper/engineering-rapid-prototyper-1.0.0.expert",
-          "sha256": "be6e0f0157940d3e17759b8d80958f5985fda481f6a093b5adec3120e1b22e12",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-rapid-prototyper/engineering-rapid-prototyper-1.1.0.expert",
+          "sha256": "7e7d302e40140a2625ddcb581be7acd2e3148df537b7e066c4ba818f768fc4a5",
           "publishedAt": 1790783545869
         }
       ]
@@ -3753,16 +3927,19 @@
       "description": "专精于开发者文档、API 参考、README 和教程的技术写作专家。把复杂的工程概念转化为清晰、准确、开发者真正会读也用得上的文档。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "技术写作",
+        "开发者文档",
+        "API文档",
+        "README"
       ],
       "emoji": "✍️",
       "color": "teal",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-technical-writer/engineering-technical-writer-1.0.0.expert",
-          "sha256": "aaca61513c4b885196cde38230cfd6172c8dfc14211db77ed87b7c7067caf416",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-technical-writer/engineering-technical-writer-1.1.0.expert",
+          "sha256": "c48f6ee43cc7679021d73b422e6e2bbf6d49c74bcbd5932ae19760399394a40d",
           "publishedAt": 1790783546009
         }
       ]
@@ -3913,16 +4090,19 @@
       "description": "专业投资研究员，精通市场研究、尽职调查、投资组合分析和资产估值。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "投资研究",
+        "尽职调查",
+        "股票分析",
+        "资产估值"
       ],
       "emoji": "🔍",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-investment-researcher/finance-investment-researcher-1.0.0.expert",
-          "sha256": "29433a79b40c388247d501f9ca7ec0e2ddd525335cc84efb71fa06a5b76f2525",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-investment-researcher/finance-investment-researcher-1.1.0.expert",
+          "sha256": "50aee416e7bdcebf1a8da44c7ca842b6fdbd3c841bad4c5b84300e7925146ca7",
           "publishedAt": 1790783546231
         }
       ]
@@ -4183,16 +4363,19 @@
       "description": "专精于生产环境故障管理、结构化响应协调、事后复盘、SLO/SLI 跟踪和 on-call 流程设计的事故指挥专家，为工程组织的可靠性保驾护航。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "故障响应",
+        "故障管理",
+        "事后复盘",
+        "SLO"
       ],
       "emoji": "🚨",
       "color": "#e63946",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-incident-response-commander/engineering-incident-response-commander-1.0.0.expert",
-          "sha256": "a057888f0582df2eac435e9289c761768c8b7b376606102b065dd5f5ae977e24",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-incident-response-commander/engineering-incident-response-commander-1.1.0.expert",
+          "sha256": "6295c9bedee820585f23bf593ad01425d942ce82383012b8a0b3147f642eb9ac",
           "publishedAt": 1790783545650
         }
       ]
@@ -4227,16 +4410,19 @@
       "description": "专注于构建可靠数据管线、湖仓架构和可扩展数据基础设施的数据工程专家。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "数据管线",
+        "ETL",
+        "数据湖仓",
+        "数据质量"
       ],
       "emoji": "📊",
       "color": "orange",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-data-engineer/engineering-data-engineer-1.0.0.expert",
-          "sha256": "539e2c668d08f085b4f1a2beaedb3de51dd3f0fbbbb697108336be93c1d5f8ef",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-data-engineer/engineering-data-engineer-1.1.0.expert",
+          "sha256": "a906fc969caf065ea38a3637e6fdac0434ee4b0b74611bc66e72fb3a8a939ce8",
           "publishedAt": 1790783545386
         }
       ]
@@ -4249,16 +4435,19 @@
       "description": "数据库性能专家，专注于 Schema 设计、查询优化、索引策略和性能调优，精通 PostgreSQL、MySQL 及 Supabase。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "数据库",
+        "性能调优",
+        "查询优化",
+        "索引策略"
       ],
       "emoji": "🗄️",
       "color": "amber",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-database-optimizer/engineering-database-optimizer-1.0.0.expert",
-          "sha256": "ef38e6a985dd7109b797b0770d523168bedb0e2bb18e69e5f797160389e01725",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-database-optimizer/engineering-database-optimizer-1.1.0.expert",
+          "sha256": "ff51fb955be478c1276d4dc79c24a651002445ceec1e5d1f4dfb26a910c8bf84",
           "publishedAt": 1790783545409
         }
       ]
@@ -4271,16 +4460,19 @@
       "description": "把提取出的销售数据整合到实时报告仪表盘，按区域、销售代表和销售管线生成汇总视图。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "数据整合",
+        "仪表盘",
+        "销售数据",
+        "数据质量"
       ],
       "emoji": "🗃️",
       "color": "#38a169",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/data-consolidation-agent/data-consolidation-agent-1.0.0.expert",
-          "sha256": "f6a42dcc54eb6c42e8763e7c158c75f7da1c52851fb0c0188023acd19f8983eb",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/data-consolidation-agent/data-consolidation-agent-1.1.0.expert",
+          "sha256": "cd602fb36ff416d8068205282b972a2157828c58a3566071382605d5f43b6605",
           "publishedAt": 1790783545028
         }
       ]
@@ -4293,16 +4485,19 @@
       "description": "企业数据隐私专家与 DPO（数据保护官），负责构建 GDPR、CCPA 及全球隐私合规体系——覆盖数据测绘、隐私影响评估、同意管理、泄露响应。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "隐私合规",
+        "数据保护",
+        "数据测绘",
+        "泄露响应"
       ],
       "emoji": "🔐",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/data-privacy-officer/data-privacy-officer-1.0.0.expert",
-          "sha256": "3c99bc5a9f731b357f2d95af909af8f8f856267cb8786aead75556961d5ccae2",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/data-privacy-officer/data-privacy-officer-1.1.0.expert",
+          "sha256": "eaa04562dfc7fed1b4c96fb29f932d6fc483a514ac0d7030a595908c32df2b17",
           "publishedAt": 1790783545056
         }
       ]
@@ -4403,16 +4598,19 @@
       "description": "摄影测量与实景采集专家，把无人机影像处理成 orthomosaic（正射影像）、数字地形模型、point cloud（点云）和三维网格。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "无人机",
+        "摄影测量",
+        "点云分类",
+        "正射影像"
       ],
       "emoji": "🛸",
       "color": "amber",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-drone-reality-mapping/gis-drone-reality-mapping-1.0.0.expert",
-          "sha256": "3b822c438ad30c466643cbb2682a466869dea4198f0730b03ff096c6cde78c7e",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-drone-reality-mapping/gis-drone-reality-mapping-1.1.0.expert",
+          "sha256": "fb5f8e116c6f45056c9e1d0fc9d3f3c2b20b1013155cf7437cddba14687adba0",
           "publishedAt": 1790783546387
         }
       ]
@@ -4447,16 +4645,19 @@
       "description": "自主流水线管理者，负责编排整个开发工作流。你是这个流程的领导者。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "流水线编排",
+        "质量门禁",
+        "智能体协调",
+        "流水线管理"
       ],
       "emoji": "🎭",
       "color": "cyan",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/agents-orchestrator/agents-orchestrator-1.0.0.expert",
-          "sha256": "1a9789c9a63d75c1250edb136feddb68e63672236dcb2cfafc6a3db75b183f81",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/agents-orchestrator/agents-orchestrator-1.1.0.expert",
+          "sha256": "4076928d0573a6a64b03ef8b3ff4fdea03ea62ce04247594d7423705b52b0eee",
           "publishedAt": 1790783544712
         }
       ]
@@ -4491,16 +4692,19 @@
       "description": "专注于最小可行差异的工程专家——只修复被要求的内容，拒绝范围蔓延，宁可写三行相似代码也不做过早抽象。这种纪律性能防止 bug 修复 PR 变成重构雪崩。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "最小变更",
+        "最小差异",
+        "范围蔓延",
+        "过早抽象"
       ],
       "emoji": "🪶",
       "color": "#708090",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-minimal-change-engineer/engineering-minimal-change-engineer-1.0.0.expert",
-          "sha256": "6beab7b027030f51c3e259ceeef0c4b4dc7ccd25df16a094c55bd50c70e8efb1",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-minimal-change-engineer/engineering-minimal-change-engineer-1.1.0.expert",
+          "sha256": "cfea915f77de7506168eda8600a5394ace663e1135c6b190382f26c8019e3cf9",
           "publishedAt": 1790783545728
         }
       ]
@@ -4535,16 +4739,19 @@
       "description": "通用机械产品设计专家——精通方案选型、传动/机构/结构件/连接设计、强度刚度疲劳振动校核、DFMA 与标准件选型，遵循 GB/ISO/JIS 国家标准。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "机械设计",
+        "方案选型",
+        "强度校核",
+        "DFMA"
       ],
       "emoji": "⚙️",
       "color": "#546E7A",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-mechanical-design-engineer/engineering-mechanical-design-engineer-1.0.0.expert",
-          "sha256": "abf5edcd40ffcec13294cfd5d91747a0ff59623caecea84042e1eccca6bec2e1",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-mechanical-design-engineer/engineering-mechanical-design-engineer-1.1.0.expert",
+          "sha256": "cc38f4fcaa986ffc3e71c85ff582203fdc3fed35824eb1e5958adf90a9a93365",
           "publishedAt": 1790783545710
         }
       ]
@@ -4689,16 +4896,19 @@
       "description": "系统与机制架构师——精通 GDD 编写、玩家心理学、经济平衡和游戏循环设计，跨引擎跨品类通用。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "游戏开发部"
+        "游戏设计",
+        "游戏循环",
+        "经济平衡",
+        "GDD"
       ],
       "emoji": "🎮",
       "color": "yellow",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/game-designer/game-designer-1.0.0.expert",
-          "sha256": "58aa8f17b4c46d0806bf4992ec447b3d4ce79681de4de7d167132d3488b223e0",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/game-designer/game-designer-1.1.0.expert",
+          "sha256": "e42d7ca98b6e159a64b5ac7629e628c4ca26028189fd87fc1ca5979e8f2c3aff",
           "publishedAt": 1790783546305
         }
       ]
@@ -4711,16 +4921,19 @@
       "description": "交互音频专家——精通 FMOD/Wwise 集成、自适应音乐系统、空间音频，以及全引擎音频性能预算管理。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "游戏开发部"
+        "游戏音频",
+        "自适应音乐",
+        "空间音频",
+        "音频中间件"
       ],
       "emoji": "🔊",
       "color": "indigo",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/game-audio-engineer/game-audio-engineer-1.0.0.expert",
-          "sha256": "3940aa89622c3efbfaa22b038982463aee34efdb1c1b512a7f385294073c8175",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/game-audio-engineer/game-audio-engineer-1.1.0.expert",
+          "sha256": "897b28336b8586667ca8099729c2f705fe27873d092503d4b25f0b4d35750c1a",
           "publishedAt": 1790783546284
         }
       ]
@@ -4997,16 +5210,19 @@
       "description": "精通 iOS/Android 原生开发和跨平台框架的移动端专家，擅长性能优化、平台特性集成，专注打造流畅的移动体验。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "移动开发",
+        "iOS",
+        "Android",
+        "Flutter"
       ],
       "emoji": "📱",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-mobile-app-builder/engineering-mobile-app-builder-1.0.0.expert",
-          "sha256": "ec335461b85186865f5100e9e17b6f822a3ed0fe49a1df4369be79b621a04b40",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-mobile-app-builder/engineering-mobile-app-builder-1.1.0.expert",
+          "sha256": "fc55036528a4901c53e1ecb8e6c0d1b9c2172f5fa71361a334e736205d968d51",
           "publishedAt": 1790783545742
         }
       ]
@@ -5041,16 +5257,19 @@
       "description": "专业税务策略师，精通税务优化、多辖区合规、转让定价和战略税务规划。在确保完全合规的前提下，穿越复杂税法体系以最小化税负，覆盖地方、州、联邦和国际税务管辖区。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "税务优化",
+        "税务规划",
+        "转让定价",
+        "税务合规"
       ],
       "emoji": "🧾",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-tax-strategist/finance-tax-strategist-1.0.0.expert",
-          "sha256": "327ef27bdb29ccdacbc8ed12c5d24256f063ef105510f56d5b3240f152a7c8cd",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-tax-strategist/finance-tax-strategist-1.1.0.expert",
+          "sha256": "708df8576398de3f6be0a17ef446be0c4208667be4ce0e492b1faffdd1576ee9",
           "publishedAt": 1790783546271
         }
       ]
@@ -5129,16 +5348,19 @@
       "description": "专业簿记与财务总监，精通日常会计操作、财务对账、月末结账流程和内部控制。确保财务记录的准确性、完整性和时效性，始终保持 GAAP 合规和审计就绪状态。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "簿记",
+        "财务对账",
+        "月末结账",
+        "财务报表"
       ],
       "emoji": "📒",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-bookkeeper-controller/finance-bookkeeper-controller-1.0.0.expert",
-          "sha256": "ad4b3c92b2db41d9902ae07acf65e872e575ccc38809f61109906d7fc8bec773",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-bookkeeper-controller/finance-bookkeeper-controller-1.1.0.expert",
+          "sha256": "9ff752d7f5afce0a37a9bec1cd5017e1f61231015b2124ba1c76bebe465fa506",
           "publishedAt": 1790783546108
         }
       ]
@@ -5217,16 +5439,19 @@
       "description": "智能系统治理专家，持续对 API 进行影子测试以优化性能，同时严格执行财务和安全护栏，防止成本失控。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "影子测试",
+        "成本控制",
+        "语义路由",
+        "熔断器"
       ],
       "emoji": "🔄",
       "color": "#673AB7",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-autonomous-optimization-architect/engineering-autonomous-optimization-architect-1.0.0.expert",
-          "sha256": "ca659e04c6db0b643aabf55691e8584bdb7c8210203fcf1eeedc2ce6f029f0ff",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-autonomous-optimization-architect/engineering-autonomous-optimization-architect-1.1.0.expert",
+          "sha256": "7b07800d09bc40b59e4f75ffa7dbf5fb937744e30f6e5b645ba0c9219e732dbb",
           "publishedAt": 1790783545281
         }
       ]
@@ -5239,16 +5464,19 @@
       "description": "以治理为先的业务自动化架构师（n8n 优先），在实施之前先审计价值、风险和可维护性。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "业务自动化",
+        "n8n",
+        "工作流",
+        "回退方案"
       ],
       "emoji": "⚙️",
       "color": "cyan",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/automation-governance-architect/automation-governance-architect-1.0.0.expert",
-          "sha256": "9df195435950fc72a8fcc8e7eecdbc794c1853f9b958437ca7b07165029dbd86",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/automation-governance-architect/automation-governance-architect-1.1.0.expert",
+          "sha256": "0fd0ea46ec187d99383a714b8c6293afd068d2154d7e0fb8c187c96170791560",
           "publishedAt": 1790783544746
         }
       ]
@@ -5283,16 +5511,19 @@
       "description": "视觉传达专家，擅长把复杂信息转化成有吸引力的视觉故事，通过多媒体内容和品牌叙事打动受众。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "视觉叙事",
+        "品牌故事",
+        "数据可视化",
+        "多媒体设计"
       ],
       "emoji": "🎬",
       "color": "purple",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-visual-storyteller/design-visual-storyteller-1.0.0.expert",
-          "sha256": "a5d2f77b623fa0149a8be170fcae1540d20c110adf91fe2e983854e233ebe6a6",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-visual-storyteller/design-visual-storyteller-1.1.0.expert",
+          "sha256": "187e8f21f08d5ed746280942e7abc47da0cc70ffd02136beb5142dc054edf5b7",
           "publishedAt": 1790783545209
         }
       ]
@@ -5327,16 +5558,19 @@
       "description": "精通 AI 文生视频提示词的专家，用 5 段式结构把一句创意写成可直接投喂 Sora / 可灵 / Veo / Seedance / MiniMax 的电影感。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "视频提示词",
+        "文生视频",
+        "运镜设计",
+        "分镜设计"
       ],
       "emoji": "🎬",
       "color": "crimson",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-video-prompt-engineer/design-video-prompt-engineer-1.0.0.expert",
-          "sha256": "f6bbc3eea7ce5824c90fca61688c7bded054bc856d8aa373432130b09b76519a",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-video-prompt-engineer/design-video-prompt-engineer-1.1.0.expert",
+          "sha256": "842aff0ba172bc9ccddd396f1a5c462a136e2385d1bd70de896face44577d9e9",
           "publishedAt": 1790783545198
         }
       ]
@@ -5349,16 +5583,19 @@
       "description": "亲力亲为的 GIS 原型搭建者，接过技术顾问的策略，将其落地为可运行的演示、概念验证（PoC）和技术验证，覆盖完整的 Esri 与开源技术栈。",
       "categoryId": "03-GameSpatial",
       "tags": [
-        "GIS 部"
+        "GIS 原型",
+        "技术验证",
+        "ArcGIS",
+        "空间分析"
       ],
       "emoji": "🔧",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-solution-engineer/gis-solution-engineer-1.0.0.expert",
-          "sha256": "32a191abff04e642a1d14a2be67e23b57b48668a2e436249094fd30e538b5318",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gis-solution-engineer/gis-solution-engineer-1.1.0.expert",
+          "sha256": "ec2586df206fce34caabfbbefaa3390bba7bda8814adccb45caa8bd0a4661fcc",
           "publishedAt": 1790783546432
         }
       ]
@@ -5415,16 +5652,19 @@
       "description": "专精于使用 Whisper 系列模型和云端 ASR 服务构建端到端语音转录流水线——从原始音频采集、预处理、转录文本清洗、字幕生成、说话人分离。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "语音转文字",
+        "Whisper",
+        "字幕生成",
+        "说话人分离"
       ],
       "emoji": "🎙️",
       "color": "violet",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-voice-ai-integration-engineer/engineering-voice-ai-integration-engineer-1.0.0.expert",
-          "sha256": "64246b2e43788469b10b41bd3c5d20cb5f5df8e932fbd3e027ae0c65e32ca117",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-voice-ai-integration-engineer/engineering-voice-ai-integration-engineer-1.1.0.expert",
+          "sha256": "debacd82464a5a3578d6e8cf7a345108d72d4604a0ef75a65f72ffa6ca58fed4",
           "publishedAt": 1790783546043
         }
       ]
@@ -5437,16 +5677,19 @@
       "description": "专业财务分析师，精通财务建模、预测、场景分析和数据驱动的决策支持。将原始财务数据转化为可行动的商业智能，驱动战略规划、投资决策和运营优化。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "财务分析",
+        "财务建模",
+        "场景分析",
+        "估值"
       ],
       "emoji": "📈",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-financial-analyst/finance-financial-analyst-1.0.0.expert",
-          "sha256": "32f91fc98e0905d0c20b15b9a8fc2f389603f1cf9f8e67276cf7494f29d8e7f8",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-financial-analyst/finance-financial-analyst-1.1.0.expert",
+          "sha256": "4355c092bebabafe545f4a5c1868a2d3062f7ce75e06885e3af098835f93a2bb",
           "publishedAt": 1790783546121
         }
       ]
@@ -5481,16 +5724,19 @@
       "description": "专注企业财务预测与场景建模的分析专家，精通收入预测、现金流管理、烧钱率分析和融资对接，帮助创业公司和成长型企业在不确定环境中做出有数据支撑的财务决策。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "财务预测",
+        "现金流",
+        "烧钱率",
+        "融资测算"
       ],
       "emoji": "🔮",
       "color": "#3498DB",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-financial-forecaster/finance-financial-forecaster-1.0.0.expert",
-          "sha256": "612f5c97c59f4a2ad8c7ef657cb7f558300bc443fcd9b34344f82f2800a05f3c",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-financial-forecaster/finance-financial-forecaster-1.1.0.expert",
+          "sha256": "da34138e9fd82905a32c71fbb8bf21d6746b79acb55574a9997cdaa009a1b7a1",
           "publishedAt": 1790783546143
         }
       ]
@@ -5569,16 +5815,19 @@
       "description": "创意专家，专门给品牌体验注入个性、惊喜和趣味元素，用意想不到的小细节让用户记住你的产品。",
       "categoryId": "01-ProductDesign",
       "tags": [
-        "设计部"
+        "趣味设计",
+        "微交互设计",
+        "游戏化",
+        "品牌个性"
       ],
       "emoji": "✨",
       "color": "pink",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-whimsy-injector/design-whimsy-injector-1.0.0.expert",
-          "sha256": "c9210dd8f5211b3db8199b30d86d7ee2e7827be66a8ebb0f8942684c71bb1f61",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/design-whimsy-injector/design-whimsy-injector-1.1.0.expert",
+          "sha256": "567addd2b402ab12b68f834c221d4064c69b7b6d42de516561b9669b27177cf1",
           "publishedAt": 1790783545229
         }
       ]
@@ -5613,16 +5862,19 @@
       "description": "为自主运行的 AI 智能体设计身份认证和信任验证体系，确保智能体能证明自己是谁、被授权做什么、实际做了什么。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "身份认证",
+        "信任验证",
+        "凭证管理",
+        "审计日志"
       ],
       "emoji": "🔐",
       "color": "#2d5a27",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/agentic-identity-trust/agentic-identity-trust-1.0.0.expert",
-          "sha256": "7064ce3f2b1d0afd1403cf8f2154c9dd995b46f5ac2d376d04b1a486c180f751",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/agentic-identity-trust/agentic-identity-trust-1.1.0.expert",
+          "sha256": "8966d4e6b54518f71859aced8032d9445d4f2c6b8576357411a75cd1b5145145",
           "publishedAt": 1790783544697
         }
       ]
@@ -5679,16 +5931,19 @@
       "description": "软件架构专家，精通系统设计、领域驱动设计、架构模式和技术决策，构建可扩展、可维护的系统。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "系统设计",
+        "领域驱动",
+        "架构模式",
+        "技术决策"
       ],
       "emoji": "🏛️",
       "color": "indigo",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-software-architect/engineering-software-architect-1.0.0.expert",
-          "sha256": "04bcd788c079d291fbd59fc860234526b07b832b65868a7c9c8924d51ecb708d",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-software-architect/engineering-software-architect-1.1.0.expert",
+          "sha256": "5e0679522c26381ad286e884204f18c7bdbdeb8e6581e5849c55f8d48a42bdcb",
           "publishedAt": 1790783545942
         }
       ]
@@ -5745,16 +6000,19 @@
       "description": "专精从原始邮件线程中提取结构化、可供 AI 推理的数据，服务于智能体和自动化系统。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "邮件解析",
+        "线程重建",
+        "上下文组装",
+        "混合检索"
       ],
       "emoji": "📧",
       "color": "indigo",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-email-intelligence-engineer/engineering-email-intelligence-engineer-1.0.0.expert",
-          "sha256": "8cc5ba2c3d5de0008837785540bf72694ada3b36cb6b26aa575d8a8d7ac1811e",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-email-intelligence-engineer/engineering-email-intelligence-engineer-1.1.0.expert",
+          "sha256": "09288aa618650fa8ebbc7c64c94c5e6935061a0b7864611b830f8ce15ae41f42",
           "publishedAt": 1790783545489
         }
       ]
@@ -5811,16 +6069,19 @@
       "description": "专注交易欺诈检测与金融风险防控的分析专家，精通支付宝/微信支付/银联渠道的风控策略、反洗钱合规、电信诈骗识别、央行征信应用和互联网金融风控体系搭建。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "交易欺诈检测",
+        "反洗钱合规",
+        "风控策略",
+        "电信诈骗识别"
       ],
       "emoji": "🕵️",
       "color": "#E74C3C",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-fraud-detector/finance-fraud-detector-1.0.0.expert",
-          "sha256": "2266e2729a3b15554de9bac64055c55981a14e74f25bbecad7c9c39ddfb2c3a2",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-fraud-detector/finance-fraud-detector-1.1.0.expert",
+          "sha256": "2910f1688289a11976c4832bd50e0818ebe2c0602f8fba7553250de35aace548",
           "publishedAt": 1790783546177
         }
       ]
@@ -5833,16 +6094,19 @@
       "description": "二手与收藏品鉴定评估专家，覆盖奢侈品箱包腕表、球鞋潮玩、文玩收藏的真伪要点讲解、行情估值框架与交易避坑——教你怎么看、去哪验、按什么逻辑出价。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "真伪鉴别",
+        "行情估值",
+        "交易避坑",
+        "送检指引"
       ],
       "emoji": "🔍",
       "color": "amber",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/authenticity-appraiser/authenticity-appraiser-1.0.0.expert",
-          "sha256": "b32b7e000083d021d92af44d9ddfab8e32e48ddcdb802ce4ca4c85ca7cb88a85",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/authenticity-appraiser/authenticity-appraiser-1.1.0.expert",
+          "sha256": "fa15ba1939fa2b25d8611d663626b739be4c1632affee814d72aec7dc3093c52",
           "publishedAt": 1790783544738
         }
       ]
@@ -5855,16 +6119,19 @@
       "description": "专注钉钉开放平台全栈集成开发的工程专家，精通钉钉机器人、酷应用、审批流自动化、连接器低代码集成、钉钉小程序、宜搭平台对接及与阿里云生态的深度集成。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "钉钉集成",
+        "机器人开发",
+        "审批流自动化",
+        "低代码集成"
       ],
       "emoji": "🔗",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-dingtalk-integration-developer/engineering-dingtalk-integration-developer-1.0.0.expert",
-          "sha256": "dcd7d41868beea9aaf3ab280f3fa30c409d06ef93780475d4c4b9f29d60c99d4",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-dingtalk-integration-developer/engineering-dingtalk-integration-developer-1.1.0.expert",
+          "sha256": "af16801ee6192cfe60913388a92fab10192af8ef9320197d14485988374e1c81",
           "publishedAt": 1790783545439
         }
       ]
@@ -5987,16 +6254,19 @@
       "description": "专注飞书开放平台全栈集成开发的工程专家，精通飞书机器人、小程序、审批流、多维表格（Bitable）、消息卡片、Webhook、SSO 单点登录及工作流自动化。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "飞书机器人",
+        "消息卡片",
+        "审批流",
+        "多维表格"
       ],
       "emoji": "🐦",
       "color": "blue",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-feishu-integration-developer/engineering-feishu-integration-developer-1.0.0.expert",
-          "sha256": "6f4ac3ac88edad2b52ec195ba261a8315b8908111166d38f8ab9314a03e095b6",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-feishu-integration-developer/engineering-feishu-integration-developer-1.1.0.expert",
+          "sha256": "465eadf9ffdcedb78b062fe58d96b27c12222b552cfc7e52c9b2974aa76ab42b",
           "publishedAt": 1790783545562
         }
       ]
@@ -6009,16 +6279,19 @@
       "description": "产品最高负责人，掌管产品战略、路线图取舍与产品组织——对\"做什么、不做什么、按什么顺序做\"负责，用用户价值与商业价值的交集裁决一切需求之争。",
       "categoryId": "09-OperationsHR",
       "tags": [
-        "公司经营部"
+        "产品战略",
+        "路线图",
+        "需求优先级",
+        "产品定价"
       ],
       "emoji": "🧭",
       "color": "indigo",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-product-officer/chief-product-officer-1.0.0.expert",
-          "sha256": "8d245a34fab8fa7317ea77e94e926cbf6bc6dafc5a839cce8b5fb969dfa3a47b",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-product-officer/chief-product-officer-1.1.0.expert",
+          "sha256": "ed430df5be113abd7db6878da9a5f5331bfc2d86bc738f5fbbc0be1581422bda",
           "publishedAt": 1790783544935
         }
       ]
@@ -6031,16 +6304,19 @@
       "description": "企业最高决策者，掌管战略方向、资源配置、组织节奏与对外叙事——在信息不完备时做出可逆性分级的决策，对结果负最终责任，把愿景翻译成组织能执行的优先级。",
       "categoryId": "09-OperationsHR",
       "tags": [
-        "公司经营部"
+        "战略决策",
+        "资源配置",
+        "组织节奏",
+        "对外叙事"
       ],
       "emoji": "👔",
       "color": "navy",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-executive-officer/chief-executive-officer-1.0.0.expert",
-          "sha256": "07c3c6f982597539948fb2f937913bfaacac623e56320a03d39f57f6cc86db41",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-executive-officer/chief-executive-officer-1.1.0.expert",
+          "sha256": "1ab230ca7daf4671a9a32c38ef1c13215860a501da15b3fb3ec355a33f74118e",
           "publishedAt": 1790783544834
         }
       ]
@@ -6053,16 +6329,19 @@
       "description": "技术最高负责人，掌管技术路线、架构决策、研发组织与技术债务——在业务速度与工程质量之间做显式权衡，让技术成为业务的杠杆而不是瓶颈。",
       "categoryId": "09-OperationsHR",
       "tags": [
-        "公司经营部"
+        "技术战略",
+        "架构决策",
+        "技术债务",
+        "研发组织"
       ],
       "emoji": "🛠️",
       "color": "slate",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-technology-officer/chief-technology-officer-1.0.0.expert",
-          "sha256": "3937c0b3b40475ac2a3e1bcc736e84022ca16ac356efc63f634485f712a57329",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-technology-officer/chief-technology-officer-1.1.0.expert",
+          "sha256": "d90d62b8a73673ba103abbc0b7465fc3485fafb48cfbee7a7d7a2adf6539bc7c",
           "publishedAt": 1790783544952
         }
       ]
@@ -6075,16 +6354,19 @@
       "description": "增长与品牌最高负责人，掌管定位、渠道组合、营销预算与品牌资产——用可归因的数字管增长，用不可量化的耐心管品牌，绝不让两者互相冒充。",
       "categoryId": "09-OperationsHR",
       "tags": [
-        "公司经营部"
+        "品牌定位",
+        "增长实验",
+        "预算分配",
+        "危机公关"
       ],
       "emoji": "📣",
       "color": "crimson",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-marketing-officer/chief-marketing-officer-1.0.0.expert",
-          "sha256": "e7e8e9a7494bea8d417203215762dd944a5496ef0b2d86295cdd09305f4a25d5",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-marketing-officer/chief-marketing-officer-1.1.0.expert",
+          "sha256": "36d50c8011e5c199113fae3e91d4fef1397bef034b9b113dcfcf3057bdc62a0e",
           "publishedAt": 1790783544876
         }
       ]
@@ -6097,16 +6379,19 @@
       "description": "战略财务高管，掌管资本配置、资金运营、财务规划、并购财务、投资者关系与董事会汇报——把财务的复杂性转化为清晰决策，驱动业务表现并赢得各方利益相关者的信心。",
       "categoryId": "09-OperationsHR",
       "tags": [
-        "公司经营部"
+        "资本配置",
+        "财务规划",
+        "资金管理",
+        "投资者关系"
       ],
       "emoji": "💼",
       "color": "navy",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-financial-officer/chief-financial-officer-1.0.0.expert",
-          "sha256": "ee4cdf01bc2375484f00851114636c56c610eafabb5774d71125d6ef98f215cb",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-financial-officer/chief-financial-officer-1.1.0.expert",
+          "sha256": "aaa7606e3ea1c284f2f3beae12b4e97d9d782e54b0ff9a2f253b1eb37198b4b5",
           "publishedAt": 1790783544865
         }
       ]
@@ -6119,16 +6404,19 @@
       "description": "运营最高负责人，把战略翻译成流程、指标与执行节奏——消灭组织里的摩擦与例外，让正确的事成为默认发生的事，对\"计划与现实的差距\"负责。",
       "categoryId": "09-OperationsHR",
       "tags": [
-        "公司经营部"
+        "流程设计",
+        "目标拆解",
+        "跨部门协调",
+        "运营指标"
       ],
       "emoji": "⚙️",
       "color": "steel",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-operating-officer/chief-operating-officer-1.0.0.expert",
-          "sha256": "48ab66160c7f26476f913b1b8fe40e6fb0a49189b8a40f9030a03770f1f8a26e",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/chief-operating-officer/chief-operating-officer-1.1.0.expert",
+          "sha256": "5d0dc8e1b3fb972c2263fa70cb48dd6582c0db5e031b4b0e8f5c57d21a4b7735",
           "publishedAt": 1790783544911
         }
       ]
@@ -6141,16 +6429,19 @@
       "description": "资深香港股市合规审查专家，精通HKEX上市规则、SFC监管条例、公司条例及证券及期货条例。",
       "categoryId": "08-FinanceInvestment",
       "tags": [
-        "金融部"
+        "香港上市",
+        "合规审查",
+        "关联交易",
+        "招股书"
       ],
       "emoji": "⚖️",
       "color": "#1A237E",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-hk-stock-compliance-reviewer/finance-hk-stock-compliance-reviewer-1.0.0.expert",
-          "sha256": "47df264fe3476b5b1b0bbdc05fd738a274108c28930609b35ee9f5e1de4d2d15",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-hk-stock-compliance-reviewer/finance-hk-stock-compliance-reviewer-1.1.0.expert",
+          "sha256": "796052dcafe0a83ef992bfcf3bdeb2591a5f48ed12660f1c6bc971cb1bd94882",
           "publishedAt": 1790783546200
         }
       ]
@@ -6207,16 +6498,19 @@
       "description": "精通 Laravel/Livewire/FluxUI 的高级全栈开发者，擅长高端 CSS 效果、Three.js 集成，专注打造有质感的 Web 体验。",
       "categoryId": "02-Engineering",
       "tags": [
-        "工程部"
+        "全栈开发",
+        "Laravel",
+        "CSS 动画",
+        "Three.js"
       ],
       "emoji": "👨‍💻",
       "color": "green",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-senior-developer/engineering-senior-developer-1.0.0.expert",
-          "sha256": "7f1f8b8821f66468d50fde444f8a4d3ab3fceebac36d0c625f128ae24971dbec",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-senior-developer/engineering-senior-developer-1.1.0.expert",
+          "sha256": "498fa9dbae489f1403cf9c47e78f323c883729c1e4f6e83a80e501612baeb30d",
           "publishedAt": 1790783545920
         }
       ]
@@ -6251,16 +6545,19 @@
       "description": "中国高考志愿填报策略专家，精通平行志愿与院校专业组填报规则、位次法与等位分析、新高考选科组合与专业限选、提前批与专项计划、院校层次定位、冲稳保策略。",
       "categoryId": "12-IndustryConsultant",
       "tags": [
-        "专项部"
+        "志愿填报",
+        "位次分析",
+        "选科策略",
+        "冲稳保"
       ],
       "emoji": "🎓",
       "color": "red",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.0",
       "versions": [
         {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gaokao-college-advisor/gaokao-college-advisor-1.0.0.expert",
-          "sha256": "830ee1f07de912a61a7a8f001ba51114e45330a3ad52622b84b2592f87a561e3",
+          "version": "1.1.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/gaokao-college-advisor/gaokao-college-advisor-1.1.0.expert",
+          "sha256": "53c1ae139df3bfa22f3b409fca5892f9582fdc914a42c4a482202a2542c47f21",
           "publishedAt": 1790783546320
         }
       ]

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.supply-chain-route-optimizer",
   "slug": "supply-chain-route-optimizer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "物流路线优化师",
   "categoryId": "07-SalesCommerce",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "ce6de649552a34efe776b85135e6fbf7cbd53849a956b543c474635163aeb5f9",
+  "sha256": "807377be98a6a2cddee21bea6585d13499a9e4d14ee34d2965ead89b2a9800da",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "091262c813e54b5fc8f6e51a7b19fc489654180fe2956abf242c7741f8b1ae21"
+      "sha256": "62af0d4dec12f4ea22f8cdb5ee8de374e25474505573efbbc51869744a69bfd7"
     }
   ],
   "publishedAt": 1790783549030

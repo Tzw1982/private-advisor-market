@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-bilibili-strategist",
   "slug": "marketing-bilibili-strategist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "B站内容策略师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "28fa7c33403be322577118d09f0e6eb1ea329b105599ec8f05198365b0c2d71e",
+  "sha256": "933ab0e3cbe57bf8046e2823037d3538a8e34a56b837a65225d5b3e5cdd52f17",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "20408b43221e2c6d5b3f53be46fe1598a758228e0ee1fa5ccafecdf446c5e1e9"
+      "sha256": "fce932df44dee4c04f057b753b62640520cae13a922126e64e9885335edb3ae5"
     }
   ],
   "publishedAt": 1790783547091

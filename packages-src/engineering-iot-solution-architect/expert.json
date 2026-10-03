@@ -3,7 +3,10 @@
   "profession": "物联网端到端方案设计专家",
   "description": "物联网端到端方案设计专家——精通设备接入（MQTT/CoAP/LwM2M）、边缘计算、云平台（AWS IoT/Azure IoT/阿里云 IoT）、OTA。",
   "tags": [
-    "工程部"
+    "物联网架构",
+    "设备接入",
+    "MQTT",
+    "边缘计算"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📡",

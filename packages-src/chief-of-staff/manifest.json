@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.chief-of-staff",
   "slug": "chief-of-staff",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "幕僚长（Chief of Staff）",
   "categoryId": "09-OperationsHR",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "83b107c93612593fea3c6a297ccb8c70bc0e150fca83b05512022db40acd344c",
+  "sha256": "06ebc6fb5215dd32bc36f2c706fa50e76d5c60c0f2e8aabe01be704c67ca5db2",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "8812114077ee9b43460ce8695482abdcecf1ad2c20556dc0d912bba56bf2b2a1"
+      "sha256": "a47ce1da6d3db9716f8a34f54c709dcacad693eb4a5ff326b1cd3a55f4c8739f"
     }
   ],
   "publishedAt": 1790783544896

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.sales-engineer",
   "slug": "sales-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "售前工程师",
   "categoryId": "07-SalesCommerce",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "bb02a6c2814891c26a272b20b43e7ec39dd5d47d1e6382d8ed262e6c392453e1",
+  "sha256": "e127688ce5b0b8d78a37ff11603952a0f176a2341917c5eaab56f26a4231d9ec",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "65fb0a84330b86ef2d847b940727b5a909f24a2776b7330b9e7544da7ac696b1"
+      "sha256": "04bb9864dd80394756641b26ff6b8cf37bf5256eb33f1908b3ecff55ba0de7fe"
     }
   ],
   "publishedAt": 1790783548438

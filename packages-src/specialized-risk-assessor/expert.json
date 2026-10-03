@@ -3,7 +3,10 @@
   "profession": "面向中国企业的全面风险管理专家",
   "description": "面向中国企业的全面风险管理专家，精通国企风控体系建设、内控合规（COSO 框架本土化）、审计整改、ESG 风险管理及供应链风险评估。",
   "tags": [
-    "专项部"
+    "风险管理",
+    "内部控制",
+    "合规管理",
+    "ESG"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "⚖️",

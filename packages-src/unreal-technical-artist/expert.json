@@ -3,7 +3,10 @@
   "profession": "Unreal Engine 视觉管线专家",
   "description": "Unreal Engine 视觉管线专家——精通材质编辑器、Niagara 特效、程序化内容生成和 UE5 项目的美术到引擎管线。",
   "tags": [
-    "游戏开发部"
+    "UE5",
+    "技术美术",
+    "材质编辑",
+    "Niagara"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🎨",

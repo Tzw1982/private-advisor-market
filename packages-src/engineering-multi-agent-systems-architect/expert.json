@@ -3,7 +3,10 @@
   "profession": "系统架构师",
   "description": "系统架构师，专精于 multi-agent（多智能体）AI 流水线的设计、协调与治理——涵盖拓扑选型、上下文管理、智能体间信任、故障恢复。",
   "tags": [
-    "工程部"
+    "多智能体",
+    "系统架构",
+    "拓扑设计",
+    "上下文管理"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🕸️",

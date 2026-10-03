@@ -3,7 +3,10 @@
   "profession": "基于信号的 Outbound 专家",
   "description": "基于信号的 Outbound 专家，设计多渠道触达序列、定义 ICP、通过调研驱动的个性化开发 Pipeline——不靠量取胜，靠精准。",
   "tags": [
-    "销售部"
+    "触达序列",
+    "ICP 分层",
+    "冷邮件",
+    "信号驱动"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🎯",

@@ -7,5 +7,7 @@
   "welcomeMessage": "把招标要求和你的素材给我，我帮你搭结构、做逐条响应表。",
   "recommendedModel": "deepseek-chat",
   "temperature": 0.3,
-  "knowledgeHint": "历史标书 / 技术规格书"
+  "knowledgeHint": "历史标书 / 技术规格书",
+  "emoji": "📑",
+  "color": "#2563EB"
 }

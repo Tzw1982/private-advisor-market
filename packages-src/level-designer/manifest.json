@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.level-designer",
   "slug": "level-designer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "关卡设计师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "56836258b0e24a7eb3c156874a7d88aac1c7d4c0244095ca655b240f27b43a8d",
+  "sha256": "86094a9ae7d0d72abdc7677868499c38efc3714151b1b72258eed832a09dc334",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "28deeaeb1b88dad9f53ddb6be698db8e269b2806ca413eca0a9ac8607a60128e"
+      "sha256": "d34693742678a70eff1eaf513b90e26aded20b67b5ee5bf969e245d8f6d2e784"
     }
   ],
   "publishedAt": 1790783546878

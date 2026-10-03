@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.specialized-mcp-builder",
   "slug": "specialized-mcp-builder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "MCP 构建器",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "6766279af9c21ccf410ba9cf9eaa53db65f0e9d71cd7b3c09fe74eb69f5d7eff",
+  "sha256": "fa77ae78f4447b95ab15302d7b832033e63ba512e67a9e2cf520d35d9957ab1c",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "d7827bf120efe3a351eb5aa8207ac24831a80ec3ddd71764523651d4c409f9d6"
+      "sha256": "3bc62232df8df2be1db04a1c21279342dc97d98b547b7403c80b9a31c7409c95"
     }
   ],
   "publishedAt": 1790783548832

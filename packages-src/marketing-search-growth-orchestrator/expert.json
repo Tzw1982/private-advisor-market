@@ -3,7 +3,10 @@
   "profession": "编排 AEO 基础架构师",
   "description": "编排 AEO 基础架构师、SEO 与自然搜索增长专家、AI 搜索可见性与 GEO 策略师，并在需要时移交智能搜索优化师，统一证据、任务边界、优先级。",
   "tags": [
-    "营销部"
+    "搜索增长",
+    "SEO",
+    "AI 搜索",
+    "搜索可见性"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🧭",

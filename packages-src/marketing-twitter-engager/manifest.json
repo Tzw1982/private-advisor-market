@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-twitter-engager",
   "slug": "marketing-twitter-engager",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Twitter 互动官",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "2bc62ce34ef2138f922fd6138a97127141399cd8dc72cb00d9609ed8b8bb0f6f",
+  "sha256": "ee08f56ad9d89e1cb4e7b825771f25c8a8e636e1e2d93b64c249028fce3fc3d7",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "073b860ad1aa862cc821e73db39a9dab6f8a16dabdf8bf420879f10171d2e4a9"
+      "sha256": "7f6818b62a6a508ccf45bf0797410840a67a69c84869a86a76bcbb84169ac0a8"
     }
   ],
   "publishedAt": 1790783547602

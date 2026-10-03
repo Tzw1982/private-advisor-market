@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.security-penetration-tester",
   "slug": "security-penetration-tester",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "渗透测试员",
   "categoryId": "11-SecurityCompliance",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "7ac492be86f9756b461892ddd8214302473446564bfb1df4033896a99446d495",
+  "sha256": "19c4c196575eeb06d9fb57f5c8d528322adc237034bd37403b69359789c6b5e2",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "1f8a81966f055dfbd3256c0c375ba218163e684c84975ce2400d55266f4d9b5b"
+      "sha256": "83cdad6085f702d72123d7ce557741bd9bf417ec5657eed668e64939407fe8a2"
     }
   ],
   "publishedAt": 1790783548625

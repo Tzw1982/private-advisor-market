@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.roblox-systems-scripter",
   "slug": "roblox-systems-scripter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Roblox 系统脚本工程师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "d5c792fe2d4995139eff063c6f80611b3c14f0784d881ed44bfa5b156c76241d",
+  "sha256": "73e7b34b4c7190a10c7ffa1c29db1ad6d9bcb921c3fe4cd81e531fa66f110053",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "275a160f25cf046b3e238603752280a12aeb81df099a0d71ecd4218d7159b58d"
+      "sha256": "58474493e84efab2882c944d3e4973490d2dee907c564bb9a1c39c8573c40fda"
     }
   ],
   "publishedAt": 1790783548315

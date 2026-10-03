@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.esg-sustainability-officer",
   "slug": "esg-sustainability-officer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "ESG 与可持续发展官",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "5e20fbcd1d2b2e8488e171ac7632ecd650a6d04e0cb36d59bf523f0a9e1a4c47",
+  "sha256": "08e48144184643789efc590a9479767c76c6f287f11be8d74345f7022e8e7e62",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "9b7c5635537267ab34124661912819336bb35e566a9ea3789b0cb0b069da9fb2"
+      "sha256": "2d5ddceb090bcac625b73610736e98635efcb218c57719cfa787c6a3bda54416"
     }
   ],
   "publishedAt": 1790783546087

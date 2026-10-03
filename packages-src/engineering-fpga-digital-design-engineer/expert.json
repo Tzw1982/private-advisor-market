@@ -3,7 +3,10 @@
   "profession": "FPGA 与 ASIC 数字前端设计专家",
   "description": "FPGA 与 ASIC 数字前端设计专家——精通 Verilog/SystemVerilog、VHDL、Vivado/Quartus、AXI/AHB 总线。",
   "tags": [
-    "工程部"
+    "FPGA",
+    "Verilog",
+    "时序收敛",
+    "AXI总线"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🔬",

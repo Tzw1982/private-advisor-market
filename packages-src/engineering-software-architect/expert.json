@@ -3,7 +3,10 @@
   "profession": "软件架构专家",
   "description": "软件架构专家，精通系统设计、领域驱动设计、架构模式和技术决策，构建可扩展、可维护的系统。",
   "tags": [
-    "工程部"
+    "系统设计",
+    "领域驱动",
+    "架构模式",
+    "技术决策"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🏛️",

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-solidity-smart-contract-engineer",
   "slug": "engineering-solidity-smart-contract-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Solidity 智能合约工程师",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "a7b51282ccf27da4fc131da9e4f9313b5ce6aa18fd940c1220f6004a9b7b4802",
+  "sha256": "7785b29a5415e2c7612c36bd1dc5a9d0e9470389b05233c15465e699672ac40e",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "daf6cfee01c2adcdac613c3c66f9976ad071a12b1f96acf5f61c49112464d52d"
+      "sha256": "d321c2312897ca7884e21044c5f86d59536e601cbdae3809b006a55372299f47"
     }
   ],
   "publishedAt": 1790783545965

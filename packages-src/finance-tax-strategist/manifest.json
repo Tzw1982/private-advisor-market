@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.finance-tax-strategist",
   "slug": "finance-tax-strategist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "税务策略师",
   "categoryId": "08-FinanceInvestment",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "327ef27bdb29ccdacbc8ed12c5d24256f063ef105510f56d5b3240f152a7c8cd",
+  "sha256": "708df8576398de3f6be0a17ef446be0c4208667be4ce0e492b1faffdd1576ee9",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "cedaa24a8cf411807ea20ecc324a1619844cdd3eeff9e12cc9e9f29cc28ad0a8"
+      "sha256": "d743be22d133fa63581a7b22bc65ca63893fff89f5bfd6c149faa0b96300e186"
     }
   ],
   "publishedAt": 1790783546271

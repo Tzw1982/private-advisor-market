@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.loan-officer-assistant",
   "slug": "loan-officer-assistant",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "信贷经理助手",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "5126032e36810a33a28e5feceb50b2368d2f4f1c9cc865afc0b13caa4fbd0967",
+  "sha256": "a5ae672a65be1a5816c0e9353a824eb98cf7824d9c3e2d782e2c2890e97eb7b8",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "32f904445888d06abbcc1b0eae70893a861f205df30e54f18923cc2208366340"
+      "sha256": "75e74f2eb5d1266129b8ef4a013ce2f35041f7e27e3a9971cced795374f289a3"
     }
   ],
   "publishedAt": 1790783546932

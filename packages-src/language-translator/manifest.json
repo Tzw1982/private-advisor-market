@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.language-translator",
   "slug": "language-translator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "语言翻译专家",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "1042082e2dfbbccf7c0915693355770f42ebba226bbd6192cb1590f30ab4761f",
+  "sha256": "2ab8234835faf4fb56736d3546c1938ca4d5c588ac7e012422908e3ff3e3199d",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "0d2acc1da525f19451f71fe5c198817ecbe8a01094932dd0d17b1558897bfc2f"
+      "sha256": "af7f6bb1041d5b57e66ecd13f4a157368fa6439af33155367e6e400d81ed9e6c"
     }
   ],
   "publishedAt": 1790783546763

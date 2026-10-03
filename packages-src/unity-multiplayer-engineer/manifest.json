@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.unity-multiplayer-engineer",
   "slug": "unity-multiplayer-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Unity 多人游戏工程师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "f5a18e4b18b9d13e1c2d0f6ddd715bafb6726cd8e3234161d9ceab196690c117",
+  "sha256": "f8091c920390db28a52109d91b94a0b1d8d3e7efe6ccd0721bfd847a706887c6",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "9839c4ea8ab11e5b2f8783f442ef6d95c0d346758d2cba5adddaeffe6a881bea"
+      "sha256": "b130a60975cd5a6decd8b5a426afeea33e2dd9f994026a71af59f61329be929c"
     }
   ],
   "publishedAt": 1790783549495

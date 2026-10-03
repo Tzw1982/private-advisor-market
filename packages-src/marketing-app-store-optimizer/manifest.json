@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-app-store-optimizer",
   "slug": "marketing-app-store-optimizer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "应用商店优化师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "8401da231c930c5a16221de08cc6aaaefd4ccb3dcb7d3939124dfcf0abd48914",
+  "sha256": "f4af9532362ce2a04c52aa39196a2792c442c6c9edec745258bd9124b3baf176",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "d7644c4814c5ffae84dca226adfe0c962ad7d3eae910011fac2c87a9bc4d606d"
+      "sha256": "1f2c8e3f47fec4ab8129e9ceafb5f769bc94d606530eb423b23b217ed9cde506"
     }
   ],
   "publishedAt": 1790783547051

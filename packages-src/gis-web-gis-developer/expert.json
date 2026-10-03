@@ -3,7 +3,10 @@
   "profession": "全栈 Web GIS 工程师",
   "description": "全栈 Web GIS 工程师，负责构建交互式地图应用——MapLibre GL JS、ArcGIS JS API、Leaflet、实时仪表盘。",
   "tags": [
-    "GIS 部"
+    "Web GIS",
+    "地图开发",
+    "MapLibre",
+    "实时数据"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🌐",

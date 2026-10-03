@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.paid-media-search-query-analyst",
   "slug": "paid-media-search-query-analyst",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "搜索词分析师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "21b437be55233b158c7c182cb6534e15248103318ff8719a73b7ca0914b72443",
+  "sha256": "99cc286406937b0701556b5263ec6029230a157c1c71c3171b6c49da117ba2b0",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "b74190f0e022daf71393de67ab3f9da3278930ef5abad532602668f7f7e3001a"
+      "sha256": "d47f530c4a84a5800933ce3e70d3286a7aa5ab7b780448d1806abe8da290be0c"
     }
   ],
   "publishedAt": 1790783547921

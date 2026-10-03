@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.gis-geoprocessing-specialist",
   "slug": "gis-geoprocessing-specialist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "地理处理专家",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "37d81a68e961f115f89c8dd673d283f5238fe04f3dd86d4e17da677624ee543a",
+  "sha256": "c8214c7e9c1edde100e87bfa524def2072e6cde8f86784ea8db59401fbeefb03",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "cc0df05e2cf39f108544351f79c8de6097ccaff4b7d847fb06968ae131bf1a8c"
+      "sha256": "888edcf1f0286e5bcc5a5d19094d90ece5acbdc47c5053f27d170faad90fa2cb"
     }
   ],
   "publishedAt": 1790783546408

@@ -3,7 +3,10 @@
   "profession": "创意专家",
   "description": "创意专家，专门给品牌体验注入个性、惊喜和趣味元素，用意想不到的小细节让用户记住你的产品。",
   "tags": [
-    "设计部"
+    "趣味设计",
+    "微交互设计",
+    "游戏化",
+    "品牌个性"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "✨",

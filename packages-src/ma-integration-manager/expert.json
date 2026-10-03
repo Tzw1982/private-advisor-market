@@ -3,7 +3,10 @@
   "profession": "并购(M&A)整合专家",
   "description": "并购(M&A)整合专家，负责设计并执行并购后整合(PMI)项目——涵盖 Day 1 就绪、百日计划、synergy(协同效应)追踪、文化整合、职能工作流协调。",
   "tags": [
-    "专项部"
+    "并购整合",
+    "百日计划",
+    "协同效应",
+    "文化整合"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🤝",

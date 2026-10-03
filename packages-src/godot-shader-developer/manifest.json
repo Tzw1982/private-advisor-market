@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.godot-shader-developer",
   "slug": "godot-shader-developer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Godot Shader 开发者",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "b4c32f6ca8cefff07c18baee133dd9bae09e2af0a27c4b824e55148a40470996",
+  "sha256": "378ee177f2fb731aea4bde2aa79dadf162d57bfcb62d3aa2eaf689e755281122",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "c0be52892f5156cdda52d2f0a8b852f26ad61fea939441429f6ff34eef57c8c0"
+      "sha256": "9ac1c5367515d82ba186bfb5ece42c1fdb9c15185893bf407984a0e077fbb6c5"
     }
   ],
   "publishedAt": 1790783546567

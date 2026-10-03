@@ -3,7 +3,10 @@
   "profession": "资深赢单策略师",
   "description": "资深赢单策略师，专精 MEDDPICC 资质审查、竞争定位和复杂 B2B 销售周期的赢单规划。",
   "tags": [
-    "销售部"
+    "销售",
+    "MEDDPICC",
+    "竞争定位",
+    "赢单规划"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🏆",

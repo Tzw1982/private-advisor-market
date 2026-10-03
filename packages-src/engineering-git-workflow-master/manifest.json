@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-git-workflow-master",
   "slug": "engineering-git-workflow-master",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Git 工作流大师",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "5153f65cbd5ac84c8d3cab2d21a60ce9fe6f008ebaa6af6a183db94c17ba1b57",
+  "sha256": "aaa535526fab6d551d7ab4f6460f3bc2756794d48c61afc61dee39443d61ae10",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "b3566c072ee8d19bf31cb8bd1ea53a56add343f8b96a23c45ee9d52f86479f93"
+      "sha256": "b16793008131c54a3a7e8a3fa80461b7d2b67acdf0a2811db91a96e1dd5ea1fd"
     }
   ],
   "publishedAt": 1790783545625

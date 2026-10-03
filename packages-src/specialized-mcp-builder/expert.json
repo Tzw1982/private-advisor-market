@@ -3,7 +3,10 @@
   "profession": "Model Context Protocol 开发专家",
   "description": "Model Context Protocol 开发专家，设计、构建和测试 MCP 服务器，通过自定义工具、资源和提示词扩展 AI 智能体能力。",
   "tags": [
-    "专项部"
+    "MCP",
+    "自定义工具",
+    "服务器开发",
+    "API集成"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🔧",

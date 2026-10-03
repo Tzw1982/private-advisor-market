@@ -3,7 +3,10 @@
   "profession": "面向国产网络设备的企业网工程专家",
   "description": "面向国产网络设备的企业网工程专家——精通华为 VRP、华三 Comware、锐捷 RGOS，覆盖园区网/数据中心/广域网的 VLAN、STP、OSPF。",
   "tags": [
-    "工程部"
+    "企业网组网",
+    "网络排障",
+    "华为配置",
+    "等保合规"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🌐",

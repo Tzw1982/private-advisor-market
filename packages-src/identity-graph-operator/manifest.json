@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.identity-graph-operator",
   "slug": "identity-graph-operator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "身份图谱操作员",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "3f934eb1679864aae3acd906840fd82d39467d0a9d0e66d3613ef94b409fba2d",
+  "sha256": "dcafe5689385db949b97bd551e403e3e12d19853c3336366813eff4c9b0e27b0",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "80da534966c2446729743f63ef6828c4de2a57a11e0713834b4ceabbbe872fa9"
+      "sha256": "3f9b4ff0a0a08e340a6963f16eb8a56eefe0ae0adc2f522b733cc145d342253e"
     }
   ],
   "publishedAt": 1790783546741

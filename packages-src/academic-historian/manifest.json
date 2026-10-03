@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.academic-historian",
   "slug": "academic-historian",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "历史学家",
   "categoryId": "15-Education",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "283e53767eeb0b6f6b99fffa05cec395722f58431a9b92634df470b371204cfa",
+  "sha256": "694ad936b4dc82aef34231439a68a0c6a6fb1847e390544fecf6947e7afb4dd7",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "19f691e5c1726790ad0eb4e7a9adbdda27dc0c4c892794fc7ed04ae77f313f07"
+      "sha256": "1cc7f689286ac7c2a0f098cb9957b14960bf26863d4c176a15517c4611a3a6c3"
     }
   ],
   "publishedAt": 1790783544605

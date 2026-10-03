@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.product-sprint-prioritizer",
   "slug": "product-sprint-prioritizer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Sprint 排序师",
   "categoryId": "01-ProductDesign",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "98f3fd929a1d58546fd1d9a16a15617584e3678f4d5335a417106cb6f9cf50a0",
+  "sha256": "4e3c1cdc91a182f3bdef9efaa3e1b5acf30b4ce48d12f8d2690cf71892e4fb30",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "4778d089341b4946948c3e35e72f97bc1e486cf5f0fb597c182c8899e2495122"
+      "sha256": "edb818d78e0f56ae6f9dcae565c8d2c17045a2c3536d9fb787adb68d91093055"
     }
   ],
   "publishedAt": 1790783548028

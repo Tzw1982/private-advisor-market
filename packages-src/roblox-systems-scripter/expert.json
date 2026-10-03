@@ -3,7 +3,10 @@
   "profession": "Roblox 平台工程专家",
   "description": "Roblox 平台工程专家——精通 Luau、客户端-服务端安全模型、RemoteEvent/RemoteFunction、DataStore 和模块架构。",
   "tags": [
-    "游戏开发部"
+    "Roblox 开发",
+    "Luau 脚本",
+    "服务端逻辑",
+    "数据持久化"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "⚙️",

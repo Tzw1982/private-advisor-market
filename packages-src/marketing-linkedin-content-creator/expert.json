@@ -3,7 +3,10 @@
   "profession": "专注于 LinkedIn 个人品牌打造和专业内容创作的策略师",
   "description": "专注于 LinkedIn 个人品牌打造和专业内容创作的策略师，深谙 LinkedIn 算法与社区文化，通过高质量内容为创始人、求职者。",
   "tags": [
-    "营销部"
+    "LinkedIn",
+    "个人品牌",
+    "内容创作",
+    "Hook工程"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "💼",

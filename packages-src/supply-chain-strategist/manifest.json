@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.supply-chain-strategist",
   "slug": "supply-chain-strategist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "供应链采购策略师",
   "categoryId": "07-SalesCommerce",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "eb0235db9e5f57db8af2ee6457bcdbf884e8fa92fe4e9117dfdb1c6bd8797775",
+  "sha256": "8bc32da4d3c9aa5bec5f48ea3e4162f5d5928fb6da4bd04a76648f12014c5af2",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "fa6126132201975826eaa4eb8013448f45b68e8de6b0bf7d1654257a8a3e51db"
+      "sha256": "acf50979e5be8ebad4ddcca3a0a62e0d45f5897ef9443e12763ed604b2513438"
     }
   ],
   "publishedAt": 1790783549044

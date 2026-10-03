@@ -3,7 +3,10 @@
   "profession": "性能与混合架构专家",
   "description": "性能与混合架构专家——精通 C++/Blueprint 边界、Nanite 几何体、Lumen GI 和 Gameplay Ability System。",
   "tags": [
-    "游戏开发部"
+    "Unreal",
+    "C++",
+    "游戏系统",
+    "渲染管线"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "⚙️",

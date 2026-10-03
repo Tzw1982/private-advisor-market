@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.specialized-salesforce-architect",
   "slug": "specialized-salesforce-architect",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Salesforce 架构师",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "39671f0ff0ee8f88484f1a70ae568ce62e9dacdccde299047704ea46899e7372",
+  "sha256": "8baba4280951df71691d74b02c23b23a2beeeef9db618b2accf3bf657030ae5d",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "66c9957bef2a69fab99df7e8ea8f365b6960f160192388fe8addf07d4bad452d"
+      "sha256": "fb608aa8c46b4ac05403f98fbe79d05b0b6572a6c12ce1a90c41b10b81993637"
     }
   ],
   "publishedAt": 1790783548934

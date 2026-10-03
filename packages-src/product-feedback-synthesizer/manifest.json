@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.product-feedback-synthesizer",
   "slug": "product-feedback-synthesizer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "反馈分析师",
   "categoryId": "01-ProductDesign",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "1d61ea9f9ea01f348720d635fe986dded3fcb8c554eaeaf24f25b1db6f31699e",
+  "sha256": "1ca6e5214f6b26f6720fb4ddfd6b0bb1935c81f99aef9dd3215bda871738c9af",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "6233a3a78ce9ea01cd7350df6ed48bba3ef5b6a21e5cc3c3657851c133cfddb3"
+      "sha256": "6d06a1c560de6f55ebc43b35bc28149c5e8e4441644bf1a15dfc986de4a9bc77"
     }
   ],
   "publishedAt": 1790783547995

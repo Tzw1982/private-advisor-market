@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-carousel-growth-engine",
   "slug": "marketing-carousel-growth-engine",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "轮播图增长引擎",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "deedd9c8efb42d4e4bb72e9ed6ca3577fc48761a112e3a46faf0135417a5a900",
+  "sha256": "43d2fc70890c4975109c1eddeb50bb91c94324e3670983f1e3201b1b98e2d316",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "b2a25f7baa4a4607a61ee3f50346743e5e9707449d34e21198fb0f2d0f55bf26"
+      "sha256": "a0e5e2c4ccbdc6882e0779a447b59a41a4a3132df93badfec15b9de17b770083"
     }
   ],
   "publishedAt": 1790783547132

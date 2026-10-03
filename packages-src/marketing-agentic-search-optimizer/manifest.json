@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.marketing-agentic-search-optimizer",
   "slug": "marketing-agentic-search-optimizer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "智能搜索优化师",
   "categoryId": "05-MarketingGrowth",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "3ad0ae261c5f1ca4b7d82ea5f74e3c3c2a3e54955b902abc85ade30f1c177391",
+  "sha256": "a893143a4da77b5ea3d0c9900b92a5de7420c890bf7f3d87b1994507dc7b7a54",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "01b0e49b19d56a460dd4b4d0abd0a0119d7f7eaffde6bd2e915712690502a03b"
+      "sha256": "d8d5d64729931796ff03ab91fa597447a2165f046752efe5a0b682ac931c62e8"
     }
   ],
   "publishedAt": 1790783547020

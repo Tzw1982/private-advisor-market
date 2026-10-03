@@ -3,7 +3,10 @@
   "profession": "策略对决推演师",
   "description": "运用 game theory（博弈论）和三十六计开展实时策略对决推演。",
   "tags": [
-    "专项部"
+    "博弈论",
+    "三十六计",
+    "策略推演",
+    "谈判模拟"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "⚔️",

@@ -3,7 +3,10 @@
   "profession": "战略性公共关系与传播专家",
   "description": "战略性公共关系与传播专家，负责 media relations（媒体关系）、press release（新闻稿）。",
   "tags": [
-    "营销部"
+    "媒体关系",
+    "新闻稿",
+    "危机传播",
+    "品牌传播"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📣",

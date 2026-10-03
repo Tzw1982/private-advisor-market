@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-wechat-mini-program-developer",
   "slug": "engineering-wechat-mini-program-developer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "微信小程序开发者",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "8dbcfe35d807d260b87313ea4118363ca8a33e0674a9dc42fa6bba1a3379ee86",
+  "sha256": "46aba9ad929a6d13fe580884803715c92c334347462fb5f34d44b6c6d0440e75",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "1fa85f09cef5a9ce8a874bc201abd0332d76b3472f89a0ec7a23db741c94d7cd"
+      "sha256": "6fa5be0202c0af722fe3fd19ad342bfbba1ef67ed69f76d513210c8c4bb536cd"
     }
   ],
   "publishedAt": 1790783546057

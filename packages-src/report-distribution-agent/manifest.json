@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.report-distribution-agent",
   "slug": "report-distribution-agent",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "报告分发师",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "d03b76dad0216b8d4aac4c9f69ef7519bfa70495c8aa8232f6314ac171d10849",
+  "sha256": "47b6bae781d20addeddf2842022e9f1788d11ae783b56ec65b90e6e3fae7d5dc",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "335aa1b27b02270845c5ae67649311b9f300b7520e221421d0dfe4c2d5b4698f"
+      "sha256": "e960acfd8535687d8bff129e6b344bdc4c38808dfb76d862c82395602a85c8d0"
     }
   ],
   "publishedAt": 1790783548250

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.specialized-ai-policy-writer",
   "slug": "specialized-ai-policy-writer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "AI 治理政策专家",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "a4f0451542614c5ad5f56bd9c7af011f66285b05494324a0401c2a29ed659475",
+  "sha256": "5c9af225f87e7d9aba3e45f21d51d9678a844257a49601bb7ce25434e004143b",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "4aad913f4dd277c8a40a52ee3e058f71eb71ab22da9dcfbb97973aa795462eac"
+      "sha256": "06b73f39ded30baa4306f883d3fb2268173cb992cc80b3dff7deb9018728cfb5"
     }
   ],
   "publishedAt": 1790783548707

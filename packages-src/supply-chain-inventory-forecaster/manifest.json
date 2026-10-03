@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.supply-chain-inventory-forecaster",
   "slug": "supply-chain-inventory-forecaster",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "库存预测专家",
   "categoryId": "07-SalesCommerce",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "7769da4a1e86ade01ac18a7d1453d9272feaf853514c03941316832ffc5da1d6",
+  "sha256": "e0615bd27034f670cf5af7b69c0266b17aba9a4090e0131edacbc19e6903edcd",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "72fb138f2957d5e29b9b309fe1d03de3891793c597721b684557b339eb355abc"
+      "sha256": "b0829be1caef5ec4a3df952290fbe0b81fc3d795fac148e3e4e47b296373cd6d"
     }
   ],
   "publishedAt": 1790783549011

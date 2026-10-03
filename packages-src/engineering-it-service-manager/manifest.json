@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-it-service-manager",
   "slug": "engineering-it-service-manager",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "IT 服务经理",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "3d5e36183bb571df66a26917d9f087004033e0abcbcc5f8a440ee593349bc5b1",
+  "sha256": "3ff99c1fb819b33a2bee509408d4177d996e17fbb93123c7a1c7d372de0596f5",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "38ab01eafc53c91e950b41d102297999817ae0d19e8dedfd0445d73ed2bff231"
+      "sha256": "4f492029141277b264c3d8860fb45014a8ca5dea3d5031bad21f67829160f3e2"
     }
   ],
   "publishedAt": 1790783545687

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.specialized-korean-business-navigator",
   "slug": "specialized-korean-business-navigator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "韩国商务专家",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "6e7fc63a2dadb20f07bffcae578d6ababdf99216f0ea02eeee4849a456ca25d6",
+  "sha256": "eca70da19f32d2108392721c7e6fd7fc88350a34accf1c58fc47b532d25a6bcf",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "a3c7956fc802142dd1510ce40c8b8dc0ba600dcc74478a9a12c3762280fd4c21"
+      "sha256": "8001a58232dbfd7aec4f05da92fae1821779a201b2b1b046ced9f517aa8c8db2"
     }
   ],
   "publishedAt": 1790783548817

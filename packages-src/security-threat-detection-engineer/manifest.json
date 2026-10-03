@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.security-threat-detection-engineer",
   "slug": "security-threat-detection-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "威胁检测工程师（安全运营）",
   "categoryId": "11-SecurityCompliance",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "563f3ae40e1c04a67a709dde38529581929f0d123117b629a5f838036982d7ff",
+  "sha256": "087457f230578f130172107dfd3bc910ee897016e27a398dfea261ed7205dad5",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "05246b40a2acb6554acd28363706595daef058676fbe33f9dd7585e58ba727fc"
+      "sha256": "876bbd649aa38d71a8c32ba81a07d1fde33419d982bfc69955bf8304d97cf7f7"
     }
   ],
   "publishedAt": 1790783548665

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.chief-technology-officer",
   "slug": "chief-technology-officer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "首席技术官（CTO）",
   "categoryId": "09-OperationsHR",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "3937c0b3b40475ac2a3e1bcc736e84022ca16ac356efc63f634485f712a57329",
+  "sha256": "d90d62b8a73673ba103abbc0b7465fc3485fafb48cfbee7a7d7a2adf6539bc7c",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "8840fcf028155cc725095fd590ba8c39ec9fd64e685eefc8d777b069e717be13"
+      "sha256": "525032bfa30b43696f2b65bfacacff761a1f07154f435007392c73cefff6f1b0"
     }
   ],
   "publishedAt": 1790783544952

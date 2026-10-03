@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.blender-addon-engineer",
   "slug": "blender-addon-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "Blender 插件工程师",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "77d797c790d7b8197a713ce54ac4853cc84d3afbb4fbc8d52d64abbfd6204eb0",
+  "sha256": "acfa3e776ddcc45068ed61b51d5a73c2e59d1be230c2a4e2dcdb033464696db1",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "755fe1af8e3bee7081703688c059d5c588bba10c79a488145aaa95adaf61ca07"
+      "sha256": "90beb189a77b746321ae8cc59a862f8ef0020b9c9594557e107ea292540ba88f"
     }
   ],
   "publishedAt": 1790783544775

@@ -3,7 +3,10 @@
   "profession": "数据工程师",
   "description": "专注于构建可靠数据管线、湖仓架构和可扩展数据基础设施的数据工程专家。",
   "tags": [
-    "工程部"
+    "数据管线",
+    "ETL",
+    "数据湖仓",
+    "数据质量"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📊",

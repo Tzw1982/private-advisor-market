@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-orgscript-engineer",
   "slug": "engineering-orgscript-engineer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "OrgScript 工程师",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "4b0f7fce128777ea4b663bfa652c80e7ab954cde962769e2085993090f639f38",
+  "sha256": "9186daee082d8e906d362662da36a287584a4b23a344a919250eb84deb13c0c2",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "0b98522aaeb8f2b6db6e6a0dc4332e6b0b6b533deba5253d5cb35641172ad030"
+      "sha256": "bb4e271c9b5e1ad43fa2640bb773cc4c6817eae250d24a80fba6b8744bec7666"
     }
   ],
   "publishedAt": 1790783545791

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.testing-tool-evaluator",
   "slug": "testing-tool-evaluator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "工具评估师",
   "categoryId": "10-ProjectQuality",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "51b0307dcd904992c4101f02484689de3bdde46d46a4856381954966a9d597c2",
+  "sha256": "e0386df97ef680f4a763ceb990f6be4f9fec0ef16bc0e703b3d24ec34dde30c2",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "b0c6b429f893219f0cbdc4acc2f6300ef09fb0c97ac4057c4307185ae9a131a8"
+      "sha256": "9f3ad42cc51c54b91f1084272ef2b8ba2f9384cdfacef3b05905429277ab72d3"
     }
   ],
   "publishedAt": 1790783549385

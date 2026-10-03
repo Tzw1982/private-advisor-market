@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.security-cloud-security-architect",
   "slug": "security-cloud-security-architect",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "云安全架构师",
   "categoryId": "11-SecurityCompliance",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "732065a2ccca9fb51858787d37ee5b0cd75f085c13f2c8413b04474e2ac292e1",
+  "sha256": "de66b34885b40afda51f086317413cef543dd1a1b68919c5797747e7fd097aaa",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "0df822a7c016d1a15231f1815f3b9bf8e7a5c5ee9964925a309ca8e37ac0c697"
+      "sha256": "bfc3d22f71db192b771b5ee44025b6401974ba22a6c16ee5879a0698f415a22f"
     }
   ],
   "publishedAt": 1790783548572

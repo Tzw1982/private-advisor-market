@@ -3,7 +3,10 @@
   "profession": "收入运营分析师",
   "description": "收入运营分析师，专精 Pipeline 健康诊断、单子速度分析、Forecast 准确度和数据驱动的销售辅导。",
   "tags": [
-    "销售部"
+    "Pipeline",
+    "销售预测",
+    "赢单率",
+    "收入运营"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📊",

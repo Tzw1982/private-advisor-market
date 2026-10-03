@@ -3,7 +3,10 @@
   "profession": "资深播客增长专家",
   "description": "资深播客增长专家，专注节目定位、受众培育、内容策略与变现。",
   "tags": [
-    "营销部"
+    "播客增长",
+    "节目定位",
+    "内容策略",
+    "变现路线图"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🎙️",

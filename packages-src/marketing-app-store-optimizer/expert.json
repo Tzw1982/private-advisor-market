@@ -3,7 +3,10 @@
   "profession": "应用商店营销专家",
   "description": "应用商店营销专家，专注应用商店优化（ASO）、转化率优化和应用可发现性。",
   "tags": [
-    "营销部"
+    "ASO",
+    "应用商店",
+    "关键词优化",
+    "转化率优化"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📲",

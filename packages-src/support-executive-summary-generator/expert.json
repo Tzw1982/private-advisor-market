@@ -3,7 +3,10 @@
   "profession": "像资深战略顾问一样思考和表达的 AI 专家",
   "description": "像资深战略顾问一样思考和表达的 AI 专家，擅长把复杂的业务信息压缩成简洁、可执行的高管摘要。",
   "tags": [
-    "支持部"
+    "高管摘要",
+    "战略顾问",
+    "咨询框架",
+    "核心发现"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "📝",

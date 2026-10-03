@@ -3,7 +3,10 @@
   "profession": "联网游戏专家",
   "description": "联网游戏专家——精通 Netcode for GameObjects、Unity Gaming Services（Relay/Lobby）、客户端-服务端权威。",
   "tags": [
-    "游戏开发部"
+    "Unity",
+    "多人游戏",
+    "网络同步",
+    "服务端权威"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🌐",

@@ -3,7 +3,10 @@
   "profession": "视觉效果与材质专家",
   "description": "视觉效果与材质专家——精通 Unity Shader Graph、HLSL、URP/HDRP 渲染管线和自定义渲染 Pass，打造实时视觉效果。",
   "tags": [
-    "游戏开发部"
+    "视觉效果",
+    "Shader 优化",
+    "材质设计",
+    "渲染管线"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🎨",

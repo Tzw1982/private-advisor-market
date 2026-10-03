@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.xr-immersive-developer",
   "slug": "xr-immersive-developer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "XR 沉浸式开发者",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "9de4871b120ce9173d002a9dd09f11b915cc8397068ccbbb3d7cb52358db68b5",
+  "sha256": "5ddc1c2e5341bd0fc93835de78083c0e9b8209d0b71d9f3a39ac5f001c22c2f5",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "95e65736a94b6352c8397b6f676bdd5c9a49bd303b045914bf42a51e20b05960"
+      "sha256": "b16b41c374bd52033b6936d5ee036d2450687110046d9cf66b03658e546e4b30"
     }
   ],
   "publishedAt": 1790783549655

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-frontend-developer",
   "slug": "engineering-frontend-developer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "前端开发者",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "a219098957be30cd6a0e38bf7271083b11cf68766e289d559440091d0ebd8267",
+  "sha256": "2442814d56582375ca07de25c1826fc10590aa193b5c3406f73b0a56c707e481",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "613cd1691f5bb0e883f1875b474bec95c959c26522f22043b8460e78f3cd576f"
+      "sha256": "a8eb8f69a100a80c600b290137219b2c9604f6a40e588d3a6b4bb56820014e67"
     }
   ],
   "publishedAt": 1790783545614

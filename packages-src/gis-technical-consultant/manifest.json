@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.gis-technical-consultant",
   "slug": "gis-technical-consultant",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "技术顾问",
   "categoryId": "03-GameSpatial",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "53ad3e25604a5304ffedde70f322ac9e0347b439f544e632b8b30f719be63aab",
+  "sha256": "b491c64c424ee3dad80feee13b34e37fcba6c117ee49d3487b4510ff26161639",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "754b493bc84a215edc9b72daccb1a8a5fdb53c5239425608daa1f2e84c5ab48d"
+      "sha256": "6ebe1ec80f375e84e458fd49dd5a2927df4eeb740ceb416fb03a1ea66d20b3b1"
     }
   ],
   "publishedAt": 1790783546486

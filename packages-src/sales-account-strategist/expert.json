@@ -3,7 +3,10 @@
   "profession": "售后客户拓展专家",
   "description": "售后客户拓展专家，擅长 Land-and-Expand 执行、干系人关系图谱、QBR 策划及净收入留存率管理。",
   "tags": [
-    "销售部"
+    "客户扩展",
+    "客户成功",
+    "QBR策划",
+    "留存率管理"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "💼",

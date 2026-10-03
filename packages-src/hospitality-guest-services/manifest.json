@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.hospitality-guest-services",
   "slug": "hospitality-guest-services",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "酒店宾客服务专家",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "12c8196a07cbde84eafac3a275d6affbdac6c230c3dd4c08970f5cc713d46034",
+  "sha256": "a02689d23bfaedfd81d8ee7459faa56731de04378f1db3b827b2d700209ca323",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "5bdb10e55ab26a1736b40ba3096ce355e144f628acef0957bb73e735ea44f3be"
+      "sha256": "7b3ec93a9133a08d97fd769026d04cbd39cd0b504487a8aa4ac7a950f8c33c8d"
     }
   ],
   "publishedAt": 1790783546669

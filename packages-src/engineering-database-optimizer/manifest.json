@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.engineering-database-optimizer",
   "slug": "engineering-database-optimizer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "数据库优化师",
   "categoryId": "02-Engineering",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "ef38e6a985dd7109b797b0770d523168bedb0e2bb18e69e5f797160389e01725",
+  "sha256": "ff51fb955be478c1276d4dc79c24a651002445ceec1e5d1f4dfb26a910c8bf84",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "1d255a1d259cee6ad7f2f9941a140e64972e1431dc01ca69bc36a477e52ad23b"
+      "sha256": "be7bf216be50ab809dc1db5db5b4d3ed6b96a1b7eb42a594bd72e75f83c6de37"
     }
   ],
   "publishedAt": 1790783545409

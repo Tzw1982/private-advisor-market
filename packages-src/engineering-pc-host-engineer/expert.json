@@ -3,7 +3,10 @@
   "profession": "Qt/QML 桌面上位机开发专家",
   "description": "Qt/QML 桌面上位机开发专家——精通 Qt Widgets/Quick、QSerialPort 串口、Modbus/CAN/TCP 工业协议。",
   "tags": [
-    "工程部"
+    "上位机开发",
+    "串口通信",
+    "Modbus",
+    "数据可视化"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🖥️",

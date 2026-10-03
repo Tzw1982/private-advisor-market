@@ -3,7 +3,10 @@
   "profession": "应用型组织心理学家",
   "description": "应用型组织心理学家，诊断团队动力、psychological safety（心理安全感）、burnout（职业倦怠）风险与文化健康度。",
   "tags": [
-    "专项部"
+    "团队动力",
+    "心理安全感",
+    "职业倦怠",
+    "文化健康度"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "🧠",

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.corporate-training-designer",
   "slug": "corporate-training-designer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "企业培训课程设计师",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "5c0e2c93b2bc0245dc35a4ce136d8fa6421662c118966dbba2a7cb4392f9f178",
+  "sha256": "5c5b8ae5a83e31da23da71b591cffd7e93d8973d3ce004a563ef907e22902b90",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "ec8c572b9946fadec14dc2d2cb678079f1d840832e373e2f360734fdfb1d8cb9"
+      "sha256": "a7619b0633878cacdaca27f8a83d7c5fab2a0fa1a85b3abb49bcbb5f1d2f9d68"
     }
   ],
   "publishedAt": 1790783544974

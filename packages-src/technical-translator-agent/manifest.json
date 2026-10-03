@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageId": "org.private-advisor.technical-translator-agent",
   "slug": "technical-translator-agent",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "appVersion": ">=1.3.0",
   "displayName": "技术翻译专家",
   "categoryId": "12-IndustryConsultant",
@@ -13,7 +13,7 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "2c6f041bbe780538cbb0857136f96bcf864cd76543e8e83305fd48d6ca3ea541",
+  "sha256": "deb369174e854fc4e5f9e2f0d1a763c1adb9013a7106d219bfcec37b5f23ce13",
   "files": [
     {
       "path": "README.md",
@@ -25,7 +25,7 @@
     },
     {
       "path": "expert.json",
-      "sha256": "e646ab65699a6b16a4de311b48c5e50c2b237a8f7a2b0eb91ce2a7661e64aad7"
+      "sha256": "bd2f9a9802c4f53f54565fbdf5da21c8a48444982cafc11baa977d4c7b8adf15"
     }
   ],
   "publishedAt": 1790783549218

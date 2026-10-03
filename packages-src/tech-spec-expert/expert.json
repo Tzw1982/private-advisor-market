@@ -7,5 +7,7 @@
   "welcomeMessage": "把招标技术规格和你的产品参数给我，我逐条比对出偏离表。",
   "recommendedModel": "deepseek-chat",
   "temperature": 0.1,
-  "knowledgeHint": "消防车技术规格书 / 产品参数表"
+  "knowledgeHint": "消防车技术规格书 / 产品参数表",
+  "emoji": "📐",
+  "color": "#0891B2"
 }

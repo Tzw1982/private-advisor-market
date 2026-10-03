@@ -3,7 +3,10 @@
   "profession": "专注短视频剪辑技术全链路的实战教练",
   "description": "专注短视频剪辑技术全链路的实战教练，精通剪映/CapCut专业版、Premiere Pro、DaVinci Resolve。",
   "tags": [
-    "营销部"
+    "短视频",
+    "视频剪辑",
+    "剪映",
+    "调色"
   ],
   "recommendedModel": "deepseek-chat",
   "emoji": "✂️",

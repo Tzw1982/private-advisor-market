@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1791039743060,
+  "generatedAt": 1791176063033,
   "packages": [
     {
       "packageId": "org.private-advisor.marketing-aeo-foundations",
@@ -24,6 +24,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/marketing-aeo-foundations/marketing-aeo-foundations-1.1.0.expert",
           "sha256": "01a62413eb725e82621f7c4c70ea076a631062c986e1f05f2e8f3aefa69fd1f4",
           "publishedAt": 1790783546996
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.ai-image-prompt-engineer",
+      "slug": "ai-image-prompt-engineer",
+      "displayName": "AI 图像提示词工程师",
+      "profession": "文生图提示词专家",
+      "description": "把模糊的视觉想法翻译成可直接出图的高质量提示词，精通构图、光影、风格与镜头语言。",
+      "categoryId": "01-ProductDesign",
+      "tags": [
+        "文生图",
+        "提示词",
+        "视觉风格"
+      ],
+      "emoji": "📷",
+      "color": "#DB2777",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/ai-image-prompt-engineer/ai-image-prompt-engineer-1.0.0.expert",
+          "sha256": "c128c22053b61a06a08844041f277faa6c6de5988af0e30f40ff0824e6729ffd",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -149,6 +173,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/testing-api-tester/testing-api-tester-1.1.0.expert",
           "sha256": "4aeba2451f62b8a09c444c7931004d0f094b794774738fa947c15abfcd72eb5f",
           "publishedAt": 1790783549280
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.agent-expert",
+      "slug": "agent-expert",
+      "displayName": "Agent 设计专家",
+      "profession": "智能体设计与提示词工程师",
+      "description": "创建并优化专用智能体：设计角色边界、工具权限与提示词结构，产出可直接使用的 agent 定义。",
+      "categoryId": "02-Engineering",
+      "tags": [
+        "Agent 设计",
+        "提示词工程",
+        "角色定义"
+      ],
+      "emoji": "🤖",
+      "color": "#4F46E5",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/agent-expert/agent-expert-1.0.0.expert",
+          "sha256": "ac5661deb871d0b76a1b24e4920755928ca5d2e5e099de956bdee94c908b01ba",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -2200,6 +2248,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.meeting-prep-agent",
+      "slug": "meeting-prep-agent",
+      "displayName": "会前准备助理",
+      "profession": "商务会议准备顾问",
+      "description": "会前梳理目标、议题、参会人背景与潜在分歧，输出一份可直接照做的会议准备清单。",
+      "categoryId": "09-OperationsHR",
+      "tags": [
+        "会前准备",
+        "会议议题",
+        "商务沟通"
+      ],
+      "emoji": "📋",
+      "color": "#0891B2",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/meeting-prep-agent/meeting-prep-agent-1.0.0.expert",
+          "sha256": "2d1c0d57f937eb24f849915859605ebc9d4bfe02cc04b55cc0e0aeaeaa0b3289",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.specialized-meeting-assistant",
       "slug": "specialized-meeting-assistant",
       "displayName": "会议效率专家",
@@ -2300,6 +2372,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.conservative-risk-analyst",
+      "slug": "conservative-risk-analyst",
+      "displayName": "保守风险分析师",
+      "profession": "投资下行风险分析师",
+      "description": "在风险辩论中优先保护资产，强调潜在下行风险并挑战乐观假设，给出保守视角的风险评估意见。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "风险管理",
+        "下行风险",
+        "资产保护"
+      ],
+      "emoji": "🛡️",
+      "color": "#6B7280",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/conservative-risk-analyst/conservative-risk-analyst-1.0.0.expert",
+          "sha256": "2d0122942d2dab3d4cbaaaf5cfe6be93cf1571f4f8da99b72fcdeb67e9a93525",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.loan-officer-assistant",
       "slug": "loan-officer-assistant",
       "displayName": "信贷经理助手",
@@ -2396,6 +2492,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/livestock-archive-auditor/livestock-archive-auditor-1.1.0.expert",
           "sha256": "1d2400fea4c33e2de664e0d0fb05b2d30cc67661acbcdf0f38347998ae351b15",
           "publishedAt": 1790783546903
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.ai-content-creator-team-lead",
+      "slug": "ai-content-creator-team-lead",
+      "displayName": "内容创作专家团主理人",
+      "profession": "内容创作团队编排官",
+      "description": "统筹内容创作团队，按选题、撰写、审核、分发分派角色，输出可直接发布的多平台内容。",
+      "categoryId": "06-ContentCreative",
+      "tags": [
+        "内容创作",
+        "团队编排",
+        "多平台"
+      ],
+      "emoji": "✨",
+      "color": "#9333EA",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/ai-content-creator-team-lead/ai-content-creator-team-lead-1.0.0.expert",
+          "sha256": "51c9a7d7a246954531e7b66a14c62fdaf03c0636863c21ecae8e335487fd6819",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -2775,31 +2895,6 @@
       ]
     },
     {
-      "packageId": "org.private-advisor.contract-review",
-      "slug": "contract-review-expert",
-      "displayName": "合同审查专家",
-      "profession": "商务合同风险审查顾问",
-      "description": "逐条审查合同条款，识别付款、违约、验收、知识产权等风险，按严重度分级并给出可直接替换的修改措辞。",
-      "categoryId": "11-SecurityCompliance",
-      "tags": [
-        "合同审查",
-        "风险条款",
-        "付款条件",
-        "违约责任"
-      ],
-      "emoji": "📜",
-      "color": "#059669",
-      "latestVersion": "1.0.0",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/contract-review-expert/contract-review-expert-1.0.0.expert",
-          "sha256": "7e77e00937e467135c2e1828869c0ea2bd91781b9cfa658bda4c7b629b6ae4c4",
-          "publishedAt": 1790762108645
-        }
-      ]
-    },
-    {
       "packageId": "org.private-advisor.legal-contract-reviewer",
       "slug": "legal-contract-reviewer",
       "displayName": "合同审查专家",
@@ -2821,6 +2916,31 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/legal-contract-reviewer/legal-contract-reviewer-1.1.0.expert",
           "sha256": "8c78d1e6b938eb281565c5d0d9cb67cace0e732386845544a131af8ababaff59",
           "publishedAt": 1790783546818
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.contract-review",
+      "slug": "contract-review-expert",
+      "displayName": "合同审查专家",
+      "profession": "商务合同风险审查顾问",
+      "description": "逐条审查合同条款，识别付款、违约、验收、知识产权等风险，按严重度分级并给出可直接替换的修改措辞。",
+      "categoryId": "11-SecurityCompliance",
+      "tags": [
+        "合同审查",
+        "风险条款",
+        "付款条件",
+        "违约责任"
+      ],
+      "emoji": "📜",
+      "color": "#059669",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/contract-review-expert/contract-review-expert-1.0.0.expert",
+          "sha256": "7e77e00937e467135c2e1828869c0ea2bd91781b9cfa658bda4c7b629b6ae4c4",
+          "publishedAt": 1790762108645
         }
       ]
     },
@@ -2921,6 +3041,31 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/sales-engineer/sales-engineer-1.1.0.expert",
           "sha256": "e127688ce5b0b8d78a37ff11603952a0f176a2341917c5eaab56f26a4231d9ec",
           "publishedAt": 1790783548438
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.presales-technical-consultant",
+      "slug": "presales-technical-consultant",
+      "displayName": "售前技术顾问",
+      "profession": "售前技术方案专家",
+      "description": "从技术层面拿下订单：技术摸底、演示设计、POC 选型与竞品对标，把产品能力翻译成客户听得懂的业务价值。",
+      "categoryId": "07-SalesCommerce",
+      "tags": [
+        "售前",
+        "技术方案",
+        "POC",
+        "竞品对标"
+      ],
+      "emoji": "🛠️",
+      "color": "#2E5090",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/presales-technical-consultant/presales-technical-consultant-1.0.0.expert",
+          "sha256": "6c0793f1b22a325ce21c1f9eed3087230754383db6178ea45bcbfd715742ea3f",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -3125,6 +3270,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.fundamentals-analyst",
+      "slug": "fundamentals-analyst",
+      "displayName": "基本面分析师",
+      "profession": "财务报表分析专家",
+      "description": "分析财务报表、盈利能力、成长性与估值水平，输出基本面分析信号，为投资决策提供财务依据。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "基本面",
+        "财务报表",
+        "估值"
+      ],
+      "emoji": "📊",
+      "color": "#059669",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/fundamentals-analyst/fundamentals-analyst-1.0.0.expert",
+          "sha256": "2642098528fa6235d8cf1584450925724ed4a2181a1aaf7237c6286d3ccee690",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.support-infrastructure-maintainer",
       "slug": "support-infrastructure-maintainer",
       "displayName": "基础设施运维师",
@@ -3171,6 +3340,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/marketing-growth-hacker/marketing-growth-hacker-1.1.0.expert",
           "sha256": "fe77557b99973adcd831bf8696c8f4407d64eacfa10ac1baa7dead318cca9d9e",
           "publishedAt": 1790783547311
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.bull-researcher",
+      "slug": "bull-researcher",
+      "displayName": "多头研究员",
+      "profession": "投资多头论证分析师",
+      "description": "基于分析师报告构建买入论证，从增长、估值与催化剂角度反驳空头观点，为投资辩论提供做多依据。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "多头论证",
+        "投资辩论",
+        "买入逻辑"
+      ],
+      "emoji": "🐂",
+      "color": "#16A34A",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/bull-researcher/bull-researcher-1.0.0.expert",
+          "sha256": "a174a353c02eb792c03eb4096cfb5246963c90980a8b310a283f24846337284b",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -3750,6 +3943,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.market-analyst",
+      "slug": "market-analyst",
+      "displayName": "市场技术分析师",
+      "profession": "股票技术面分析师",
+      "description": "分析股价走势与技术指标，识别趋势与关键点位，输出市场技术分析报告，为择时提供依据。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "技术分析",
+        "价格走势",
+        "择时"
+      ],
+      "emoji": "📉",
+      "color": "#2563EB",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/market-analyst/market-analyst-1.0.0.expert",
+          "sha256": "4b171b0ebf1ddf35ec7b9cfb17d64404dc7b7b023b37532118040bc7ef2015fd",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.chief-of-staff",
       "slug": "chief-of-staff",
       "displayName": "幕僚长（Chief of Staff）",
@@ -3796,6 +4013,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/paid-media-creative-strategist/paid-media-creative-strategist-1.1.0.expert",
           "sha256": "ad6939db8f34c1fa0f41b600a60edd91dddf256c7bb2a27b5bc062cb88cc14cf",
           "publishedAt": 1790783547866
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.ad-creative-strategist",
+      "slug": "ad-creative-strategist",
+      "displayName": "广告创意策略师",
+      "profession": "付费广告创意策划",
+      "description": "为付费投放产出成体系的创意方向与素材文案，从受众洞察到钩子设计，提升点击率与转化率。",
+      "categoryId": "05-MarketingGrowth",
+      "tags": [
+        "广告创意",
+        "素材文案",
+        "投放"
+      ],
+      "emoji": "✍️",
+      "color": "#EA580C",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/ad-creative-strategist/ad-creative-strategist-1.0.0.expert",
+          "sha256": "1b9dac12648f5e4b34e48fba1b30750bf8b754cfa85afc0977f8c38df70fc954",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -4222,6 +4463,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.growth-analyst",
+      "slug": "growth-analyst",
+      "displayName": "成长分析师",
+      "profession": "成长股研究专家",
+      "description": "分析营收与盈利增长趋势、PEG 比率与利润率扩张，评估企业成长性并输出成长分析信号。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "成长股",
+        "PEG",
+        "盈利增长"
+      ],
+      "emoji": "🚀",
+      "color": "#16A34A",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/growth-analyst/growth-analyst-1.0.0.expert",
+          "sha256": "e5b401547c1906774c46288e832ab8ebe9f867b3f4043df713db8f25a2eba587",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.real-estate-buyer-seller",
       "slug": "real-estate-buyer-seller",
       "displayName": "房地产经纪助手",
@@ -4422,6 +4687,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.hedge-fund-lead",
+      "slug": "hedge-fund-lead",
+      "displayName": "投资大师专家团主理人",
+      "profession": "多智能体投资研究编排官",
+      "description": "收到投资分析请求时组建多位分析师并行研究，再依次交由风控与组合经理决策，不单独回答投资问题。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "投资研究",
+        "多智能体编排",
+        "团队主理人"
+      ],
+      "emoji": "🎯",
+      "color": "#7C3AED",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/hedge-fund-lead/hedge-fund-lead-1.0.0.expert",
+          "sha256": "7ab19a89eea84f5f3940a5df53835f607ccedb6ea54f7ec7f412494e21c9fcf1",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.finance-investment-researcher",
       "slug": "finance-investment-researcher",
       "displayName": "投资研究员",
@@ -4443,6 +4732,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/finance-investment-researcher/finance-investment-researcher-1.1.0.expert",
           "sha256": "50aee416e7bdcebf1a8da44c7ca842b6fdbd3c841bad4c5b84300e7925146ca7",
           "publishedAt": 1790783546231
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.portfolio-manager",
+      "slug": "portfolio-manager",
+      "displayName": "投资组合经理",
+      "profession": "投资决策与组合管理人",
+      "description": "综合各分析师信号与风险约束，做出最终的买入卖出持有决策与具体操作方案，输出最终投资决策。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "组合管理",
+        "投资决策",
+        "仓位"
+      ],
+      "emoji": "💼",
+      "color": "#DC2626",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/portfolio-manager/portfolio-manager-1.0.0.expert",
+          "sha256": "8c94143fd64032dec720a9569a72a7b132e3c0b3f0bf8ef491bb2e88f6f1caed",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -4772,6 +5085,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.data-analytics-reporter",
+      "slug": "data-analytics-reporter",
+      "displayName": "数据分析报告师",
+      "profession": "数据洞察与报告专家",
+      "description": "把原始数据转化为决策语言：指标诊断、KPI 框架设计、数据质量评估与结论清晰的分析报告。",
+      "categoryId": "04-DataAI",
+      "tags": [
+        "数据分析",
+        "KPI",
+        "报告"
+      ],
+      "emoji": "📊",
+      "color": "#0D9488",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/data-analytics-reporter/data-analytics-reporter-1.0.0.expert",
+          "sha256": "aab6f6ef35836e8ecab1d0c391ab247b3ef694cc2920b2cbc0f05ca4726c3a18",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.engineering-data-engineer",
       "slug": "engineering-data-engineer",
       "displayName": "数据工程师",
@@ -5018,6 +5355,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/testing-accessibility-auditor/testing-accessibility-auditor-1.1.0.expert",
           "sha256": "a663f9d954f40ef9384c0169b5a2775da2063d1eb70ce87683aa4a52e546fcd4",
           "publishedAt": 1790783549261
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.morning-briefing",
+      "slug": "morning-briefing",
+      "displayName": "晨间策略简报",
+      "profession": "投资晨报编制师",
+      "description": "开盘前串行完成宏观研究、市场综述、主线识别与仓位建议，输出一份今天怎么看、怎么做的结构化晨报。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "晨报",
+        "宏观",
+        "仓位建议"
+      ],
+      "emoji": "☀️",
+      "color": "#F59E0B",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/morning-briefing/morning-briefing-1.0.0.expert",
+          "sha256": "19ebb9dc47cd15ce66c54c05bed9e2dc8176bf658806d93d01b7507bbf205809",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -5897,6 +6258,30 @@
       ]
     },
     {
+      "packageId": "org.private-advisor.equity-research-expert",
+      "slug": "equity-research-expert",
+      "displayName": "股票研究专家",
+      "profession": "权益类证券研究员",
+      "description": "对个股做基本面与估值双维度研究，梳理盈利驱动、行业地位与估值区间，输出可执行的研究结论。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "股票研究",
+        "估值",
+        "基本面"
+      ],
+      "emoji": "📈",
+      "color": "#1D4ED8",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/equity-research-expert/equity-research-expert-1.0.0.expert",
+          "sha256": "88c5d3d1f249353244cd26df3e371c19dc8cf4a7883b4029ab8fc86478e3a957",
+          "publishedAt": 1791000000000
+        }
+      ]
+    },
+    {
       "packageId": "org.private-advisor.engineering-autonomous-optimization-architect",
       "slug": "engineering-autonomous-optimization-architect",
       "displayName": "自主优化架构师",
@@ -5943,6 +6328,30 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/automation-governance-architect/automation-governance-architect-1.1.0.expert",
           "sha256": "0fd0ea46ec187d99383a714b8c6293afd068d2154d7e0fb8c187c96170791560",
           "publishedAt": 1790783544746
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.charlie-munger",
+      "slug": "charlie-munger",
+      "displayName": "芒格投资智能体",
+      "profession": "价值投资质量评估师",
+      "description": "以理性思维评估企业质量，聚焦护城河强度、管理层质量、可预测性与估值，输出芒格式分析信号。",
+      "categoryId": "08-FinanceInvestment",
+      "tags": [
+        "价值投资",
+        "护城河",
+        "企业质量"
+      ],
+      "emoji": "🧠",
+      "color": "#6D28D9",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/charlie-munger/charlie-munger-1.0.0.expert",
+          "sha256": "cd025f907fb6e7441a4e091c9056a4099f2184f31ff24e26a956b5102a6464ba",
+          "publishedAt": 1791000000000
         }
       ]
     },
@@ -6643,6 +7052,31 @@
           "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/engineering-dingtalk-integration-developer/engineering-dingtalk-integration-developer-1.1.0.expert",
           "sha256": "af16801ee6192cfe60913388a92fab10192af8ef9320197d14485988374e1c81",
           "publishedAt": 1790783545439
+        }
+      ]
+    },
+    {
+      "packageId": "org.private-advisor.sales-coach-pro",
+      "slug": "sales-coach-pro",
+      "displayName": "销售教练",
+      "profession": "销售团队能力教练",
+      "description": "全栈销售教练，覆盖会前准备、交易策略、商业案例、竞品分析与通话复盘，用苏格拉底式提问驱动团队成长。",
+      "categoryId": "07-SalesCommerce",
+      "tags": [
+        "销售教练",
+        "交易策略",
+        "通话复盘",
+        "能力培养"
+      ],
+      "emoji": "🏋️",
+      "color": "#E65100",
+      "latestVersion": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "releaseUrl": "https://github.com/TZW1982/private-advisor-market/releases/download/sales-coach-pro/sales-coach-pro-1.0.0.expert",
+          "sha256": "cf08d62cb99c4c1e6be1b6de3830570f8fb318fdf72592271789106effe6ac19",
+          "publishedAt": 1791000000000
         }
       ]
     },

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.ai-content-creator-team-lead",
+  "slug": "ai-content-creator-team-lead",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "内容创作专家团主理人",
+  "categoryId": "06-ContentCreative",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "627124209870b008ffec0622f00ee0ddef138ba9823c98dee441a83d23d03ea5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "cec0d679aca86797b63cc702150cd8c08c8f627b03cf515ee48b82955ce86ac6"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "d963db77e889f6270f7b00921e07fd5ace453ffcb551c342c4d82d991a1a2742"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "fd70085c538098b3a264c33ce4254955c9cf3a72a592b4fd6b5e0a1c65989b56"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

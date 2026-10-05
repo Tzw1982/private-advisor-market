@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.growth-analyst",
+  "slug": "growth-analyst",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "成长分析师",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "55ca6b8202085c653312a52ef1a5f9140de94706ae40b2ed16a82a9484b366e5",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5a9482c7700a2d3da5c53861d6a13853503253d80fa147c3ab9e998436ca5fe5"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "6319748075c8e41b802fdabfe8ff3f914e25e5e37cad5f0a5e3b8678352d1f6e"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "cd0c5d67202e47a2d013427f0388338a8d364c3cc0bbb907b8d60805aae0a336"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

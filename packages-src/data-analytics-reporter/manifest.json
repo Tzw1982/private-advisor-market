@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.data-analytics-reporter",
+  "slug": "data-analytics-reporter",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "数据分析报告师",
+  "categoryId": "04-DataAI",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "8d8fea644f61dc4b258ecdbdab073d90a806694a32619499371533581c442b14",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "664f1ec1abd818a2dce0d78e10fc9d3008c0cfc8c0128d6099ec6c7988ea3112"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "fcb7d369aa54b279c15bfa7c5623ceb14f241bb716006efb024caf91d3ad3eaa"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "12400eb5401dace1d1697c541e4d135953e68f35f10736b7968ef821f16aa4f7"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

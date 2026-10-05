@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.presales-technical-consultant",
+  "slug": "presales-technical-consultant",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "售前技术顾问",
+  "categoryId": "07-SalesCommerce",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "970d7ce231e5ba78c52720ef8cc6cb58ab98d55755aa2f77844d8fa45c009d59",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "93c3e68925c6b5c27540275ffb197b0169d2f1b5cd3f82f57f0224f99592e3a5"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "a4d8d378d96c465197d97170d536b4974218e5a29f282cea43b253ddc744f8cf"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "d05f36b27ce20b83f284e8a9b71a2cca2df4aa5e0752ab570cfa2384762326bf"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

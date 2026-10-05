@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.meeting-prep-agent",
+  "slug": "meeting-prep-agent",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "会前准备助理",
+  "categoryId": "09-OperationsHR",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "f4d1fa4092e211a6bb2b6af142d7c80d9713b77a484945120de3aa5316f176a8",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "b0a5de48df5ff99eee54326968f625e7fc6cacace9351b35dc7d3bb0be86e2c0"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "829e84da6c8ee7749cebf1b6c143e507b4fd0e606d118bee32dc3df09e9486b1"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "5c8108fef9dc3c4e15f0ab63d4d2ef7dd208e2c8ebc9fa036bf2f5fb67d192d0"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

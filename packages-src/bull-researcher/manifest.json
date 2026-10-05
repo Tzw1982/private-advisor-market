@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.bull-researcher",
+  "slug": "bull-researcher",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "多头研究员",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "ba54050ba9d346b26d807050f2cd933d0fb5815a7e6b600f2ab86748e668ba78",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d5ef2e4a953dc9afa450d80500950593a06c257e3655a5bf20604dccd40dc649"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "5f97027d6fd533288af2d8195a8009deed42ced574924a2f969008432c648875"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "7eb92dcb10f7f83198db22fea54e27b3e7d251de2dc301ba1637a88320f7297b"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

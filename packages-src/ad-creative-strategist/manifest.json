@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.ad-creative-strategist",
+  "slug": "ad-creative-strategist",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "广告创意策略师",
+  "categoryId": "05-MarketingGrowth",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "468718fd7d6956fd357b743b5ab4e30a45a6b34f77eab0c618c64a736c4857c1",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d6ba95755e2d7c044f89f9965a54ac5cd4ecb295deed97ab6130ebf821ce75a6"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "a91d0943a9b99437a5c8277bd75b36812c268e3ba2fa8728a76857d6dffb5d53"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "ea402bc4655bfe12a8c931e09db7fd10d57bd0ac894fff6d5a39ce422f2e9f46"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.conservative-risk-analyst",
+  "slug": "conservative-risk-analyst",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "保守风险分析师",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "64b3f9ffb02cce8ee20d0c2af0cb9f7e40f23db33840601f537f873a258d5a20",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "7aecff370625076b1d83c90b78758653d98997ef655b3f9d4b457899f88d3843"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "b2675bf8e33dc296bbc626a379ddb8c31ca64ff98f902cad9ef8a0a3ebf76163"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "37b9ffd116f793ea3dbf728fbca10af66f9b3fea6b3fa3afb2a9e1880d9047fa"
+    }
+  ],
+  "publishedAt": 1791000000000
+}

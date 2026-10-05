@@ -13,19 +13,19 @@
     "shell": false,
     "tools": false
   },
-  "sha256": "64b3f9ffb02cce8ee20d0c2af0cb9f7e40f23db33840601f537f873a258d5a20",
+  "sha256": "2d0122942d2dab3d4cbaaaf5cfe6be93cf1571f4f8da99b72fcdeb67e9a93525",
   "files": [
     {
       "path": "README.md",
-      "sha256": "7aecff370625076b1d83c90b78758653d98997ef655b3f9d4b457899f88d3843"
+      "sha256": "bc27eae9cc34d287de5dcbdbd227ce2925ac39ddfa9ca2fefc64506c231e0a58"
     },
     {
       "path": "agents/main.md",
-      "sha256": "b2675bf8e33dc296bbc626a379ddb8c31ca64ff98f902cad9ef8a0a3ebf76163"
+      "sha256": "ab40b06e868e9ea912ecd87963cb8e834083249152fa85b2b3d83bde184f0b17"
     },
     {
       "path": "expert.json",
-      "sha256": "37b9ffd116f793ea3dbf728fbca10af66f9b3fea6b3fa3afb2a9e1880d9047fa"
+      "sha256": "e8795fcb7d89ae988d074401d6e2f8cb7545b35a40855be430780f48d74580eb"
     }
   ],
   "publishedAt": 1791000000000

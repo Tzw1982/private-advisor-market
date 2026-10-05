@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "packageId": "org.private-advisor.morning-briefing",
+  "slug": "morning-briefing",
+  "version": "1.0.0",
+  "appVersion": ">=1.3.0",
+  "displayName": "晨间策略简报",
+  "categoryId": "08-FinanceInvestment",
+  "entry": "agents/main.md",
+  "capabilities": {
+    "network": false,
+    "filesystem": false,
+    "shell": false,
+    "tools": false
+  },
+  "sha256": "4bc8fc5431119253f0aca6726b2a2d73a344ffdd122d63354890d95d6a57706a",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8b14f36b898c8708e847ae07e4362b6e9ce60a062ee0b883ec8b4ebcbf495459"
+    },
+    {
+      "path": "agents/main.md",
+      "sha256": "43857480c1b1e7479504b1295f681d33f2fa0cd993618167a24f1224995043e8"
+    },
+    {
+      "path": "expert.json",
+      "sha256": "bc1e698603584371f8dee4eba1836e8d1d3e72ad0e1de5ec09fbd8947c652464"
+    }
+  ],
+  "publishedAt": 1791000000000
+}
